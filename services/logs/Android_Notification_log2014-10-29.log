@@ -1,0 +1,24 @@
+---
+msg: 'Hey  , shilky dhanote has requested you to join the group group1'
+title: Group Invitation
+type: group_invitation
+id: 44
+---
+- '{"multicast_id":7145485359944888932,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: 'Hey  , shilky dhanote has requested you to join the group group1'
+title: Group Invitation
+type: group_invitation
+id: 45
+---
+- '{"multicast_id":8818140479018849534,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Mathilde Forslund, Wye Yee Yong (WV)
+  has requested you to join the group WVI
+  group
+title: Group Invitation
+type: group_invitation
+id: 34
+---
+- '{"multicast_id":5474444625949174491,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'

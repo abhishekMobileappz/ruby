@@ -1,0 +1,59 @@
+---
+msg: >
+  Hey Wye Yee Tester8 Yong, GW Teoh has
+  requested you to join the group Gek We
+  group
+title: Group Invitation
+type: group_invitation
+id: 38
+---
+- '{"multicast_id":8890492044942429503,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Tester8 Yong, GW Teoh has requested
+  you to join the group Gek We group
+title: Group Invitation
+type: group_invitation
+id: 38
+---
+- '{"multicast_id":7871520098026453573,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1414634222044074%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey super man, Tester3 Yong has
+  requested you to join the group Tester3
+  OG grup
+title: Group Invitation
+type: group_invitation
+id: 49
+---
+- '{"multicast_id":8825964776454483637,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey seira ooi, Tester3 Yong has
+  requested you to join the group Tester3
+  OG grup
+title: Group Invitation
+type: group_invitation
+id: 49
+---
+- '{"multicast_id":8319795579204149730,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1414670283113544%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey Wye Yee Yong (WV), Mathilde Forslund
+  has requested you to join the group
+  Mathilde WVI grup
+title: Group Invitation
+type: group_invitation
+id: 50
+---
+- '{"multicast_id":4797022444916093491,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1414675982834398%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey Ellen Chan, Mathilde Forslund has
+  requested you to join the group Mathilde
+  WVI grup
+title: Group Invitation
+type: group_invitation
+id: 50
+---
+- '{"multicast_id":6984108150897187083,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'

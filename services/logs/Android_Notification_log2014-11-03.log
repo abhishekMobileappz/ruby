@@ -1,0 +1,326 @@
+---
+msg: >
+  You have missed goal by -714.033 last
+  week. Please donate USD 0 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":9044767175036526994,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  You have missed goal by 1483.8 last
+  week. Please donate USD 0.081 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":7633973308348597953,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  You have missed goal by 2666.492 last
+  week. Please donate USD 1.33403 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":6159752168322148513,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  You have missed goal by -1295.78 last
+  week. Please donate USD 0 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":6506456731104996572,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  You have missed goal by 1500 last week.
+  Please donate USD 0 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":5579527162044553407,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  You have missed goal by 3000 last week.
+  Please donate USD 0 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":7332748036770449641,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  You have missed goal by 3000 last week.
+  Please donate USD 0 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":4898448084192595210,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+id: 0
+---
+- '{"multicast_id":4965243127665670836,"success":0,"failure":2,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+id: 0
+---
+- '{"multicast_id":4862375359891714963,"success":1,"failure":2,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803264315%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+id: 0
+---
+- '{"multicast_id":5313658072060728328,"success":1,"failure":3,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803358144%38894435f9fd7ecd"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+id: 0
+---
+- '{"multicast_id":5311513327722599384,"success":1,"failure":4,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803432831%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+id: 0
+---
+- '{"multicast_id":8878087846619940847,"success":2,"failure":4,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803496087%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803497633%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+id: 0
+---
+- '{"multicast_id":9136544000386770761,"success":2,"failure":5,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803559779%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803559874%38894435f9fd7ecd"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+id: 0
+---
+- '{"multicast_id":6356408956837903336,"success":2,"failure":6,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803644577%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803643663%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+id: 0
+---
+- '{"multicast_id":8502238709022105475,"success":2,"failure":7,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803707980%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803707978%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+id: 0
+---
+- '{"multicast_id":6799858274187014772,"success":2,"failure":8,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803807185%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803806852%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+id: 0
+---
+- '{"multicast_id":7246389784944619313,"success":2,"failure":9,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803872521%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803872016%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+id: 0
+---
+- '{"multicast_id":6583263184823210119,"success":2,"failure":10,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803942723%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803942721%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+id: 0
+---
+- '{"multicast_id":7055299044223182834,"success":3,"failure":10,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804001639%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804000898%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804000900%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+id: 0
+---
+- '{"multicast_id":7424544184988303960,"success":3,"failure":11,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804071515%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804070582%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804070324%38894435f9fd7ecd"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+id: 0
+---
+- '{"multicast_id":6245354618166358899,"success":3,"failure":12,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804213463%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804213382%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804215437%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+id: 0
+---
+- '{"multicast_id":8441650851571064733,"success":4,"failure":12,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972805287766%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972805287764%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972805287860%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972805287857%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+id: 0
+---
+- '{"multicast_id":7084749969234825534,"success":4,"failure":13,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972806355520%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972806355908%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972806355937%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972806355826%38894435f9fd7ecd"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+id: 0
+---
+- '{"multicast_id":6121525931720183473,"success":4,"failure":14,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972807421604%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972807421236%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972807421456%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972807421877%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+id: 0
+---
+- '{"multicast_id":6946097745880901133,"success":4,"failure":15,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972808476859%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972808475385%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972808476074%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972808475948%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+id: 0
+---
+- '{"multicast_id":8560592255912622965,"success":4,"failure":16,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972809542940%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972809541497%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972809542957%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972809542267%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+id: 0
+---
+- '{"multicast_id":6196376426716343323,"success":4,"failure":17,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972810615960%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972810615664%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972810615964%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972810615962%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  You have missed goal by 29.3 last week.
+  Please donate USD 0.3516 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":8367178135305228835,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1414972862103109%38894435f9fd7ecd"}]}'
+---
+msg: >
+  You have missed goal by 10 last week.
+  Please donate USD 0 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":6268860601221395686,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+---
+msg: >
+  You have missed goal by 2903.42 last
+  week. Please donate USD 0.9658 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":5280172454608675946,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  You have missed goal by -336.1 last
+  week. Please donate USD 18.361 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":5105048798834793387,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  You have missed goal by 1000 last week.
+  Please donate USD 0 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":6926212350299019701,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  You have missed goal by -384 last week.
+  Please donate USD 67.68 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":6080886498750307720,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1414972862370101%38894435f9fd7ecd"}]}'
+---
+msg: >
+  You have missed goal by 1161.26 last
+  week. Please donate USD 23.2252 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":8651764567583093329,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1414995002085856%38894435f9fd7ecd"}]}'

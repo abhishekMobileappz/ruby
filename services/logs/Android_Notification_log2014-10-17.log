@@ -1,0 +1,9 @@
+---
+msg: >
+  Hey abhishek shrivastava, shilky dhanote
+  has requested you to join the group
+  Group 2
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":4737847812510823984,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413534781979541%38894435f9fd7ecd"}]}'

@@ -1,0 +1,446 @@
+---
+msg: >
+  You have missed goal by 91 last week.
+  Please donate USD 0.09 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":7963716401002189370,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413763262727108%38894435f9fd7ecd"}]}'
+---
+msg: >
+  You have missed goal by 2668.86 last
+  week. Please donate USD 116.557 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":8074936307062285810,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763262863609%38894435f9fd7ecd"}]}'
+---
+msg: >
+  You have missed goal by -53.18 last
+  week. Please donate USD 0 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":5142613546483122486,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763263022100%38894435f9fd7ecd"}]}'
+---
+msg: >
+  You have missed goal by -2666.52 last
+  week. Please donate USD 0 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":5335106803161049498,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413763263129042%38894435f9fd7ecd"}]}'
+---
+msg: >
+  You have missed goal by -190.16 last
+  week. Please donate USD 0 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":8250078537554330731,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413763263252594%38894435f9fd7ecd"}]}'
+---
+msg: >
+  You have missed goal by -16.6 last week.
+  Please donate USD 0 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":6267351266185322262,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413763263373474%38894435f9fd7ecd"}]}'
+---
+msg: >
+  You have missed goal by 472.27 last
+  week. Please donate USD 0.5546 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":4627429837861369383,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413763265060041%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+id: 0
+---
+- '{"multicast_id":7567469879311733537,"success":2,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413763265192725%38894435f9fd7ecd"},{"message_id":"0:1413763265191366%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+id: 0
+---
+- '{"multicast_id":5712726048903143788,"success":3,"failure":0,"canonical_ids":1,"results":[{"message_id":"0:1413763265340985%38894435f9fd7ecd"},{"message_id":"0:1413763265340934%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763265340983%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+id: 0
+---
+- '{"multicast_id":6688236130883526674,"success":4,"failure":0,"canonical_ids":2,"results":[{"message_id":"0:1413763265485943%38894435f9fd7ecd"},{"message_id":"0:1413763265484003%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763265484973%38894435f9fd7ecd"},{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763265485945%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+id: 0
+---
+- '{"multicast_id":5552578839498911113,"success":5,"failure":0,"canonical_ids":2,"results":[{"message_id":"0:1413763266611973%38894435f9fd7ecd"},{"message_id":"0:1413763266611463%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763266611672%38894435f9fd7ecd"},{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763266612342%38894435f9fd7ecd"},{"message_id":"0:1413763266611959%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+id: 0
+---
+- '{"multicast_id":9100082802168148634,"success":6,"failure":0,"canonical_ids":2,"results":[{"message_id":"0:1413763267745372%38894435f9fd7ecd"},{"message_id":"0:1413763267744035%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763267745370%38894435f9fd7ecd"},{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763267745999%38894435f9fd7ecd"},{"message_id":"0:1413763267745997%38894435f9fd7ecd"},{"message_id":"0:1413763267746429%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+id: 0
+---
+- '{"multicast_id":5782467725037949271,"success":7,"failure":0,"canonical_ids":2,"results":[{"message_id":"0:1413763268888473%38894435f9fd7ecd"},{"message_id":"0:1413763268887857%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763268887874%38894435f9fd7ecd"},{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763268889077%38894435f9fd7ecd"},{"message_id":"0:1413763268887376%38894435f9fd7ecd"},{"message_id":"0:1413763268891150%38894435f9fd7ecd"},{"message_id":"0:1413763268887238%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+id: 0
+---
+- '{"multicast_id":5979676531283933024,"success":8,"failure":0,"canonical_ids":2,"results":[{"message_id":"0:1413763270044854%38894435f9fd7ecd"},{"message_id":"0:1413763270043018%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763270044850%38894435f9fd7ecd"},{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763270045007%38894435f9fd7ecd"},{"message_id":"0:1413763270044849%38894435f9fd7ecd"},{"message_id":"0:1413763270044039%38894435f9fd7ecd"},{"message_id":"0:1413763270044848%38894435f9fd7ecd"},{"message_id":"0:1413763270044856%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+id: 0
+---
+- '{"multicast_id":7395685145489038439,"success":9,"failure":0,"canonical_ids":2,"results":[{"message_id":"0:1413763271195989%38894435f9fd7ecd"},{"message_id":"0:1413763271195978%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763271195985%38894435f9fd7ecd"},{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763271195982%38894435f9fd7ecd"},{"message_id":"0:1413763271195987%38894435f9fd7ecd"},{"message_id":"0:1413763271195979%38894435f9fd7ecd"},{"message_id":"0:1413763271195992%38894435f9fd7ecd"},{"message_id":"0:1413763271195994%38894435f9fd7ecd"},{"message_id":"0:1413763271195983%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+id: 0
+---
+- '{"multicast_id":8186829701573735351,"success":10,"failure":0,"canonical_ids":3,"results":[{"message_id":"0:1413763272321860%38894435f9fd7ecd"},{"message_id":"0:1413763272320028%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763272320976%38894435f9fd7ecd"},{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763272321858%38894435f9fd7ecd"},{"message_id":"0:1413763272320980%38894435f9fd7ecd"},{"message_id":"0:1413763272321862%38894435f9fd7ecd"},{"message_id":"0:1413763272320982%38894435f9fd7ecd"},{"message_id":"0:1413763272321856%38894435f9fd7ecd"},{"message_id":"0:1413763272320974%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763272320978%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+id: 0
+---
+- '{"multicast_id":6921156346572274788,"success":11,"failure":0,"canonical_ids":4,"results":[{"message_id":"0:1413763273477979%38894435f9fd7ecd"},{"message_id":"0:1413763273476381%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763273477364%38894435f9fd7ecd"},{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763273477891%38894435f9fd7ecd"},{"message_id":"0:1413763273477893%38894435f9fd7ecd"},{"message_id":"0:1413763273476379%38894435f9fd7ecd"},{"message_id":"0:1413763273476603%38894435f9fd7ecd"},{"message_id":"0:1413763273477981%38894435f9fd7ecd"},{"message_id":"0:1413763273476605%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763273477983%38894435f9fd7ecd"},{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763273477977%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+id: 0
+---
+- '{"multicast_id":6675215319224933545,"success":12,"failure":0,"canonical_ids":4,"results":[{"message_id":"0:1413763274606928%38894435f9fd7ecd"},{"message_id":"0:1413763274606469%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763274606600%38894435f9fd7ecd"},{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763274607830%38894435f9fd7ecd"},{"message_id":"0:1413763274606598%38894435f9fd7ecd"},{"message_id":"0:1413763274607832%38894435f9fd7ecd"},{"message_id":"0:1413763274606926%38894435f9fd7ecd"},{"message_id":"0:1413763274607875%38894435f9fd7ecd"},{"message_id":"0:1413763274607144%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763274607828%38894435f9fd7ecd"},{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763274607873%38894435f9fd7ecd"},{"message_id":"0:1413763274607826%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+id: 0
+---
+- '{"multicast_id":7893222338977151403,"success":13,"failure":0,"canonical_ids":4,"results":[{"message_id":"0:1413763275743866%38894435f9fd7ecd"},{"message_id":"0:1413763275742564%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763275742566%38894435f9fd7ecd"},{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763275742958%38894435f9fd7ecd"},{"message_id":"0:1413763275742951%38894435f9fd7ecd"},{"message_id":"0:1413763275742952%38894435f9fd7ecd"},{"message_id":"0:1413763275742957%38894435f9fd7ecd"},{"message_id":"0:1413763275743868%38894435f9fd7ecd"},{"message_id":"0:1413763275742955%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763275743569%38894435f9fd7ecd"},{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763275743870%38894435f9fd7ecd"},{"message_id":"0:1413763275743864%38894435f9fd7ecd"},{"message_id":"0:1413763275743872%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+id: 0
+---
+- '{"multicast_id":7133921291934086959,"success":14,"failure":0,"canonical_ids":4,"results":[{"message_id":"0:1413763276887608%38894435f9fd7ecd"},{"message_id":"0:1413763276886985%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763276886987%38894435f9fd7ecd"},{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763276887886%38894435f9fd7ecd"},{"message_id":"0:1413763276886989%38894435f9fd7ecd"},{"message_id":"0:1413763276887888%38894435f9fd7ecd"},{"message_id":"0:1413763276886983%38894435f9fd7ecd"},{"message_id":"0:1413763276887610%38894435f9fd7ecd"},{"message_id":"0:1413763276886992%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763276886991%38894435f9fd7ecd"},{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763276888121%38894435f9fd7ecd"},{"message_id":"0:1413763276887677%38894435f9fd7ecd"},{"message_id":"0:1413763276889239%38894435f9fd7ecd"},{"message_id":"0:1413763276886995%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+id: 0
+---
+- '{"multicast_id":7246562374881096812,"success":15,"failure":0,"canonical_ids":4,"results":[{"message_id":"0:1413763278016962%38894435f9fd7ecd"},{"message_id":"0:1413763278015366%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763278016810%38894435f9fd7ecd"},{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763278016808%38894435f9fd7ecd"},{"message_id":"0:1413763278016757%38894435f9fd7ecd"},{"message_id":"0:1413763278017148%38894435f9fd7ecd"},{"message_id":"0:1413763278016952%38894435f9fd7ecd"},{"message_id":"0:1413763278016964%38894435f9fd7ecd"},{"message_id":"0:1413763278016956%38894435f9fd7ecd"},{"registration_id":"APA91bH03y69Z215jXYRnAXmb0_77_pFyAC5YjV4KpPxgX7kw2ScLqUmby_1ojc-6sL5oZLUAT_lEAyvOV8vZ8CuInmO6dskUcwtnZRuoz8xxGLyKahCv7wLbX1TMbXg_dtmyUEzCnvcY_0fo9Oek68ZkhCdozGplw","message_id":"0:1413763278016958%38894435f9fd7ecd"},{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413763278016960%38894435f9fd7ecd"},{"message_id":"0:1413763278016950%38894435f9fd7ecd"},{"message_id":"0:1413763278019232%38894435f9fd7ecd"},{"message_id":"0:1413763278016954%38894435f9fd7ecd"},{"message_id":"0:1413763278016966%38894435f9fd7ecd"}]}'
+---
+msg: >
+  You have missed goal by -1478.85 last
+  week. Please donate USD 0 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":6451859322604264517,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413771182532552%38894435f9fd7ecd"}]}'
+---
+msg: >
+  You have missed goal by 6.04 last week.
+  Please donate USD 0.03168 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":6651530721546971399,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413771542239741%38894435f9fd7ecd"}]}'
+---
+msg: >
+  You have missed goal by -955.84 last
+  week. Please donate USD 0 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":7769716600623371265,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413784922383369%38894435f9fd7ecd"}]}'
+---
+msg: >
+  You have missed goal by 787.4 last week.
+  Please donate USD 1.575 now
+title: Weekly Target
+type: weekly_target
+id: 0
+---
+- '{"multicast_id":7230967460958570323,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413788522351366%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":6421246495372185363,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413801842582906%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":8663965753778596581,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413801842704709%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":6723480333793071094,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413801842851473%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":5380729924186437718,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413801842974696%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":8422279772570487843,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413801843104065%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":5809362889196733082,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413803402364632%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":8167396775767545255,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413804902784620%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":5561288060333229963,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413804902924746%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":5951941648830366125,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413804903048368%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":7931266413224384643,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413805202364981%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":7064370030416080174,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413805262986472%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":7086395947804126009,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413805622906738%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":6093247217236414240,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413805682826295%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":6857063433609133681,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413808802761493%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":5160984343032863247,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413814562822275%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":7197671696128433324,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413815043136962%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":8290084055655660437,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413815702546768%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":7754049917003469489,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413816182788619%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":7177509464244969909,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413816722812247%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":6875792635575612135,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413817502898568%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":6885086472827576198,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'

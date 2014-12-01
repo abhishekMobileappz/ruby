@@ -1,0 +1,20 @@
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  groupabhi
+title: Group Invitation
+type: group_invitation
+id: 30
+---
+- '{"multicast_id":5116683917608543479,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey mobileappz test, Christopher Chew
+  has requested you to join the group One
+  Goal test group
+title: Group Invitation
+type: group_invitation
+id: 33
+---
+- '{"multicast_id":6516309589634792573,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'

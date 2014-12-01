@@ -1,0 +1,2244 @@
+<?php  if (!defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+DEBUG - Wed Oct 1 14:52:02 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 14:52:02 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 14:52:04 UTC 2014 --> env::connect_db <==> 1
+INFO  - Wed Oct 1 14:52:04 UTC 2014 --> ANDROID::Push Insertion Start at:: {1412175124.355452}
+DEBUG - Wed Oct 1 14:52:04 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `vsure_cts`.`ava_cron_master` '
+
+DEBUG - Wed Oct 1 14:52:04 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_crn_bonus_tbl where cronFlag=0 '
+
+DEBUG - Wed Oct 1 14:52:05 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='182' '
+
+DEBUG - Wed Oct 1 14:52:05 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+DEBUG - Wed Oct 1 14:52:05 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+INFO  - Wed Oct 1 14:52:05 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 3
+
+INFO  - Wed Oct 1 14:52:05 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":7271283580171502383,"success":1,"failure":2,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412175126470022%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}
+
+INFO  - Wed Oct 1 14:52:07 UTC 2014 --> ANDROID::PUSH Start at:: {02:52:07}
+INFO  - Wed Oct 1 14:52:07 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000010 }
+
+INFO  - Wed Oct 1 14:52:07 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:52:02 }<br/>
+INFO  - Wed Oct 1 14:52:07 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 4.891691 }<br/>
+DEBUG - Wed Oct 1 14:53:45 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 14:53:45 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 14:53:46 UTC 2014 --> env::connect_db <==> 1
+INFO  - Wed Oct 1 14:53:46 UTC 2014 --> ANDROID::Push Insertion Start at:: {1412175226.294030}
+DEBUG - Wed Oct 1 14:53:46 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `vsure_cts`.`ava_cron_master` '
+
+DEBUG - Wed Oct 1 14:53:46 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_crn_bonus_tbl where cronFlag=0 '
+
+DEBUG - Wed Oct 1 14:53:47 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='182' '
+
+DEBUG - Wed Oct 1 14:53:47 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+DEBUG - Wed Oct 1 14:53:47 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+INFO  - Wed Oct 1 14:53:47 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 3
+
+INFO  - Wed Oct 1 14:53:47 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":7712550409552270715,"success":1,"failure":2,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412175228387421%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}
+
+INFO  - Wed Oct 1 14:53:49 UTC 2014 --> ANDROID::PUSH Start at:: {02:53:49}
+INFO  - Wed Oct 1 14:53:49 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000010 }
+
+INFO  - Wed Oct 1 14:53:49 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:53:45 }<br/>
+INFO  - Wed Oct 1 14:53:49 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 4.120394 }<br/>
+DEBUG - Wed Oct 1 14:54:54 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 14:54:54 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 14:54:55 UTC 2014 --> env::connect_db <==> 1
+INFO  - Wed Oct 1 14:54:55 UTC 2014 --> ANDROID::Push Insertion Start at:: {1412175295.203446}
+DEBUG - Wed Oct 1 14:54:55 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `vsure_cts`.`ava_cron_master` '
+
+DEBUG - Wed Oct 1 14:54:55 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_crn_bonus_tbl where cronFlag=0 '
+
+DEBUG - Wed Oct 1 14:54:55 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='182' '
+
+DEBUG - Wed Oct 1 14:54:56 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+DEBUG - Wed Oct 1 14:54:56 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+INFO  - Wed Oct 1 14:54:56 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 3
+
+INFO  - Wed Oct 1 14:54:56 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":8135220333361087060,"success":1,"failure":2,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412175297218448%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}
+
+INFO  - Wed Oct 1 14:54:58 UTC 2014 --> ANDROID::PUSH Start at:: {02:54:58}
+INFO  - Wed Oct 1 14:54:58 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000011 }
+
+INFO  - Wed Oct 1 14:54:58 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:54:54 }<br/>
+INFO  - Wed Oct 1 14:54:58 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 4.033836 }<br/>
+DEBUG - Wed Oct 1 14:56:31 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 14:56:31 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 14:56:32 UTC 2014 --> env::connect_db <==> 1
+INFO  - Wed Oct 1 14:56:32 UTC 2014 --> ANDROID::Push Insertion Start at:: {1412175392.722477}
+DEBUG - Wed Oct 1 14:56:33 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `vsure_cts`.`ava_cron_master` '
+
+DEBUG - Wed Oct 1 14:56:33 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_crn_bonus_tbl where cronFlag=0 '
+
+DEBUG - Wed Oct 1 14:56:33 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='182' '
+
+DEBUG - Wed Oct 1 14:56:33 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+DEBUG - Wed Oct 1 14:56:33 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+INFO  - Wed Oct 1 14:56:33 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 3
+
+INFO  - Wed Oct 1 14:56:33 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":7271993563366114154,"success":1,"failure":2,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412175394751924%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}
+
+INFO  - Wed Oct 1 14:56:35 UTC 2014 --> ANDROID::PUSH Start at:: {02:56:35}
+INFO  - Wed Oct 1 14:56:35 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000010 }
+
+INFO  - Wed Oct 1 14:56:35 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:56:31 }<br/>
+INFO  - Wed Oct 1 14:56:35 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 4.041857 }<br/>
+DEBUG - Wed Oct 1 15:16:46 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:16:46 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:16:47 UTC 2014 --> env::connect_db <==> 1
+INFO  - Wed Oct 1 15:16:47 UTC 2014 --> ANDROID::Push Insertion Start at:: {1412176607.308965}
+DEBUG - Wed Oct 1 15:16:47 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `vsure_cts`.`ava_cron_master` '
+
+DEBUG - Wed Oct 1 15:16:47 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_crn_bonus_tbl where cronFlag=0 '
+
+DEBUG - Wed Oct 1 15:16:48 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='182' '
+
+DEBUG - Wed Oct 1 15:16:48 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+DEBUG - Wed Oct 1 15:16:48 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+INFO  - Wed Oct 1 15:16:48 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 3
+
+INFO  - Wed Oct 1 15:16:48 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":5517763962912132068,"success":1,"failure":2,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412176609470604%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}
+
+INFO  - Wed Oct 1 15:16:50 UTC 2014 --> ANDROID::PUSH Start at:: {03:16:50}
+INFO  - Wed Oct 1 15:16:50 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000010 }
+
+INFO  - Wed Oct 1 15:16:50 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:16:46 }<br/>
+INFO  - Wed Oct 1 15:16:50 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 4.157051 }<br/>
+DEBUG - Wed Oct 1 15:25:38 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:25:38 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:25:38 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:25:38 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:25:38 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:25:38 UTC 2014 --> Action Set:=>abc
+DEBUG - Wed Oct 1 15:25:38 UTC 2014 --> Action Method Set:=>index
+DEBUG - Wed Oct 1 15:25:38 UTC 2014 --> abc:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:25:38 UTC 2014 --> Object of Class abc created successfully
+DEBUG - Wed Oct 1 15:26:00 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:26:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:26:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:26:00 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:26:00 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:26:00 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 15:26:00 UTC 2014 --> Action Method Set:=>login
+DEBUG - Wed Oct 1 15:26:01 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 15:26:01 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:26:01 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 15:27:12 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:27:12 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:27:12 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:27:12 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:27:12 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:27:12 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 15:27:12 UTC 2014 --> Action Method Set:=>getCMS
+DEBUG - Wed Oct 1 15:27:13 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 15:27:13 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:27:13 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 15:27:29 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:27:29 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:27:29 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:27:29 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:27:29 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:27:29 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 15:27:29 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 15:27:30 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 15:27:30 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:27:30 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 15:29:16 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:29:16 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:29:16 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:29:16 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:29:16 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:29:16 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 15:29:16 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 15:29:17 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 15:29:17 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:29:17 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 15:29:21 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:29:21 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:29:21 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:29:21 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:29:21 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:29:21 UTC 2014 --> Action Set:=>abc
+DEBUG - Wed Oct 1 15:29:21 UTC 2014 --> Action Method Set:=>index
+DEBUG - Wed Oct 1 15:29:21 UTC 2014 --> abc:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:29:21 UTC 2014 --> Object of Class abc created successfully
+DEBUG - Wed Oct 1 15:29:21 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:29:21 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:29:21 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:29:21 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:29:21 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:29:21 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 15:29:21 UTC 2014 --> Action Method Set:=>getCMS
+DEBUG - Wed Oct 1 15:29:22 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 15:29:22 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:29:22 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 15:31:10 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:31:10 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:31:10 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:31:10 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:31:10 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:31:10 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 15:31:10 UTC 2014 --> Action Method Set:=>getCMS
+DEBUG - Wed Oct 1 15:31:11 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 15:31:11 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:31:11 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 15:31:11 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_cms` WHERE `cms_code`='abt_faq'  '
+
+DEBUG - Wed Oct 1 15:34:59 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:34:59 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:34:59 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:34:59 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:34:59 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:34:59 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 15:34:59 UTC 2014 --> Action Method Set:=>login
+DEBUG - Wed Oct 1 15:35:00 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 15:35:00 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:35:00 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 15:35:23 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:35:23 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:35:23 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:35:23 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:35:23 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:35:23 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 15:35:23 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 15:35:24 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 15:35:24 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:35:24 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 15:35:30 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:35:30 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:35:30 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:35:30 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:35:30 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:35:30 UTC 2014 --> Action Set:=>abc
+DEBUG - Wed Oct 1 15:35:30 UTC 2014 --> Action Method Set:=>index
+DEBUG - Wed Oct 1 15:35:30 UTC 2014 --> abc:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:35:30 UTC 2014 --> Object of Class abc created successfully
+DEBUG - Wed Oct 1 15:36:05 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:36:05 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:36:05 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:36:05 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:36:05 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:36:05 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 15:36:05 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 15:36:06 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 15:36:06 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:36:06 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 15:36:06 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 15:39:58 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:39:58 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:39:58 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:39:58 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:39:58 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:39:58 UTC 2014 --> Action Set:=>abc
+DEBUG - Wed Oct 1 15:39:58 UTC 2014 --> Action Method Set:=>index
+DEBUG - Wed Oct 1 15:39:58 UTC 2014 --> abc:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:39:58 UTC 2014 --> Object of Class abc created successfully
+DEBUG - Wed Oct 1 15:40:30 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:40:30 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:40:30 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:40:30 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:40:30 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:40:30 UTC 2014 --> Action Set:=>abc
+DEBUG - Wed Oct 1 15:40:30 UTC 2014 --> Action Method Set:=>index
+DEBUG - Wed Oct 1 15:40:30 UTC 2014 --> abc:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:40:30 UTC 2014 --> Object of Class abc created successfully
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> Action Set:=>abc
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> Action Method Set:=>index
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> abc:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> Object of Class abc created successfully
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> Action Set:=>abc
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> Action Method Set:=>index
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> abc:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> Object of Class abc created successfully
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> Action Set:=>abc
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> Action Method Set:=>index
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> abc:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:40:33 UTC 2014 --> Object of Class abc created successfully
+DEBUG - Wed Oct 1 15:41:09 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:41:09 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:41:09 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:41:09 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:41:09 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:41:09 UTC 2014 --> Action Set:=>abc
+DEBUG - Wed Oct 1 15:41:09 UTC 2014 --> Action Method Set:=>index
+DEBUG - Wed Oct 1 15:41:09 UTC 2014 --> abc:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:41:09 UTC 2014 --> Object of Class abc created successfully
+DEBUG - Wed Oct 1 15:41:31 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:41:31 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:41:31 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:41:31 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:41:31 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:41:31 UTC 2014 --> Action Set:=>abc
+DEBUG - Wed Oct 1 15:41:31 UTC 2014 --> Action Method Set:=>index
+DEBUG - Wed Oct 1 15:41:31 UTC 2014 --> abc:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:41:31 UTC 2014 --> Object of Class abc created successfully
+DEBUG - Wed Oct 1 15:41:51 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:41:51 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:41:51 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:41:51 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:41:51 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:41:51 UTC 2014 --> Action Set:=>abc
+DEBUG - Wed Oct 1 15:41:51 UTC 2014 --> Action Method Set:=>index
+DEBUG - Wed Oct 1 15:41:51 UTC 2014 --> abc:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:41:51 UTC 2014 --> Object of Class abc created successfully
+DEBUG - Wed Oct 1 15:42:21 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:42:21 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:42:21 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:42:21 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:42:21 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:42:21 UTC 2014 --> Action Set:=>abc
+DEBUG - Wed Oct 1 15:42:21 UTC 2014 --> Action Method Set:=>index
+DEBUG - Wed Oct 1 15:42:21 UTC 2014 --> abc:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:42:21 UTC 2014 --> Object of Class abc created successfully
+DEBUG - Wed Oct 1 15:42:22 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 15:42:23 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:42:23 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:42:23 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:42:23 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:42:23 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:42:23 UTC 2014 --> Action Set:=>abc
+DEBUG - Wed Oct 1 15:42:23 UTC 2014 --> Action Method Set:=>index
+DEBUG - Wed Oct 1 15:42:23 UTC 2014 --> abc:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:42:23 UTC 2014 --> Object of Class abc created successfully
+DEBUG - Wed Oct 1 15:42:24 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 15:42:56 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:42:56 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:42:56 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:42:56 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:42:56 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:42:56 UTC 2014 --> Action Set:=>abc
+DEBUG - Wed Oct 1 15:42:56 UTC 2014 --> Action Method Set:=>index
+DEBUG - Wed Oct 1 15:42:56 UTC 2014 --> abc:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:42:56 UTC 2014 --> Object of Class abc created successfully
+DEBUG - Wed Oct 1 15:42:57 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 15:42:58 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:42:58 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:42:58 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:42:58 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:42:58 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:42:58 UTC 2014 --> Action Set:=>abc
+DEBUG - Wed Oct 1 15:42:58 UTC 2014 --> Action Method Set:=>index
+DEBUG - Wed Oct 1 15:42:58 UTC 2014 --> abc:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:42:58 UTC 2014 --> Object of Class abc created successfully
+DEBUG - Wed Oct 1 15:42:59 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 15:45:19 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:45:19 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:45:20 UTC 2014 --> env::connect_db <==> 1
+INFO  - Wed Oct 1 15:45:20 UTC 2014 --> ANDROID::Push Insertion Start at:: {1412178320.367659}
+DEBUG - Wed Oct 1 15:45:20 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `vsure_cts`.`ava_cron_master` '
+
+DEBUG - Wed Oct 1 15:45:20 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_crn_bonus_tbl where cronFlag=0 '
+
+DEBUG - Wed Oct 1 15:45:21 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='182' AND company_id != 0 '
+
+DEBUG - Wed Oct 1 15:45:21 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' AND company_id != 0 '
+
+INFO  - Wed Oct 1 15:45:21 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Wed Oct 1 15:45:21 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":6425996044394163135,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+DEBUG - Wed Oct 1 15:45:21 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_crn_bonus_tbl SET cronFlag = '1' , message_txt = 'You have completed 4 consecutive weekly goals and thus your company will be donating an amount X from your behalf to your project.' , createDate = '2014-10-01 15:45:21' WHERE crn_bonus_id = 3 '
+
+DEBUG - Wed Oct 1 15:45:21 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' AND company_id != 0 '
+
+INFO  - Wed Oct 1 15:45:21 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Wed Oct 1 15:45:21 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":7786727203342298263,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+DEBUG - Wed Oct 1 15:45:22 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_crn_bonus_tbl SET cronFlag = '1' , message_txt = 'You have completed 4 consecutive weekly goals and thus your company will be donating an amount X from your behalf to your project.' , createDate = '2014-10-01 15:45:21' WHERE crn_bonus_id = 4 '
+
+DEBUG - Wed Oct 1 15:45:22 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_cron_goal_change WHERE cronFlag = 0 '
+
+INFO  - Wed Oct 1 15:45:22 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Wed Oct 1 15:45:22 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":5907410796081788440,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+DEBUG - Wed Oct 1 15:45:22 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_cron_goal_change SET cronFlag = '1' , messageTxt = 'You have completed 4 consecutive weekly goals and thus your company will be donating an amount X from your behalf to your project.' , createDate = '2014-10-01 15:45:22' '
+
+DEBUG - Wed Oct 1 15:45:22 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_cron_project_change WHERE cronFlag = 0 '
+
+DEBUG - Wed Oct 1 15:45:22 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id = '69' '
+
+DEBUG - Wed Oct 1 15:45:23 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id = '148' '
+
+DEBUG - Wed Oct 1 15:45:23 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id = '183' '
+
+DEBUG - Wed Oct 1 15:45:23 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id = '184' '
+
+DEBUG - Wed Oct 1 15:45:23 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id = '187' '
+
+DEBUG - Wed Oct 1 15:45:23 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id = '194' '
+
+DEBUG - Wed Oct 1 15:45:23 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id = '196' '
+
+DEBUG - Wed Oct 1 15:45:24 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id = '195' '
+
+DEBUG - Wed Oct 1 15:45:24 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id = '180' '
+
+DEBUG - Wed Oct 1 15:45:24 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id = '195' '
+
+INFO  - Wed Oct 1 15:45:24 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 11
+
+INFO  - Wed Oct 1 15:45:24 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":6639074958987125607,"success":1,"failure":10,"canonical_ids":1,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"registration_id":"APA91bFg1Rv2pPjlPzgew1JQ4Hmp10JE2UMtpQKybPnV8TjfNukn_fWFEqQD5FQVyImhL4XitZ1aeLEqQHV6uLABNwJl1xiYzJyRuuUyX9VrM-YJk4o56opChR1-LleJBeJxNWDwGTLy","message_id":"0:1412178325464028%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}
+
+DEBUG - Wed Oct 1 15:45:24 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_cron_project_change SET cronFlag = '1' , messageTxt = 'Welcome back to CalTrade fo the first time in this week. You can change your project support today' , createDate = '2014-10-01 15:45:24' '
+
+DEBUG - Wed Oct 1 15:45:25 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_cron_group_invitation where cronFlag = 0 '
+
+DEBUG - Wed Oct 1 15:45:25 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='159' '
+
+DEBUG - Wed Oct 1 15:45:25 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_groups WHERE group_id = '63' '
+
+DEBUG - Wed Oct 1 15:45:25 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='188' '
+
+INFO  - Wed Oct 1 15:45:25 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Wed Oct 1 15:45:25 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":7354180999214237345,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+DEBUG - Wed Oct 1 15:45:25 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_cron_group_invitation SET cronFlag = '1' , message_txt = 'Hey  ,   has requested you to join the group ' , createDate = '2014-10-01 15:45:25' WHERE group_invitation_id = 3 '
+
+DEBUG - Wed Oct 1 15:45:26 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='159' '
+
+DEBUG - Wed Oct 1 15:45:26 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_groups WHERE group_id = '63' '
+
+DEBUG - Wed Oct 1 15:45:26 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='191' '
+
+INFO  - Wed Oct 1 15:45:26 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Wed Oct 1 15:45:26 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":6094125334319139554,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412178327326731%38894435f9fd7ecd"}]}
+
+DEBUG - Wed Oct 1 15:45:26 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_cron_group_invitation SET cronFlag = '1' , message_txt = 'Hey  ,   has requested you to join the group ' , createDate = '2014-10-01 15:45:26' WHERE group_invitation_id = 4 '
+
+DEBUG - Wed Oct 1 15:45:26 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+DEBUG - Wed Oct 1 15:45:27 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_groups WHERE group_id = '64' '
+
+DEBUG - Wed Oct 1 15:45:27 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='188' '
+
+INFO  - Wed Oct 1 15:45:27 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Wed Oct 1 15:45:27 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":8938364136585566834,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+DEBUG - Wed Oct 1 15:45:27 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_cron_group_invitation SET cronFlag = '1' , message_txt = 'Hey  , abhilasha satle has requested you to join the group ' , createDate = '2014-10-01 15:45:27' WHERE group_invitation_id = 5 '
+
+DEBUG - Wed Oct 1 15:45:27 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+DEBUG - Wed Oct 1 15:45:27 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_groups WHERE group_id = '64' '
+
+DEBUG - Wed Oct 1 15:45:28 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='191' '
+
+INFO  - Wed Oct 1 15:45:28 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Wed Oct 1 15:45:28 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":7025412509555252077,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412178329059184%38894435f9fd7ecd"}]}
+
+DEBUG - Wed Oct 1 15:45:28 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_cron_group_invitation SET cronFlag = '1' , message_txt = 'Hey  , abhilasha satle has requested you to join the group ' , createDate = '2014-10-01 15:45:28' WHERE group_invitation_id = 6 '
+
+DEBUG - Wed Oct 1 15:45:28 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+DEBUG - Wed Oct 1 15:45:28 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_groups WHERE group_id = '64' '
+
+DEBUG - Wed Oct 1 15:45:29 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='188' '
+
+INFO  - Wed Oct 1 15:45:29 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Wed Oct 1 15:45:29 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":8073134417654759743,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+DEBUG - Wed Oct 1 15:45:29 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_cron_group_invitation SET cronFlag = '1' , message_txt = 'Hey  , abhilasha satle has requested you to join the group ' , createDate = '2014-10-01 15:45:29' WHERE group_invitation_id = 7 '
+
+DEBUG - Wed Oct 1 15:45:29 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+DEBUG - Wed Oct 1 15:45:29 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_groups WHERE group_id = '64' '
+
+DEBUG - Wed Oct 1 15:45:29 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='191' '
+
+INFO  - Wed Oct 1 15:45:29 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Wed Oct 1 15:45:29 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":6988171217193067446,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412178330752143%38894435f9fd7ecd"}]}
+
+DEBUG - Wed Oct 1 15:45:30 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_cron_group_invitation SET cronFlag = '1' , message_txt = 'Hey  , abhilasha satle has requested you to join the group ' , createDate = '2014-10-01 15:45:29' WHERE group_invitation_id = 8 '
+
+DEBUG - Wed Oct 1 15:45:30 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+DEBUG - Wed Oct 1 15:45:30 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_groups WHERE group_id = '64' '
+
+DEBUG - Wed Oct 1 15:45:30 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='191' '
+
+INFO  - Wed Oct 1 15:45:30 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Wed Oct 1 15:45:30 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":5809651260854143873,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412178331613197%38894435f9fd7ecd"}]}
+
+DEBUG - Wed Oct 1 15:45:31 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_cron_group_invitation SET cronFlag = '1' , message_txt = 'Hey  , abhilasha satle has requested you to join the group ' , createDate = '2014-10-01 15:45:30' WHERE group_invitation_id = 9 '
+
+DEBUG - Wed Oct 1 15:45:31 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+DEBUG - Wed Oct 1 15:45:31 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_groups WHERE group_id = '64' '
+
+DEBUG - Wed Oct 1 15:45:31 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='188' '
+
+INFO  - Wed Oct 1 15:45:31 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Wed Oct 1 15:45:31 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":6734283039972191709,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+DEBUG - Wed Oct 1 15:45:31 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_cron_group_invitation SET cronFlag = '1' , message_txt = 'Hey  , abhilasha satle has requested you to join the group ' , createDate = '2014-10-01 15:45:31' WHERE group_invitation_id = 10 '
+
+DEBUG - Wed Oct 1 15:45:32 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+DEBUG - Wed Oct 1 15:45:32 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_groups WHERE group_id = '64' '
+
+DEBUG - Wed Oct 1 15:45:32 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='191' '
+
+INFO  - Wed Oct 1 15:45:32 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Wed Oct 1 15:45:32 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":8744846102874824830,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412178333318847%38894435f9fd7ecd"}]}
+
+DEBUG - Wed Oct 1 15:45:32 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_cron_group_invitation SET cronFlag = '1' , message_txt = 'Hey  , abhilasha satle has requested you to join the group ' , createDate = '2014-10-01 15:45:32' WHERE group_invitation_id = 11 '
+
+DEBUG - Wed Oct 1 15:45:32 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+DEBUG - Wed Oct 1 15:45:33 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_groups WHERE group_id = '64' '
+
+DEBUG - Wed Oct 1 15:45:33 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='191' '
+
+INFO  - Wed Oct 1 15:45:33 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Wed Oct 1 15:45:33 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":4808348668807305975,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412178334167959%38894435f9fd7ecd"}]}
+
+DEBUG - Wed Oct 1 15:45:33 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_cron_group_invitation SET cronFlag = '1' , message_txt = 'Hey  , abhilasha satle has requested you to join the group ' , createDate = '2014-10-01 15:45:33' WHERE group_invitation_id = 12 '
+
+DEBUG - Wed Oct 1 15:45:33 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+DEBUG - Wed Oct 1 15:45:33 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_groups WHERE group_id = '64' '
+
+DEBUG - Wed Oct 1 15:45:34 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='188' '
+
+INFO  - Wed Oct 1 15:45:34 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Wed Oct 1 15:45:34 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":7497159122338111545,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+DEBUG - Wed Oct 1 15:45:34 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_cron_group_invitation SET cronFlag = '1' , message_txt = 'Hey  , abhilasha satle has requested you to join the group ' , createDate = '2014-10-01 15:45:34' WHERE group_invitation_id = 13 '
+
+DEBUG - Wed Oct 1 15:45:34 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+DEBUG - Wed Oct 1 15:45:34 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_groups WHERE group_id = '65' '
+
+DEBUG - Wed Oct 1 15:45:34 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='188' '
+
+INFO  - Wed Oct 1 15:45:34 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Wed Oct 1 15:45:35 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":8709007809888771503,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+DEBUG - Wed Oct 1 15:45:35 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_cron_group_invitation SET cronFlag = '1' , message_txt = 'Hey  , abhilasha satle has requested you to join the group smart' , createDate = '2014-10-01 15:45:35' WHERE group_invitation_id = 14 '
+
+DEBUG - Wed Oct 1 15:45:35 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='195' '
+
+DEBUG - Wed Oct 1 15:45:35 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_groups WHERE group_id = '65' '
+
+DEBUG - Wed Oct 1 15:45:35 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE user_id='191' '
+
+INFO  - Wed Oct 1 15:45:35 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Wed Oct 1 15:45:35 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":7807408041376264958,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412178336687603%38894435f9fd7ecd"}]}
+
+DEBUG - Wed Oct 1 15:45:36 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_cron_group_invitation SET cronFlag = '1' , message_txt = 'Hey  , abhilasha satle has requested you to join the group smart' , createDate = '2014-10-01 15:45:35' WHERE group_invitation_id = 15 '
+
+INFO  - Wed Oct 1 15:45:36 UTC 2014 --> ANDROID::PUSH Start at:: {03:45:36}
+INFO  - Wed Oct 1 15:45:36 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000021 }
+
+INFO  - Wed Oct 1 15:45:36 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:45:19 }<br/>
+INFO  - Wed Oct 1 15:45:36 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 16.476310 }<br/>
+DEBUG - Wed Oct 1 15:46:30 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:46:30 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:46:30 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:46:30 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:46:30 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:46:30 UTC 2014 --> Action Set:=>abc
+DEBUG - Wed Oct 1 15:46:30 UTC 2014 --> Action Method Set:=>index
+DEBUG - Wed Oct 1 15:46:30 UTC 2014 --> abc:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:46:30 UTC 2014 --> Object of Class abc created successfully
+DEBUG - Wed Oct 1 15:46:30 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 15:47:37 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:47:37 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:47:37 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:47:37 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:47:37 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:47:37 UTC 2014 --> Action Set:=>abc
+DEBUG - Wed Oct 1 15:47:37 UTC 2014 --> Action Method Set:=>index
+DEBUG - Wed Oct 1 15:47:37 UTC 2014 --> abc:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:47:37 UTC 2014 --> Object of Class abc created successfully
+DEBUG - Wed Oct 1 15:47:37 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 15:48:25 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:48:25 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:48:25 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 15:48:25 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 15:48:25 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:48:25 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 15:48:25 UTC 2014 --> Action Method Set:=>getCMS
+DEBUG - Wed Oct 1 15:48:25 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 15:48:25 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 15:48:25 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 15:48:26 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_cms` WHERE `cms_code`='abt_faq'  '
+
+DEBUG - Wed Oct 1 16:11:27 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:11:27 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:11:27 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:11:27 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:11:27 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:11:27 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:11:27 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 16:11:28 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:11:28 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:11:28 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:11:37 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:11:37 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:11:37 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:11:37 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:11:37 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:11:37 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:11:37 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 16:11:38 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:11:38 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:11:38 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:11:38 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 16:13:37 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:13:37 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:13:37 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:13:37 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:13:37 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:13:37 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:13:37 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 16:13:38 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:13:38 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:13:38 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:13:38 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 16:13:53 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:13:53 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:13:53 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:13:53 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:13:53 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:13:53 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:13:53 UTC 2014 --> Action Method Set:=>login
+DEBUG - Wed Oct 1 16:13:55 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:13:55 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:13:55 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:14:16 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:14:16 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:14:16 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:14:16 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:14:16 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:14:16 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:14:16 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 16:14:17 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:14:17 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:14:17 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:14:17 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 16:14:30 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:14:30 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:14:30 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:14:30 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:14:30 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:14:30 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:14:30 UTC 2014 --> Action Method Set:=>login
+DEBUG - Wed Oct 1 16:14:31 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:14:31 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:14:31 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:14:31 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE email='amit@mobileappz.in' '
+
+DEBUG - Wed Oct 1 16:14:55 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:14:55 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:14:55 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:14:55 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:14:55 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:14:55 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:14:55 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 16:14:56 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:14:56 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:14:56 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:14:56 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 16:15:16 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:15:16 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:15:16 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:15:16 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:15:16 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:15:16 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:15:16 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 16:15:17 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:15:17 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:15:17 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:15:30 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:15:30 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:15:30 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:15:30 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:15:30 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:15:30 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:15:30 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 16:15:30 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:15:30 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:15:30 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:15:59 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:15:59 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:15:59 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:15:59 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:15:59 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:15:59 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:15:59 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 16:16:00 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:16:00 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:16:00 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:16:16 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:16:16 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:16:16 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:16:16 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:16:16 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:16:16 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:16:16 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 16:16:17 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:16:17 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:16:17 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:16:17 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 16:16:21 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:16:21 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:16:21 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:16:21 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:16:21 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:16:21 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:16:21 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 16:16:22 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:16:22 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:16:22 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:16:29 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:16:29 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:16:29 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:16:29 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:16:29 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:16:29 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:16:29 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 16:16:30 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:16:30 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:16:30 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:16:30 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 16:16:41 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:16:41 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:16:41 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:16:41 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:16:41 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:16:41 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:16:41 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 16:16:42 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:16:42 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:16:42 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:16:42 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 16:17:00 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:17:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:17:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:17:00 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:17:00 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:17:00 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:17:00 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 16:17:00 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:17:00 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:17:00 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:17:52 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:17:52 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:17:52 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:17:52 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:17:52 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:17:52 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:17:52 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 16:17:53 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:17:53 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:17:53 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:17:54 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 16:17:59 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:17:59 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:17:59 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:17:59 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:17:59 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:17:59 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:17:59 UTC 2014 --> Action Method Set:=>getCMS
+DEBUG - Wed Oct 1 16:18:00 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:18:00 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:18:00 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:19:11 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:19:11 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:19:11 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:19:11 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:19:11 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:19:11 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:19:11 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 16:19:12 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:19:12 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:19:12 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:21:15 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:21:15 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:21:15 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:21:15 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:21:15 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:21:15 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:21:15 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 16:21:17 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:21:17 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:21:17 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:24:02 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:24:02 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:24:02 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:24:02 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:24:02 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:24:02 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:24:02 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 16:24:02 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:24:02 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:24:02 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:24:03 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `company_domain` like'%gmail.com%'  '
+
+DEBUG - Wed Oct 1 16:24:20 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:24:20 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:24:20 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:24:20 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:24:20 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:24:20 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:24:20 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 16:24:21 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:24:21 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:24:21 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:24:22 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `email`='abhilasha.satle@gmail.com'  '
+
+DEBUG - Wed Oct 1 16:27:57 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:27:57 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:27:57 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:27:57 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:27:57 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:27:57 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:27:57 UTC 2014 --> {"faultActionMethod":"Action Method requested Not found"}
+DEBUG - Wed Oct 1 16:28:24 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:28:24 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:28:24 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:28:24 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:28:24 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:28:24 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:28:24 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 16:28:25 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:28:25 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:28:25 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:28:26 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 16:28:38 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:28:38 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:28:38 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:28:38 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:28:38 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:28:38 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:28:38 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 16:28:39 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:28:39 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:28:39 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:28:39 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 16:51:37 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:51:37 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:51:37 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:51:37 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:51:37 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:51:37 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:51:37 UTC 2014 --> Action Method Set:=>getCMS
+DEBUG - Wed Oct 1 16:51:38 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:51:38 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:51:38 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:52:50 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:52:50 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:52:50 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:52:50 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:52:50 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:52:50 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:52:50 UTC 2014 --> Action Method Set:=>getCMS
+DEBUG - Wed Oct 1 16:52:51 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:52:51 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:52:51 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:53:35 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:53:35 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:53:35 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:53:35 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:53:35 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:53:35 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:53:35 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 16:53:35 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:53:35 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:53:35 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:53:36 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 16:55:53 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:55:53 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:55:53 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:55:53 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:55:53 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:55:53 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:55:53 UTC 2014 --> Action Method Set:=>getCMS
+DEBUG - Wed Oct 1 16:55:53 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:55:53 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:55:53 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:55:54 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_cms` WHERE `cms_code`='abt_cal'  '
+
+DEBUG - Wed Oct 1 16:56:55 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:56:55 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:56:55 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:56:55 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:56:55 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:56:55 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:56:55 UTC 2014 --> Action Method Set:=>getCMS
+DEBUG - Wed Oct 1 16:56:55 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:56:55 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:56:55 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:57:00 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:57:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:57:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:57:00 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:57:00 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:57:00 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:57:00 UTC 2014 --> Action Method Set:=>getCMS
+DEBUG - Wed Oct 1 16:57:00 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:57:00 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:57:00 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:57:01 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_cms` WHERE `cms_code`='abt_cal'  '
+
+DEBUG - Wed Oct 1 16:57:14 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:57:14 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:57:14 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 16:57:14 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 16:57:14 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:57:14 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 16:57:14 UTC 2014 --> Action Method Set:=>getCMS
+DEBUG - Wed Oct 1 16:57:15 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 16:57:15 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 16:57:15 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 16:57:15 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_cms` WHERE `cms_code`='abt_faq'  '
+
+DEBUG - Wed Oct 1 17:00:48 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:00:48 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:00:48 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:00:48 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:00:48 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:00:48 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:00:48 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 17:00:48 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:00:48 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:00:48 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:00:49 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `email`='abhilasha.satle@gmail.com'  '
+
+DEBUG - Wed Oct 1 17:01:45 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:01:45 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:01:45 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:01:45 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:01:45 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:01:45 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:01:45 UTC 2014 --> Action Method Set:=>login
+DEBUG - Wed Oct 1 17:01:46 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:01:46 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:01:46 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:01:46 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE email='abhilasha.satle@gmail.com' '
+
+DEBUG - Wed Oct 1 17:03:43 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:03:43 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:03:43 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:03:43 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:03:43 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:03:43 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:03:43 UTC 2014 --> Action Method Set:=>getCMS
+DEBUG - Wed Oct 1 17:03:44 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:03:44 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:03:44 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:03:44 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_cms` WHERE `cms_code`='abt_faq'  '
+
+DEBUG - Wed Oct 1 17:04:57 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:04:57 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:04:57 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:04:57 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:04:57 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:04:57 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:04:57 UTC 2014 --> Action Method Set:=>getCMS
+DEBUG - Wed Oct 1 17:04:58 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:04:58 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:04:58 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:04:58 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_cms` WHERE `cms_code`='abt_faq'  '
+
+DEBUG - Wed Oct 1 17:10:17 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:10:17 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:10:17 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:10:17 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:10:17 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:10:17 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:10:17 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 17:10:18 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:10:18 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:10:18 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:10:18 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 17:10:45 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:10:45 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:10:45 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:10:45 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:10:45 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:10:45 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:10:45 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 17:10:46 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:10:46 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:10:46 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:10:46 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `email`='abhilasha.satle@gmail.com'  '
+
+DEBUG - Wed Oct 1 17:10:46 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' INSERT INTO `ava_users`( `company_id`, `role_id`, `email`, `salt`, `date`, `passinfo`, `username`,  `active`, `password`, `user_device_id`, `auth_token`) VALUES ('0','10','abhilasha.satle@gmail.com','6ZK256O','2014-10-01 05:10:46','1234567','abhilasha.satle',0,'f8439140bbfae897ba64dac7a4c5f553ebfcb1a0','APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw','HJKNUYSP') '
+
+DEBUG - Wed Oct 1 17:10:46 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='192' '
+
+DEBUG - Wed Oct 1 17:11:19 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:11:19 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:11:19 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:11:19 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:11:19 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:11:19 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:11:19 UTC 2014 --> Action Method Set:=>register_uesr
+DEBUG - Wed Oct 1 17:11:20 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:11:20 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:11:20 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:11:47 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:11:47 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:11:47 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:11:47 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:11:47 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:11:47 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:11:47 UTC 2014 --> Action Method Set:=>register_uesr
+DEBUG - Wed Oct 1 17:11:48 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:11:48 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:11:48 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:11:58 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:11:58 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:11:58 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:11:58 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:11:58 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:11:58 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:11:58 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 17:11:58 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:11:58 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:11:58 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:14:34 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:14:34 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:14:34 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:14:34 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:14:34 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:14:34 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:14:34 UTC 2014 --> Action Method Set:=>activateAccount
+DEBUG - Wed Oct 1 17:14:35 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:14:35 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:14:35 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:14:35 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE email='abhilasha.satle@gmail.com'   '
+
+DEBUG - Wed Oct 1 17:14:35 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_users set `active` = 1, `auth_token` = 'OWK9T6URWZDKOFCZ8MF5'  where `email` = 'abhilasha.satle@gmail.com' '
+
+DEBUG - Wed Oct 1 17:14:35 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE email='abhilasha.satle@gmail.com' AND `active` = 1  '
+
+DEBUG - Wed Oct 1 17:14:36 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `user_id`='192' order by `donate_amount_id` DESC '
+
+DEBUG - Wed Oct 1 17:15:05 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:15:05 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:15:05 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:15:05 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:15:05 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:15:05 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:15:05 UTC 2014 --> Action Method Set:=>countries
+DEBUG - Wed Oct 1 17:15:06 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:15:06 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:15:06 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:15:06 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_country`   '
+
+DEBUG - Wed Oct 1 17:16:24 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:16:24 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:16:24 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:16:24 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:16:24 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:16:24 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:16:24 UTC 2014 --> Action Method Set:=>personal_info
+DEBUG - Wed Oct 1 17:16:25 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:16:25 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:16:25 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:16:25 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='192'  '
+
+DEBUG - Wed Oct 1 17:16:26 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE `ava_users` SET `firstname`='abhilasha', `country_id`='5', `lastname`='satle',`height`='167',`weight`='55',`gender`='Female',`dob`='2014-10-01',`donation_amount`='2' WHERE `user_id` = '192' '
+
+DEBUG - Wed Oct 1 17:16:26 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='192' '
+
+DEBUG - Wed Oct 1 17:17:26 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:17:26 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:17:26 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:17:26 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:17:26 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:17:26 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:17:26 UTC 2014 --> Action Method Set:=>setWeeklyGoal
+DEBUG - Wed Oct 1 17:17:26 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:17:26 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:17:26 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:17:27 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id` = '192'   '
+
+DEBUG - Wed Oct 1 17:17:27 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => '  SELECT * FROM `ava_user_goals` WHERE `user_id`='192' AND date between '2014-09-28' AND '2014-10-06'  '
+
+DEBUG - Wed Oct 1 17:17:27 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' INSERT INTO `ava_user_goals`( `user_id`, `calorie`, `date`, `start_date`, `end_date`, `payment_status`, `amount`, `goal_revision`) VALUES ('192', '200', '2014-10-01 05:17:26', '2014-10-01', '2014-10-05', '0','0','1') '
+
+DEBUG - Wed Oct 1 17:17:27 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`='122'  '
+
+DEBUG - Wed Oct 1 17:17:58 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:17:58 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:17:58 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:17:58 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:17:58 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:17:58 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:17:58 UTC 2014 --> Action Method Set:=>project_list
+DEBUG - Wed Oct 1 17:17:59 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:17:59 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:17:59 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:17:59 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='192'  '
+
+DEBUG - Wed Oct 1 17:17:59 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT `ava_projects`.* FROM `ava_projects` WHERE `ava_projects`.`active` = '1'  '
+
+DEBUG - Wed Oct 1 17:21:32 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:21:32 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:21:32 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:21:32 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:21:32 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:21:32 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:21:32 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 17:21:32 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:21:32 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:21:32 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:21:33 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 17:22:00 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:22:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:22:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:22:00 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:22:00 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:22:00 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:22:00 UTC 2014 --> Action Method Set:=>login
+DEBUG - Wed Oct 1 17:22:01 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:22:01 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:22:01 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:22:22 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:22:22 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:22:22 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:22:22 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:22:22 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:22:22 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:22:22 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 17:22:23 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:22:23 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:22:23 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:22:23 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 17:22:40 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:22:40 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:22:40 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:22:40 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:22:40 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:22:40 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:22:40 UTC 2014 --> Action Method Set:=>login
+DEBUG - Wed Oct 1 17:22:40 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:22:40 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:22:40 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:22:41 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE email='abhilasha.satle@gmail.com' '
+
+DEBUG - Wed Oct 1 17:22:41 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `user_id`='192' order by `donate_amount_id` DESC '
+
+DEBUG - Wed Oct 1 17:22:41 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_projects` WHERE `project_id` = '0' AND `ava_projects`.`active` = '1'  '
+
+DEBUG - Wed Oct 1 17:22:42 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:22:42 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:22:42 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:22:42 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:22:42 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:22:42 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:22:42 UTC 2014 --> Action Method Set:=>project_list
+DEBUG - Wed Oct 1 17:22:43 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:22:43 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:22:43 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:22:43 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='192'  '
+
+DEBUG - Wed Oct 1 17:22:43 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT `ava_projects`.* FROM `ava_projects` WHERE `ava_projects`.`active` = '1'  '
+
+DEBUG - Wed Oct 1 17:25:15 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:25:15 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:25:15 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:25:15 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:25:15 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:25:15 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:25:15 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 17:25:17 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:25:17 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:25:17 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:25:17 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 17:25:40 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:25:40 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:25:40 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:25:40 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:25:40 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:25:40 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:25:40 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 17:25:42 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:25:42 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:25:42 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:26:05 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:26:05 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:26:05 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:26:05 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:26:05 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:26:05 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:26:05 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 17:26:06 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:26:06 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:26:06 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:26:06 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 17:26:26 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:26:26 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:26:26 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:26:26 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:26:26 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:26:26 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:26:26 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 17:26:26 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:26:26 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:26:26 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:26:27 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `company_domain` like'%mobileappz.in%'  '
+
+DEBUG - Wed Oct 1 17:26:27 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `email`='amit@mobileappz.in'  '
+
+DEBUG - Wed Oct 1 17:26:27 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' INSERT INTO `ava_users`( `company_id`, `role_id`, `email`, `salt`, `date`, `passinfo`, `username`,  `active`, `password`, `user_device_id`, `auth_token`) VALUES ('12','9','amit@mobileappz.in','KKSHXZ0','2014-10-01 05:26:27','1234567','amit',0,'b62d07af9e25c1a485fc0ca5eed71087c9783a28','APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw','WK9DSHXK') '
+
+DEBUG - Wed Oct 1 17:26:27 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193' '
+
+DEBUG - Wed Oct 1 17:41:14 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:41:14 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:41:14 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:41:14 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:41:14 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:41:14 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:41:14 UTC 2014 --> {"faultActionMethod":"Action Method requested Not found"}
+DEBUG - Wed Oct 1 17:42:22 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:42:22 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:42:22 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:42:22 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:42:22 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:42:22 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:42:22 UTC 2014 --> Action Method Set:=>activateAccount
+DEBUG - Wed Oct 1 17:42:23 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:42:23 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:42:23 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:42:23 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE email='amit@mobileappz.in'   '
+
+DEBUG - Wed Oct 1 17:42:23 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_users set `active` = 1, `auth_token` = '1EWCP9OIMFZ59Q84F30P'  where `email` = 'amit@mobileappz.in' '
+
+DEBUG - Wed Oct 1 17:42:24 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE email='amit@mobileappz.in' AND `active` = 1  '
+
+DEBUG - Wed Oct 1 17:42:24 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `user_id`='193' order by `donate_amount_id` DESC '
+
+DEBUG - Wed Oct 1 17:42:27 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:42:27 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:42:27 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:42:27 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:42:27 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:42:27 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:42:27 UTC 2014 --> Action Method Set:=>countries
+DEBUG - Wed Oct 1 17:42:28 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:42:28 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:42:28 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:42:28 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_country`   '
+
+DEBUG - Wed Oct 1 17:42:46 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:42:46 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:42:46 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:42:46 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:42:46 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:42:46 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:42:46 UTC 2014 --> Action Method Set:=>personal_info
+DEBUG - Wed Oct 1 17:42:46 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:42:46 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:42:46 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:42:47 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:42:47 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE `ava_users` SET `firstname`='amit', `country_id`='3', `lastname`='sharma',`height`='167',`weight`='55',`gender`='Male',`dob`='2014-10-01',`donation_amount`='200' WHERE `user_id` = '193' '
+
+DEBUG - Wed Oct 1 17:42:47 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193' '
+
+DEBUG - Wed Oct 1 17:43:00 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:43:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:43:00 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:43:00 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:00 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:43:00 UTC 2014 --> Action Method Set:=>setWeeklyGoal
+DEBUG - Wed Oct 1 17:43:00 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:43:00 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:00 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:43:01 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id` = '193'   '
+
+DEBUG - Wed Oct 1 17:43:01 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => '  SELECT * FROM `ava_user_goals` WHERE `user_id`='193' AND date between '2014-09-28' AND '2014-10-06'  '
+
+DEBUG - Wed Oct 1 17:43:01 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' INSERT INTO `ava_user_goals`( `user_id`, `calorie`, `date`, `start_date`, `end_date`, `payment_status`, `amount`, `goal_revision`) VALUES ('193', '2000', '2014-10-01 05:43:00', '2014-10-01', '2014-10-05', '0','0','1') '
+
+DEBUG - Wed Oct 1 17:43:01 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`='123'  '
+
+DEBUG - Wed Oct 1 17:43:03 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:03 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:43:03 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:43:03 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:43:03 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:03 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:43:03 UTC 2014 --> Action Method Set:=>project_list
+DEBUG - Wed Oct 1 17:43:04 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:43:04 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:04 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:43:04 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:43:05 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT `ava_projects`.* FROM `ava_projects`  LEFT JOIN `ava_company_project_detail` ON  `ava_company_project_detail`.`company_id` = '12' AND  `ava_projects`.`active` = '1' AND `ava_company_project_detail`.`project_id` = `ava_projects`.`project_id` '
+
+DEBUG - Wed Oct 1 17:43:16 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:16 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:43:16 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:43:16 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:43:16 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:16 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:43:16 UTC 2014 --> Action Method Set:=>supportProject
+DEBUG - Wed Oct 1 17:43:17 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:43:17 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:17 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:43:17 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'   '
+
+DEBUG - Wed Oct 1 17:43:17 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`='123' AND `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:43:29 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:29 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:43:29 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:43:29 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:43:29 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:29 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:43:29 UTC 2014 --> Action Method Set:=>supportProject
+DEBUG - Wed Oct 1 17:43:30 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:43:30 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:30 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:43:31 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'   '
+
+DEBUG - Wed Oct 1 17:43:31 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`='123' AND `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:43:34 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:34 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:43:34 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:43:34 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:43:34 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:34 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:43:34 UTC 2014 --> Action Method Set:=>supportProject
+DEBUG - Wed Oct 1 17:43:35 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:43:35 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:35 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:43:35 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'   '
+
+DEBUG - Wed Oct 1 17:43:35 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`='123' AND `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:43:40 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:40 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:43:40 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:43:40 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:43:40 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:40 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:43:40 UTC 2014 --> Action Method Set:=>supportProject
+DEBUG - Wed Oct 1 17:43:41 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:43:41 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:41 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:43:41 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:41 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:43:41 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:43:41 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:43:41 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:43:41 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:43:41 UTC 2014 --> {"faultActionMethod":"Action Method requested Not found"}
+DEBUG - Wed Oct 1 17:43:41 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'   '
+
+DEBUG - Wed Oct 1 17:43:41 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`='123' AND `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:45:13 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:45:13 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:45:13 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:45:13 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:45:13 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:45:13 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:45:13 UTC 2014 --> Action Method Set:=>supportProject
+DEBUG - Wed Oct 1 17:45:13 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:45:13 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:45:13 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:45:14 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'   '
+
+DEBUG - Wed Oct 1 17:45:14 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`='123' AND `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:46:24 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:46:24 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:46:24 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:46:24 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:46:24 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:46:24 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:46:24 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 17:46:24 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:46:24 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:46:24 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:46:25 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 17:46:48 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:46:48 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:46:48 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:46:48 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:46:48 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:46:48 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:46:48 UTC 2014 --> Action Method Set:=>login
+DEBUG - Wed Oct 1 17:46:49 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:46:49 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:46:49 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:46:50 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE email='amit@mobileappz.in' '
+
+DEBUG - Wed Oct 1 17:46:50 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `user_id`='193' order by `donate_amount_id` DESC '
+
+DEBUG - Wed Oct 1 17:46:50 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_project_detail` JOIN `ava_projects` on  `ava_projects`.`project_id` = `ava_company_project_detail`.`project_id` WHERE `company_id`='13' AND `ava_company_project_detail`.`project_id` = '0' AND `ava_projects`.`active` = '1'  '
+
+DEBUG - Wed Oct 1 17:47:16 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:47:16 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:47:16 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:47:16 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:47:16 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:47:16 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:47:16 UTC 2014 --> Action Method Set:=>project_list
+DEBUG - Wed Oct 1 17:47:17 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:47:17 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:47:17 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:47:17 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:47:17 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT `ava_projects`.* FROM `ava_projects`  LEFT JOIN `ava_company_project_detail` ON  `ava_company_project_detail`.`company_id` = '13' AND  `ava_projects`.`active` = '1' AND `ava_company_project_detail`.`project_id` = `ava_projects`.`project_id` '
+
+DEBUG - Wed Oct 1 17:47:42 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:47:42 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:47:42 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:47:42 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:47:42 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:47:42 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:47:42 UTC 2014 --> Action Method Set:=>supportProject
+DEBUG - Wed Oct 1 17:47:43 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:47:43 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:47:43 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:47:43 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'   '
+
+DEBUG - Wed Oct 1 17:47:43 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`='123' AND `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:48:56 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:48:56 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:48:56 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:48:56 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:48:56 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:48:56 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:48:56 UTC 2014 --> Action Method Set:=>supportProject
+DEBUG - Wed Oct 1 17:48:56 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:48:56 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:48:56 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:48:57 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'   '
+
+DEBUG - Wed Oct 1 17:48:57 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`='123' AND `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:48:57 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE `ava_user_goals` SET `project_id` = '10', `project_revision` = '1'  WHERE `donate_amount_id` = '123'  '
+
+DEBUG - Wed Oct 1 17:49:12 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:49:12 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:49:12 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:49:12 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:49:12 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:49:12 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:49:12 UTC 2014 --> Action Method Set:=>UserCompleteProfile
+DEBUG - Wed Oct 1 17:49:13 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:49:13 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:49:13 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:49:13 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:49:14 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_group_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:49:14 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_groups` WHERE `group_id` = ''  '
+
+DEBUG - Wed Oct 1 17:49:14 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `user_id`='193' order by `donate_amount_id` DESC '
+
+DEBUG - Wed Oct 1 17:49:14 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT sum(`ava_user_week_activity_log`.`calorie_burnt`)  as total_burnt_calorie FROM `ava_user_week_activity_log` WHERE   `ava_user_week_activity_log`.`user_id`='193' AND  `ava_user_week_activity_log`.`donate_amount_id`='123'  '
+
+DEBUG - Wed Oct 1 17:49:14 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_projects` WHERE `project_id` = '10' AND `active` = '1'  '
+
+DEBUG - Wed Oct 1 17:49:21 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:49:21 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:49:21 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:49:21 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:49:21 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:49:21 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:49:21 UTC 2014 --> Action Method Set:=>UserCompleteProfile
+DEBUG - Wed Oct 1 17:49:22 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:49:22 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:49:22 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:49:22 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:49:22 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_group_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:49:23 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_groups` WHERE `group_id` = ''  '
+
+DEBUG - Wed Oct 1 17:49:23 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `user_id`='193' order by `donate_amount_id` DESC '
+
+DEBUG - Wed Oct 1 17:49:23 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT sum(`ava_user_week_activity_log`.`calorie_burnt`)  as total_burnt_calorie FROM `ava_user_week_activity_log` WHERE   `ava_user_week_activity_log`.`user_id`='193' AND  `ava_user_week_activity_log`.`donate_amount_id`='123'  '
+
+DEBUG - Wed Oct 1 17:49:23 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_projects` WHERE `project_id` = '10' AND `active` = '1'  '
+
+DEBUG - Wed Oct 1 17:50:07 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:50:07 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:50:07 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:50:07 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:50:07 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:50:07 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:50:07 UTC 2014 --> Action Method Set:=>projectRevision
+DEBUG - Wed Oct 1 17:50:08 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:50:08 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:50:08 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:50:08 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'   '
+
+DEBUG - Wed Oct 1 17:50:08 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`="123"  ORDER BY `ava_user_goals`.`date` DESC LIMIT 1  '
+
+DEBUG - Wed Oct 1 17:50:08 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_projects` WHERE `project_id` = '10' AND `active` = '1'  '
+
+DEBUG - Wed Oct 1 17:50:12 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:50:12 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:50:12 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:50:12 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:50:12 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:50:12 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:50:12 UTC 2014 --> Action Method Set:=>project_list
+DEBUG - Wed Oct 1 17:50:12 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:50:12 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:50:12 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:50:13 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:50:13 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT `ava_projects`.* FROM `ava_projects`  LEFT JOIN `ava_company_project_detail` ON  `ava_company_project_detail`.`company_id` = '13' AND  `ava_projects`.`active` = '1' AND `ava_company_project_detail`.`project_id` = `ava_projects`.`project_id` '
+
+DEBUG - Wed Oct 1 17:50:31 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:50:31 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:50:31 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:50:31 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:50:31 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:50:31 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:50:31 UTC 2014 --> Action Method Set:=>UserCompleteProfile
+DEBUG - Wed Oct 1 17:50:31 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:50:31 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:50:31 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:50:32 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:50:32 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_group_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:50:32 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_groups` WHERE `group_id` = ''  '
+
+DEBUG - Wed Oct 1 17:50:32 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `user_id`='193' order by `donate_amount_id` DESC '
+
+DEBUG - Wed Oct 1 17:50:32 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT sum(`ava_user_week_activity_log`.`calorie_burnt`)  as total_burnt_calorie FROM `ava_user_week_activity_log` WHERE   `ava_user_week_activity_log`.`user_id`='193' AND  `ava_user_week_activity_log`.`donate_amount_id`='123'  '
+
+DEBUG - Wed Oct 1 17:50:33 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_projects` WHERE `project_id` = '10' AND `active` = '1'  '
+
+DEBUG - Wed Oct 1 17:56:29 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:56:29 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:56:29 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:56:29 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:56:29 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:56:29 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:56:29 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 17:56:30 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:56:30 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:56:30 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:56:30 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 17:56:53 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:56:53 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:56:53 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:56:53 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:56:53 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:56:53 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:56:53 UTC 2014 --> Action Method Set:=>login
+DEBUG - Wed Oct 1 17:56:54 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:56:54 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:56:54 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:56:54 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE email='amit@mobileappz.in' '
+
+DEBUG - Wed Oct 1 17:56:54 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `user_id`='193' order by `donate_amount_id` DESC '
+
+DEBUG - Wed Oct 1 17:56:54 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_project_detail` JOIN `ava_projects` on  `ava_projects`.`project_id` = `ava_company_project_detail`.`project_id` WHERE `company_id`='13' AND `ava_company_project_detail`.`project_id` = '10' AND `ava_projects`.`active` = '1'  '
+
+DEBUG - Wed Oct 1 17:56:58 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:56:58 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:56:58 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:56:58 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:56:58 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:56:58 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:56:58 UTC 2014 --> Action Method Set:=>project_list
+DEBUG - Wed Oct 1 17:56:59 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:56:59 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:56:59 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:56:59 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:56:59 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT `ava_projects`.* FROM `ava_projects`  LEFT JOIN `ava_company_project_detail` ON  `ava_company_project_detail`.`company_id` = '13' AND  `ava_projects`.`active` = '1' AND `ava_company_project_detail`.`project_id` = `ava_projects`.`project_id` '
+
+DEBUG - Wed Oct 1 17:57:10 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:57:10 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:57:10 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:57:10 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:57:10 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:57:10 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:57:10 UTC 2014 --> Action Method Set:=>supportProject
+DEBUG - Wed Oct 1 17:57:11 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:57:11 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:57:11 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:57:11 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'   '
+
+DEBUG - Wed Oct 1 17:57:11 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`='123' AND `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:57:12 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE `ava_user_goals` SET `project_id` = '10', `project_revision` = '1'  WHERE `donate_amount_id` = '123'  '
+
+DEBUG - Wed Oct 1 17:57:17 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:57:17 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:57:17 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:57:17 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:57:17 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:57:17 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:57:17 UTC 2014 --> Action Method Set:=>UserCompleteProfile
+DEBUG - Wed Oct 1 17:57:17 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:57:17 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:57:17 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:57:18 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:57:18 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_group_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:57:18 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_groups` WHERE `group_id` = ''  '
+
+DEBUG - Wed Oct 1 17:57:18 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `user_id`='193' order by `donate_amount_id` DESC '
+
+DEBUG - Wed Oct 1 17:57:18 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT sum(`ava_user_week_activity_log`.`calorie_burnt`)  as total_burnt_calorie FROM `ava_user_week_activity_log` WHERE   `ava_user_week_activity_log`.`user_id`='193' AND  `ava_user_week_activity_log`.`donate_amount_id`='123'  '
+
+DEBUG - Wed Oct 1 17:57:19 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_projects` WHERE `project_id` = '10' AND `active` = '1'  '
+
+DEBUG - Wed Oct 1 17:57:26 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:57:26 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:57:26 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:57:26 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:57:26 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:57:26 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:57:26 UTC 2014 --> Action Method Set:=>UserCompleteProfile
+DEBUG - Wed Oct 1 17:57:27 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:57:27 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:57:27 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:57:27 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:57:27 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_group_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:57:27 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_groups` WHERE `group_id` = ''  '
+
+DEBUG - Wed Oct 1 17:57:28 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `user_id`='193' order by `donate_amount_id` DESC '
+
+DEBUG - Wed Oct 1 17:57:28 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT sum(`ava_user_week_activity_log`.`calorie_burnt`)  as total_burnt_calorie FROM `ava_user_week_activity_log` WHERE   `ava_user_week_activity_log`.`user_id`='193' AND  `ava_user_week_activity_log`.`donate_amount_id`='123'  '
+
+DEBUG - Wed Oct 1 17:57:28 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_projects` WHERE `project_id` = '10' AND `active` = '1'  '
+
+DEBUG - Wed Oct 1 17:57:57 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:57:57 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:57:57 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:57:57 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:57:57 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:57:57 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:57:57 UTC 2014 --> Action Method Set:=>UserCompleteProfile
+DEBUG - Wed Oct 1 17:57:58 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:57:58 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:57:58 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:57:58 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:57:58 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_group_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:57:58 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_groups` WHERE `group_id` = ''  '
+
+DEBUG - Wed Oct 1 17:57:59 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `user_id`='193' order by `donate_amount_id` DESC '
+
+DEBUG - Wed Oct 1 17:57:59 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT sum(`ava_user_week_activity_log`.`calorie_burnt`)  as total_burnt_calorie FROM `ava_user_week_activity_log` WHERE   `ava_user_week_activity_log`.`user_id`='193' AND  `ava_user_week_activity_log`.`donate_amount_id`='123'  '
+
+DEBUG - Wed Oct 1 17:57:59 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_projects` WHERE `project_id` = '10' AND `active` = '1'  '
+
+DEBUG - Wed Oct 1 17:58:13 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:58:13 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:58:13 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:58:13 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:58:13 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:58:13 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:58:13 UTC 2014 --> Action Method Set:=>goalRevision
+DEBUG - Wed Oct 1 17:58:14 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:58:14 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:58:14 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:58:15 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:58:15 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` ORDER BY `ava_user_goals`.`date` DESC LIMIT 1  '
+
+DEBUG - Wed Oct 1 17:58:48 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:58:48 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:58:48 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:58:48 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:58:48 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:58:48 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:58:48 UTC 2014 --> Action Method Set:=>projectRevision
+DEBUG - Wed Oct 1 17:58:48 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:58:48 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:58:48 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:58:49 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'   '
+
+DEBUG - Wed Oct 1 17:58:49 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`="123"  ORDER BY `ava_user_goals`.`date` DESC LIMIT 1  '
+
+DEBUG - Wed Oct 1 17:58:49 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_projects` WHERE `project_id` = '10' AND `active` = '1'  '
+
+DEBUG - Wed Oct 1 17:58:51 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:58:51 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:58:51 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 17:58:51 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 17:58:51 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:58:51 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 17:58:51 UTC 2014 --> Action Method Set:=>project_list
+DEBUG - Wed Oct 1 17:58:52 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 17:58:52 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 17:58:52 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 17:58:52 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 17:58:53 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT `ava_projects`.* FROM `ava_projects`  LEFT JOIN `ava_company_project_detail` ON  `ava_company_project_detail`.`company_id` = '13' AND  `ava_projects`.`active` = '1' AND `ava_company_project_detail`.`project_id` = `ava_projects`.`project_id` '
+
+DEBUG - Wed Oct 1 18:00:00 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:00:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:00:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:00:00 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 18:00:00 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:00:00 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 18:00:00 UTC 2014 --> Action Method Set:=>projectRevision
+DEBUG - Wed Oct 1 18:00:00 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 18:00:00 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:00:00 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 18:00:01 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'   '
+
+DEBUG - Wed Oct 1 18:00:01 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`="123"  ORDER BY `ava_user_goals`.`date` DESC LIMIT 1  '
+
+DEBUG - Wed Oct 1 18:00:01 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_projects` WHERE `project_id` = '10' AND `active` = '1'  '
+
+DEBUG - Wed Oct 1 18:00:06 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:00:06 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:00:06 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:00:06 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 18:00:06 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:00:06 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 18:00:06 UTC 2014 --> Action Method Set:=>project_list
+DEBUG - Wed Oct 1 18:00:06 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 18:00:06 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:00:06 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 18:00:07 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 18:00:07 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT `ava_projects`.* FROM `ava_projects`  LEFT JOIN `ava_company_project_detail` ON  `ava_company_project_detail`.`company_id` = '13' AND  `ava_projects`.`active` = '1' AND `ava_company_project_detail`.`project_id` = `ava_projects`.`project_id` '
+
+DEBUG - Wed Oct 1 18:00:17 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:00:17 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:00:17 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:00:17 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 18:00:17 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:00:17 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 18:00:17 UTC 2014 --> Action Method Set:=>activity_list
+DEBUG - Wed Oct 1 18:00:18 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 18:00:18 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:00:18 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 18:00:18 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_activities_master` WHERE `track_type` = '1' '
+
+DEBUG - Wed Oct 1 18:01:50 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:01:50 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:01:50 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:01:50 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 18:01:50 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:01:50 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 18:01:50 UTC 2014 --> Action Method Set:=>trackActivity
+DEBUG - Wed Oct 1 18:01:51 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 18:01:51 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:01:51 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 18:01:51 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'   '
+
+DEBUG - Wed Oct 1 18:01:51 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`='123'   '
+
+DEBUG - Wed Oct 1 18:01:52 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' INSERT INTO `ava_user_week_activity_log`(`workout_name`, `activity_date`, `user_id`, `activity_id`, `donate_amount_id`, `user_goal_id`,`activity_duration`, `calorie_burnt`, `start_time`, `end_time`, `manual_key`, `added_date`) VALUES ('Sit Ups','2014-10-01','193','4','123','123','1.0','18','11:30:35','11:31:45','0','2014-10-01 06:01:51') '
+
+DEBUG - Wed Oct 1 18:01:52 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => '  SELECT * FROM `ava_user_week_activity_log` WHERE `activity_log_id`='164'  '
+
+DEBUG - Wed Oct 1 18:01:52 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT sum(`ava_user_week_activity_log`.`calorie_burnt`)  as total_burnt_calorie FROM `ava_user_week_activity_log` WHERE  `ava_user_week_activity_log`.`user_id`='193' AND  `ava_user_week_activity_log`.`donate_amount_id`='123' '
+
+DEBUG - Wed Oct 1 18:01:52 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => '  UPDATE `ava_user_goals` SET `burned_calories` = '18', `achive_status` = '0'   WHERE `ava_user_goals`.`donate_amount_id` = '123'  '
+
+DEBUG - Wed Oct 1 18:01:52 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => '  SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_id` = '13'  '
+
+DEBUG - Wed Oct 1 18:01:53 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => '  SELECT * FROM `ava_user_goals` WHERE `ava_user_goals`.`achive_status` = '1' AND `ava_user_goals`.`bonus` = '0' AND `user_id` = '193'  ORDER BY `ava_user_goals`.`date` DESC LIMIT 4  '
+
+DEBUG - Wed Oct 1 18:01:53 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => '  UPDATE `ava_user_goals` SET `ava_user_goals`.`bonus` = '0'   WHERE `ava_user_goals`.`donate_amount_id` = '123' '
+
+DEBUG - Wed Oct 1 18:01:53 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' INSERT INTO `ava_crn_bonus_tbl`(`userId`, `cronFlag`, `cronId`, `goalId`) VALUES ('193','0','2','123')  '
+
+DEBUG - Wed Oct 1 18:04:25 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:25 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:04:25 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:04:25 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 18:04:25 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:25 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 18:04:25 UTC 2014 --> Action Method Set:=>branding
+DEBUG - Wed Oct 1 18:04:26 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 18:04:26 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:26 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 18:04:26 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_branded` = '1'  '
+
+DEBUG - Wed Oct 1 18:04:40 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:40 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:04:40 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:04:40 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 18:04:40 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:40 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 18:04:40 UTC 2014 --> Action Method Set:=>login
+DEBUG - Wed Oct 1 18:04:40 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 18:04:40 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:40 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 18:04:41 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE email='amit@mobileappz.in' '
+
+DEBUG - Wed Oct 1 18:04:41 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `user_id`='193' order by `donate_amount_id` DESC '
+
+DEBUG - Wed Oct 1 18:04:41 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_project_detail` JOIN `ava_projects` on  `ava_projects`.`project_id` = `ava_company_project_detail`.`project_id` WHERE `company_id`='13' AND `ava_company_project_detail`.`project_id` = '10' AND `ava_projects`.`active` = '1'  '
+
+DEBUG - Wed Oct 1 18:04:42 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:42 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:04:42 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:04:42 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 18:04:42 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:42 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 18:04:42 UTC 2014 --> Action Method Set:=>project_list
+DEBUG - Wed Oct 1 18:04:42 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 18:04:42 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:42 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 18:04:43 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 18:04:43 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT `ava_projects`.* FROM `ava_projects`  LEFT JOIN `ava_company_project_detail` ON  `ava_company_project_detail`.`company_id` = '13' AND  `ava_projects`.`active` = '1' AND `ava_company_project_detail`.`project_id` = `ava_projects`.`project_id` '
+
+DEBUG - Wed Oct 1 18:04:46 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:46 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:04:46 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:04:46 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 18:04:46 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:46 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 18:04:46 UTC 2014 --> Action Method Set:=>supportProject
+DEBUG - Wed Oct 1 18:04:47 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 18:04:47 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:47 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 18:04:47 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'   '
+
+DEBUG - Wed Oct 1 18:04:48 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`='123' AND `user_id`='193'  '
+
+DEBUG - Wed Oct 1 18:04:48 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE `ava_user_goals` SET `project_id` = '10', `project_revision` = '1'  WHERE `donate_amount_id` = '123'  '
+
+DEBUG - Wed Oct 1 18:04:50 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:50 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:04:50 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:04:50 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 18:04:50 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:50 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 18:04:50 UTC 2014 --> Action Method Set:=>UserCompleteProfile
+DEBUG - Wed Oct 1 18:04:50 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 18:04:50 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:50 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 18:04:51 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 18:04:51 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_group_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 18:04:51 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_groups` WHERE `group_id` = ''  '
+
+DEBUG - Wed Oct 1 18:04:51 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `user_id`='193' order by `donate_amount_id` DESC '
+
+DEBUG - Wed Oct 1 18:04:51 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT sum(`ava_user_week_activity_log`.`calorie_burnt`)  as total_burnt_calorie FROM `ava_user_week_activity_log` WHERE   `ava_user_week_activity_log`.`user_id`='193' AND  `ava_user_week_activity_log`.`donate_amount_id`='123'  '
+
+DEBUG - Wed Oct 1 18:04:52 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_projects` WHERE `project_id` = '10' AND `active` = '1'  '
+
+DEBUG - Wed Oct 1 18:04:52 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:52 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:04:52 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:04:52 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 18:04:52 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:52 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 18:04:52 UTC 2014 --> Action Method Set:=>UserCompleteProfile
+DEBUG - Wed Oct 1 18:04:53 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 18:04:53 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:53 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 18:04:53 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 18:04:53 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_group_users` WHERE `user_id`='193'  '
+
+DEBUG - Wed Oct 1 18:04:53 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_groups` WHERE `group_id` = ''  '
+
+DEBUG - Wed Oct 1 18:04:54 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `user_id`='193' order by `donate_amount_id` DESC '
+
+DEBUG - Wed Oct 1 18:04:54 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT sum(`ava_user_week_activity_log`.`calorie_burnt`)  as total_burnt_calorie FROM `ava_user_week_activity_log` WHERE   `ava_user_week_activity_log`.`user_id`='193' AND  `ava_user_week_activity_log`.`donate_amount_id`='123'  '
+
+DEBUG - Wed Oct 1 18:04:54 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_projects` WHERE `project_id` = '10' AND `active` = '1'  '
+
+DEBUG - Wed Oct 1 18:04:57 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:57 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:04:57 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:04:57 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 18:04:57 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:57 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 18:04:57 UTC 2014 --> Action Method Set:=>activity_list
+DEBUG - Wed Oct 1 18:04:57 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 18:04:57 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:04:57 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 18:04:58 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_activities_master` WHERE `track_type` = '1' '
+
+DEBUG - Wed Oct 1 18:05:08 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:05:08 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:05:08 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 18:05:08 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 18:05:08 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:05:08 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 18:05:08 UTC 2014 --> Action Method Set:=>trackActivity
+DEBUG - Wed Oct 1 18:05:09 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 18:05:09 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 18:05:09 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 18:05:09 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='193'   '
+
+DEBUG - Wed Oct 1 18:05:09 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`='123'   '
+
+DEBUG - Wed Oct 1 18:05:10 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' INSERT INTO `ava_user_week_activity_log`(`workout_name`, `activity_date`, `user_id`, `activity_id`, `donate_amount_id`, `user_goal_id`,`activity_duration`, `calorie_burnt`, `start_time`, `end_time`, `manual_key`, `added_date`) VALUES ('Sit Ups','2014-10-01','193','4','123','123','0.0','18','11:35:04','11:35:08','0','2014-10-01 06:05:09') '
+
+DEBUG - Wed Oct 1 18:05:10 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => '  SELECT * FROM `ava_user_week_activity_log` WHERE `activity_log_id`='165'  '
+
+DEBUG - Wed Oct 1 18:05:10 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT sum(`ava_user_week_activity_log`.`calorie_burnt`)  as total_burnt_calorie FROM `ava_user_week_activity_log` WHERE  `ava_user_week_activity_log`.`user_id`='193' AND  `ava_user_week_activity_log`.`donate_amount_id`='123' '
+
+DEBUG - Wed Oct 1 18:05:10 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => '  UPDATE `ava_user_goals` SET `burned_calories` = '36', `achive_status` = '0'   WHERE `ava_user_goals`.`donate_amount_id` = '123'  '
+
+DEBUG - Wed Oct 1 18:05:10 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => '  SELECT * FROM `ava_company_details` WHERE `ava_company_details`.`company_id` = '13'  '
+
+DEBUG - Wed Oct 1 18:05:11 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => '  SELECT * FROM `ava_user_goals` WHERE `ava_user_goals`.`achive_status` = '1' AND `ava_user_goals`.`bonus` = '0' AND `user_id` = '193'  ORDER BY `ava_user_goals`.`date` DESC LIMIT 4  '
+
+DEBUG - Wed Oct 1 18:05:11 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => '  UPDATE `ava_user_goals` SET `ava_user_goals`.`bonus` = '0'   WHERE `ava_user_goals`.`donate_amount_id` = '123' '
+
+DEBUG - Wed Oct 1 18:05:11 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' INSERT INTO `ava_crn_bonus_tbl`(`userId`, `cronFlag`, `cronId`, `goalId`) VALUES ('193','0','2','123')  '
+
+DEBUG - Wed Oct 1 20:52:36 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 20:52:36 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 20:52:36 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 20:52:36 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 20:52:36 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 20:52:36 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 20:52:36 UTC 2014 --> Action Method Set:=>UserCompleteProfile
+DEBUG - Wed Oct 1 20:52:37 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 20:52:37 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 20:52:37 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 20:52:38 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='163'  '
+
+DEBUG - Wed Oct 1 20:52:43 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 20:52:43 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 20:52:43 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 20:52:43 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 20:52:43 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 20:52:43 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 20:52:43 UTC 2014 --> Action Method Set:=>UserCompleteProfile
+DEBUG - Wed Oct 1 20:52:44 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 20:52:44 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 20:52:44 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 20:52:44 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='163'  '
+
+DEBUG - Wed Oct 1 20:53:34 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 20:53:34 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 20:53:34 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 20:53:34 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 20:53:34 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 20:53:34 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 20:53:34 UTC 2014 --> Action Method Set:=>UserCompleteProfile
+DEBUG - Wed Oct 1 20:53:34 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 20:53:34 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 20:53:34 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 20:53:35 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='163'  '
+
+DEBUG - Wed Oct 1 20:56:43 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 20:56:43 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 20:56:43 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 20:56:43 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 20:56:43 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 20:56:43 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 20:56:43 UTC 2014 --> Action Method Set:=>getCMS
+DEBUG - Wed Oct 1 20:56:43 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 20:56:43 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 20:56:43 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 20:56:44 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_cms` WHERE `cms_code`='abt_cal'  '
+
+DEBUG - Wed Oct 1 21:02:00 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:02:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:02:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:02:00 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 21:02:00 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:02:00 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 21:02:00 UTC 2014 --> Action Method Set:=>login
+DEBUG - Wed Oct 1 21:02:01 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 21:02:01 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:02:01 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 21:02:01 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE email='meghankharva@gmail.com' '
+
+DEBUG - Wed Oct 1 21:02:16 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:02:16 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:02:16 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:02:16 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 21:02:16 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:02:16 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 21:02:16 UTC 2014 --> Action Method Set:=>login
+DEBUG - Wed Oct 1 21:02:17 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 21:02:17 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:02:17 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 21:02:18 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE email='meghankharva@gmail.co' '
+
+DEBUG - Wed Oct 1 21:02:36 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:02:36 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:02:36 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:02:36 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 21:02:36 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:02:36 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 21:02:36 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 21:02:36 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 21:02:36 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:02:36 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 21:02:37 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_company_details` WHERE `company_domain` like'%gmail.com%'  '
+
+DEBUG - Wed Oct 1 21:02:44 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:02:44 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:02:44 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:02:44 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 21:02:44 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:02:44 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 21:02:44 UTC 2014 --> Action Method Set:=>register_user
+DEBUG - Wed Oct 1 21:02:45 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 21:02:45 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:02:45 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 21:02:45 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `email`='meghankharva@gmail.com'  '
+
+DEBUG - Wed Oct 1 21:02:45 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' INSERT INTO `ava_users`( `company_id`, `role_id`, `email`, `salt`, `date`, `passinfo`, `username`,  `active`, `password`, `user_device_id`, `auth_token`) VALUES ('0','10','meghankharva@gmail.com','COK49Q2','2014-10-01 09:02:45','abcd','meghankharva',0,'0820feef8ba80a575516b7d580ef2225d0338f1a','B4BB4F10-3DFA-4954-A70C-D23475EEA44D','CDX9KZ99') '
+
+DEBUG - Wed Oct 1 21:02:45 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='194' '
+
+DEBUG - Wed Oct 1 21:05:00 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:05:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:05:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:05:00 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 21:05:00 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:05:00 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 21:05:00 UTC 2014 --> Action Method Set:=>activateAccount
+DEBUG - Wed Oct 1 21:05:01 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 21:05:01 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:05:01 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 21:05:01 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE email='meghankharva@gmail.com'   '
+
+DEBUG - Wed Oct 1 21:05:01 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE ava_users set `active` = 1, `auth_token` = 'K3138LALB1FXS36EHCHN'  where `email` = 'meghankharva@gmail.com' '
+
+DEBUG - Wed Oct 1 21:05:01 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE email='meghankharva@gmail.com' AND `active` = 1  '
+
+DEBUG - Wed Oct 1 21:05:01 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `user_id`='194' order by `donate_amount_id` DESC '
+
+DEBUG - Wed Oct 1 21:05:02 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:05:02 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:05:02 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:05:02 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 21:05:02 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:05:02 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 21:05:02 UTC 2014 --> Action Method Set:=>countries
+DEBUG - Wed Oct 1 21:05:03 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 21:05:03 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:05:03 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 21:05:03 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_country`   '
+
+DEBUG - Wed Oct 1 21:06:00 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:06:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:06:00 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:06:00 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 21:06:00 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:06:00 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 21:06:00 UTC 2014 --> Action Method Set:=>login
+DEBUG - Wed Oct 1 21:06:01 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 21:06:01 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:06:01 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 21:06:01 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM ava_users WHERE email='meghankharva@gmail.com' '
+
+DEBUG - Wed Oct 1 21:06:01 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `user_id`='194' order by `donate_amount_id` DESC '
+
+DEBUG - Wed Oct 1 21:06:02 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:06:02 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:06:02 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:06:02 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 21:06:02 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:06:02 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 21:06:02 UTC 2014 --> Action Method Set:=>countries
+DEBUG - Wed Oct 1 21:06:03 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 21:06:03 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:06:03 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 21:06:03 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_country`   '
+
+DEBUG - Wed Oct 1 21:08:46 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:08:46 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:08:46 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:08:46 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 21:08:46 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:08:46 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 21:08:46 UTC 2014 --> Action Method Set:=>personal_info
+DEBUG - Wed Oct 1 21:08:47 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 21:08:47 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:08:47 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 21:08:47 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='194'  '
+
+DEBUG - Wed Oct 1 21:08:48 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE `ava_users` SET `firstname`='Meg', `country_id`='113', `lastname`='kha',`height`='172',`weight`='66',`gender`='Male',`dob`='1990-10-02',`donation_amount`='500' WHERE `user_id` = '194' '
+
+DEBUG - Wed Oct 1 21:08:48 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='194' '
+
+DEBUG - Wed Oct 1 21:09:08 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:09:08 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:09:08 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:09:08 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 21:09:08 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:09:08 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 21:09:08 UTC 2014 --> Action Method Set:=>setWeeklyGoal
+DEBUG - Wed Oct 1 21:09:08 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 21:09:08 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:09:08 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 21:09:09 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id` = '194'   '
+
+DEBUG - Wed Oct 1 21:09:09 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => '  SELECT * FROM `ava_user_goals` WHERE `user_id`='194' AND date between '2014-09-28' AND '2014-10-06'  '
+
+DEBUG - Wed Oct 1 21:09:09 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' INSERT INTO `ava_user_goals`( `user_id`, `calorie`, `date`, `start_date`, `end_date`, `payment_status`, `amount`, `goal_revision`) VALUES ('194', '1000', '2014-10-01 09:09:08', '2014-10-01', '2014-10-05', '0','0','1') '
+
+DEBUG - Wed Oct 1 21:09:09 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`='124'  '
+
+DEBUG - Wed Oct 1 21:09:10 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:09:10 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:09:10 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:09:10 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 21:09:10 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:09:10 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 21:09:10 UTC 2014 --> Action Method Set:=>project_list
+DEBUG - Wed Oct 1 21:09:13 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 21:09:13 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:09:13 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 21:09:13 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='194'  '
+
+DEBUG - Wed Oct 1 21:09:13 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT `ava_projects`.* FROM `ava_projects` WHERE `ava_projects`.`active` = '1'  '
+
+DEBUG - Wed Oct 1 21:09:35 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:09:35 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:09:35 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:09:35 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 21:09:35 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:09:35 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 21:09:35 UTC 2014 --> Action Method Set:=>supportProject
+DEBUG - Wed Oct 1 21:09:42 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 21:09:42 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:09:42 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 21:09:42 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='194'   '
+
+DEBUG - Wed Oct 1 21:09:43 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `donate_amount_id`='124' AND `user_id`='194'  '
+
+DEBUG - Wed Oct 1 21:09:43 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' UPDATE `ava_user_goals` SET `project_id` = '10', `project_revision` = '1'  WHERE `donate_amount_id` = '124'  '
+
+DEBUG - Wed Oct 1 21:09:44 UTC 2014 --> log:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:09:44 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:09:44 UTC 2014 --> common file included
+DEBUG - Wed Oct 1 21:09:44 UTC 2014 --> restservice Object Initialized!!
+DEBUG - Wed Oct 1 21:09:44 UTC 2014 --> restservice:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:09:44 UTC 2014 --> Action Set:=>ctsusers
+DEBUG - Wed Oct 1 21:09:44 UTC 2014 --> Action Method Set:=>UserCompleteProfile
+DEBUG - Wed Oct 1 21:09:44 UTC 2014 --> env::connect_db <==> 1
+DEBUG - Wed Oct 1 21:09:44 UTC 2014 --> ctsusers:: Object Initiated Successfully 
+DEBUG - Wed Oct 1 21:09:44 UTC 2014 --> Object of Class ctsusers created successfully
+DEBUG - Wed Oct 1 21:09:45 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_users` WHERE `user_id`='194'  '
+
+DEBUG - Wed Oct 1 21:09:45 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_user_goals` WHERE `user_id`='194' order by `donate_amount_id` DESC '
+
+DEBUG - Wed Oct 1 21:09:45 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT sum(`ava_user_week_activity_log`.`calorie_burnt`)  as total_burnt_calorie FROM `ava_user_week_activity_log` WHERE   `ava_user_week_activity_log`.`user_id`='194' AND  `ava_user_week_activity_log`.`donate_amount_id`='124'  '
+
+DEBUG - Wed Oct 1 21:09:45 UTC 2014 --> /home/worldvision/public_html/CTS/services/core/env.php<=>66::Query => ' SELECT * FROM `ava_projects` WHERE `project_id` = '10' AND `active` = '1'  '
+

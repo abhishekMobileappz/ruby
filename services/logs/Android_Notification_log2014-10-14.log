@@ -1,0 +1,200 @@
+---
+msg: >
+  Hey user 2 corporate, user one has
+  requested you to join the group group1
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":8144245626949528447,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413289022722782%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey user one, user 2 corporate has
+  requested you to join the group same
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":6846284166760241335,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey user one, user 2 corporate has
+  requested you to join the group same
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":6715711469504741676,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey caluser 2 corpo, user one has
+  requested you to join the group new user
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":7054688411305492591,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413289622795630%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey caluser 2 corpo, user one has
+  requested you to join the group new user
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":7875281851828593950,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413290462002055%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey caluser 2 corpo, user one has
+  requested you to join the group new user
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":8009858910724520576,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413290702790151%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey caluser 2 corpo, user one has
+  requested you to join the group new user
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":6000870573038280614,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413291062467410%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey caluser 2 corpo, user one has
+  requested you to join the group new user
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":8814310366615154707,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413291182134523%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey caluser 2 corpo, user one has
+  requested you to join the group new user
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":6903676990360881062,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413291302712442%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey caluser 2 corpo, user one has
+  requested you to join the group new user
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":5681974616210615785,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413291362441831%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey caluser 2 corpo, user one has
+  requested you to join the group new user
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":8282523299950034296,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413291422065530%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey vins2 android, viniphone5 corp has
+  requested you to join the group nature
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":8114188625514184499,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413293883032182%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+---
+- '{"multicast_id":8567487474044095981,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413300362802454%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+---
+- '{"multicast_id":7494190945057467032,"success":1,"failure":1,"canonical_ids":0,"results":[{"message_id":"0:1413300362949831%38894435f9fd7ecd"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+---
+- '{"multicast_id":8533537978456839563,"success":2,"failure":1,"canonical_ids":0,"results":[{"message_id":"0:1413300363061084%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"message_id":"0:1413300363061303%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+---
+- '{"multicast_id":7612791726304168737,"success":2,"failure":2,"canonical_ids":0,"results":[{"message_id":"0:1413300363172496%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"message_id":"0:1413300363172497%38894435f9fd7ecd"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+---
+- '{"multicast_id":7821102949062906432,"success":3,"failure":2,"canonical_ids":0,"results":[{"message_id":"0:1413300363281226%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"message_id":"0:1413300363282730%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"message_id":"0:1413300363282732%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+---
+- '{"multicast_id":8268421131200924104,"success":3,"failure":3,"canonical_ids":0,"results":[{"message_id":"0:1413300363421960%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"message_id":"0:1413300363421613%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"message_id":"0:1413300363421962%38894435f9fd7ecd"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+---
+- '{"multicast_id":7190560225792433229,"success":4,"failure":3,"canonical_ids":0,"results":[{"message_id":"0:1413300363545407%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"message_id":"0:1413300363545938%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"message_id":"0:1413300363546819%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"message_id":"0:1413300363546066%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+---
+- '{"multicast_id":8652926054753613887,"success":4,"failure":4,"canonical_ids":0,"results":[{"message_id":"0:1413300364659399%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"message_id":"0:1413300364659247%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"message_id":"0:1413300364659968%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"message_id":"0:1413300364659557%38894435f9fd7ecd"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  You have missed goal by 643.62 last
+  week. Please donate USD 89095 now
+title: Weekly Target
+type: weekly_target
+---
+- '{"multicast_id":4805500354374623371,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bH6wI8PC3CeWNj_VEmPmEarQKqnQ2jFqZiZQfmCuHWMguQZvApN4XH_-sZLGZfXFUwO57ALJC8YL5DYV6kKJ3Jvy0SjJCCbussZxlPIdttPGjM2KkmfbV27suP0BZ87wUNTcpYJ5ZcByaPmceaGQ2M9XesEiQ","message_id":"0:1413301502355280%38894435f9fd7ecd"}]}'
+---
+msg: >
+  You have missed goal by 524.29 last
+  week. Please donate USD 82.84 now
+title: Weekly Target
+type: weekly_target
+---
+- '{"multicast_id":8845744979275184609,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  You have missed goal by 240.62 last
+  week. Please donate USD 604.14 now
+title: Weekly Target
+type: weekly_target
+---
+- '{"multicast_id":9106286555815729663,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413301502616529%38894435f9fd7ecd"}]}'
+---
+msg: >
+  You have missed goal by 157.57 last
+  week. Please donate USD 84.86 now
+title: Weekly Target
+type: weekly_target
+---
+- '{"multicast_id":8978444231550501801,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'

@@ -1,0 +1,2450 @@
+<?php  if (!defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+INFO  - Mon Nov 3 0:00:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414972801.966751}
+INFO  - Mon Nov 3 0:00:01 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":9044767175036526994,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":7633973308348597953,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":6159752168322148513,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":6506456731104996572,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":5579527162044553407,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":7332748036770449641,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":4898448084192595210,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 2
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":4965243127665670836,"success":0,"failure":2,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 3
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":4862375359891714963,"success":1,"failure":2,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803264315%38894435f9fd7ecd"}]}
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 4
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":5313658072060728328,"success":1,"failure":3,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803358144%38894435f9fd7ecd"},{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 5
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":5311513327722599384,"success":1,"failure":4,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803432831%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:02 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 6
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":8878087846619940847,"success":2,"failure":4,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803496087%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803497633%38894435f9fd7ecd"}]}
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 7
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":9136544000386770761,"success":2,"failure":5,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803559779%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803559874%38894435f9fd7ecd"},{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 8
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":6356408956837903336,"success":2,"failure":6,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803644577%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803643663%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"}]}
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 9
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":8502238709022105475,"success":2,"failure":7,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803707980%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803707978%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 10
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":6799858274187014772,"success":2,"failure":8,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803807185%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803806852%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 11
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":7246389784944619313,"success":2,"failure":9,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803872521%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803872016%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 12
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":6583263184823210119,"success":2,"failure":10,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803942723%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972803942721%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 13
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":7055299044223182834,"success":3,"failure":10,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804001639%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804000898%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804000900%38894435f9fd7ecd"}]}
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 14
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":7424544184988303960,"success":3,"failure":11,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804071515%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804070582%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804070324%38894435f9fd7ecd"},{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 15
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":6245354618166358899,"success":3,"failure":12,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804213463%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804213382%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972804215437%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:03 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 16
+
+INFO  - Mon Nov 3 0:00:04 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":8441650851571064733,"success":4,"failure":12,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972805287766%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972805287764%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972805287860%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972805287857%38894435f9fd7ecd"}]}
+
+INFO  - Mon Nov 3 0:00:04 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 17
+
+INFO  - Mon Nov 3 0:00:05 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":7084749969234825534,"success":4,"failure":13,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972806355520%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972806355908%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972806355937%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972806355826%38894435f9fd7ecd"},{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:05 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 18
+
+INFO  - Mon Nov 3 0:00:06 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":6121525931720183473,"success":4,"failure":14,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972807421604%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972807421236%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972807421456%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972807421877%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"}]}
+
+INFO  - Mon Nov 3 0:00:06 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 19
+
+INFO  - Mon Nov 3 0:00:08 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":6946097745880901133,"success":4,"failure":15,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972808476859%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972808475385%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972808476074%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972808475948%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:08 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 20
+
+INFO  - Mon Nov 3 0:00:09 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":8560592255912622965,"success":4,"failure":16,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972809542940%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972809541497%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972809542957%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972809542267%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:09 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 21
+
+INFO  - Mon Nov 3 0:00:10 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":6196376426716343323,"success":4,"failure":17,"canonical_ids":0,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972810615960%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972810615664%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972810615964%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"message_id":"0:1414972810615962%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"NotRegistered"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:00:10 UTC 2014 --> ANDROID::PUSH Start at:: {12:00:10}
+INFO  - Mon Nov 3 0:00:10 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 0:00:10 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:00:01 }<br/>
+INFO  - Mon Nov 3 0:00:10 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 8.205888 }<br/>
+INFO  - Mon Nov 3 0:01:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414972861.515817}
+INFO  - Mon Nov 3 0:01:01 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Mon Nov 3 0:01:01 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":8367178135305228835,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1414972862103109%38894435f9fd7ecd"}]}
+
+INFO  - Mon Nov 3 0:01:01 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Mon Nov 3 0:01:01 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":6268860601221395686,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+INFO  - Mon Nov 3 0:01:01 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Mon Nov 3 0:01:01 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":5280172454608675946,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:01:01 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Mon Nov 3 0:01:01 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":5105048798834793387,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:01:01 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Mon Nov 3 0:01:01 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":6926212350299019701,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+INFO  - Mon Nov 3 0:01:01 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Mon Nov 3 0:01:01 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":6080886498750307720,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1414972862370101%38894435f9fd7ecd"}]}
+
+INFO  - Mon Nov 3 0:01:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:01:01}
+INFO  - Mon Nov 3 0:01:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:01:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:01:01 }<br/>
+INFO  - Mon Nov 3 0:01:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.417372 }<br/>
+INFO  - Mon Nov 3 0:02:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414972921.358773}
+INFO  - Mon Nov 3 0:02:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:02:01}
+INFO  - Mon Nov 3 0:02:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:02:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:02:01 }<br/>
+INFO  - Mon Nov 3 0:02:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008429 }<br/>
+INFO  - Mon Nov 3 0:03:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414972981.193960}
+INFO  - Mon Nov 3 0:03:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:03:01}
+INFO  - Mon Nov 3 0:03:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:03:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:03:01 }<br/>
+INFO  - Mon Nov 3 0:03:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005714 }<br/>
+INFO  - Mon Nov 3 0:04:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414973041.239481}
+INFO  - Mon Nov 3 0:04:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:04:01}
+INFO  - Mon Nov 3 0:04:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000001 }
+
+INFO  - Mon Nov 3 0:04:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:04:01 }<br/>
+INFO  - Mon Nov 3 0:04:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005288 }<br/>
+INFO  - Mon Nov 3 0:05:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414973101.471961}
+INFO  - Mon Nov 3 0:05:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:05:01}
+INFO  - Mon Nov 3 0:05:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:05:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:05:01 }<br/>
+INFO  - Mon Nov 3 0:05:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004823 }<br/>
+INFO  - Mon Nov 3 0:06:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414973161.075672}
+INFO  - Mon Nov 3 0:06:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:06:01}
+INFO  - Mon Nov 3 0:06:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:06:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:06:01 }<br/>
+INFO  - Mon Nov 3 0:06:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005117 }<br/>
+INFO  - Mon Nov 3 0:07:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414973221.091995}
+INFO  - Mon Nov 3 0:07:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:07:01}
+INFO  - Mon Nov 3 0:07:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 0:07:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:07:01 }<br/>
+INFO  - Mon Nov 3 0:07:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005816 }<br/>
+INFO  - Mon Nov 3 0:08:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414973281.102421}
+INFO  - Mon Nov 3 0:08:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:08:01}
+INFO  - Mon Nov 3 0:08:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:08:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:08:01 }<br/>
+INFO  - Mon Nov 3 0:08:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005163 }<br/>
+INFO  - Mon Nov 3 0:09:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414973341.949669}
+INFO  - Mon Nov 3 0:09:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:09:01}
+INFO  - Mon Nov 3 0:09:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:09:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:09:01 }<br/>
+INFO  - Mon Nov 3 0:09:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004898 }<br/>
+INFO  - Mon Nov 3 0:10:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414973401.177610}
+INFO  - Mon Nov 3 0:10:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:10:01}
+INFO  - Mon Nov 3 0:10:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:10:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:10:01 }<br/>
+INFO  - Mon Nov 3 0:10:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009721 }<br/>
+INFO  - Mon Nov 3 0:11:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414973461.770690}
+INFO  - Mon Nov 3 0:11:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:11:01}
+INFO  - Mon Nov 3 0:11:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:11:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:11:01 }<br/>
+INFO  - Mon Nov 3 0:11:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005503 }<br/>
+INFO  - Mon Nov 3 0:12:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414973521.507304}
+INFO  - Mon Nov 3 0:12:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:12:01}
+INFO  - Mon Nov 3 0:12:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:12:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:12:01 }<br/>
+INFO  - Mon Nov 3 0:12:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005551 }<br/>
+INFO  - Mon Nov 3 0:13:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414973581.515917}
+INFO  - Mon Nov 3 0:13:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:13:01}
+INFO  - Mon Nov 3 0:13:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 0:13:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:13:01 }<br/>
+INFO  - Mon Nov 3 0:13:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007486 }<br/>
+INFO  - Mon Nov 3 0:14:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414973641.180517}
+INFO  - Mon Nov 3 0:14:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:14:01}
+INFO  - Mon Nov 3 0:14:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:14:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:14:01 }<br/>
+INFO  - Mon Nov 3 0:14:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005389 }<br/>
+INFO  - Mon Nov 3 0:15:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414973701.418980}
+INFO  - Mon Nov 3 0:15:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:15:01}
+INFO  - Mon Nov 3 0:15:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 0:15:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:15:01 }<br/>
+INFO  - Mon Nov 3 0:15:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005182 }<br/>
+INFO  - Mon Nov 3 0:16:02 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414973762.019720}
+INFO  - Mon Nov 3 0:16:02 UTC 2014 --> ANDROID::PUSH Start at:: {12:16:02}
+INFO  - Mon Nov 3 0:16:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 0:16:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:16:02 }<br/>
+INFO  - Mon Nov 3 0:16:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006066 }<br/>
+INFO  - Mon Nov 3 0:17:02 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414973822.020906}
+INFO  - Mon Nov 3 0:17:02 UTC 2014 --> ANDROID::PUSH Start at:: {12:17:02}
+INFO  - Mon Nov 3 0:17:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:17:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:17:02 }<br/>
+INFO  - Mon Nov 3 0:17:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005753 }<br/>
+INFO  - Mon Nov 3 0:18:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414973881.924966}
+INFO  - Mon Nov 3 0:18:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:18:01}
+INFO  - Mon Nov 3 0:18:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:18:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:18:01 }<br/>
+INFO  - Mon Nov 3 0:18:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004992 }<br/>
+INFO  - Mon Nov 3 0:19:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414973941.769528}
+INFO  - Mon Nov 3 0:19:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:19:01}
+INFO  - Mon Nov 3 0:19:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:19:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:19:01 }<br/>
+INFO  - Mon Nov 3 0:19:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005009 }<br/>
+INFO  - Mon Nov 3 0:20:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414974001.843319}
+INFO  - Mon Nov 3 0:20:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:20:01}
+INFO  - Mon Nov 3 0:20:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:20:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:20:01 }<br/>
+INFO  - Mon Nov 3 0:20:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006122 }<br/>
+INFO  - Mon Nov 3 0:21:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414974061.460824}
+INFO  - Mon Nov 3 0:21:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:21:01}
+INFO  - Mon Nov 3 0:21:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:21:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:21:01 }<br/>
+INFO  - Mon Nov 3 0:21:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008367 }<br/>
+INFO  - Mon Nov 3 0:22:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414974121.437928}
+INFO  - Mon Nov 3 0:22:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:22:01}
+INFO  - Mon Nov 3 0:22:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:22:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:22:01 }<br/>
+INFO  - Mon Nov 3 0:22:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004770 }<br/>
+INFO  - Mon Nov 3 0:23:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414974181.481212}
+INFO  - Mon Nov 3 0:23:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:23:01}
+INFO  - Mon Nov 3 0:23:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:23:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:23:01 }<br/>
+INFO  - Mon Nov 3 0:23:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006751 }<br/>
+INFO  - Mon Nov 3 0:24:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414974241.368008}
+INFO  - Mon Nov 3 0:24:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:24:01}
+INFO  - Mon Nov 3 0:24:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:24:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:24:01 }<br/>
+INFO  - Mon Nov 3 0:24:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.011205 }<br/>
+INFO  - Mon Nov 3 0:25:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414974301.571893}
+INFO  - Mon Nov 3 0:25:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:25:01}
+INFO  - Mon Nov 3 0:25:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:25:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:25:01 }<br/>
+INFO  - Mon Nov 3 0:25:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005126 }<br/>
+INFO  - Mon Nov 3 0:26:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414974361.177309}
+INFO  - Mon Nov 3 0:26:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:26:01}
+INFO  - Mon Nov 3 0:26:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:26:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:26:01 }<br/>
+INFO  - Mon Nov 3 0:26:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008183 }<br/>
+INFO  - Mon Nov 3 0:27:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414974421.208554}
+INFO  - Mon Nov 3 0:27:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:27:01}
+INFO  - Mon Nov 3 0:27:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:27:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:27:01 }<br/>
+INFO  - Mon Nov 3 0:27:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006191 }<br/>
+INFO  - Mon Nov 3 0:28:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414974481.053008}
+INFO  - Mon Nov 3 0:28:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:28:01}
+INFO  - Mon Nov 3 0:28:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:28:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:28:01 }<br/>
+INFO  - Mon Nov 3 0:28:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005277 }<br/>
+INFO  - Mon Nov 3 0:29:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414974541.900094}
+INFO  - Mon Nov 3 0:29:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:29:01}
+INFO  - Mon Nov 3 0:29:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:29:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:29:01 }<br/>
+INFO  - Mon Nov 3 0:29:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005380 }<br/>
+INFO  - Mon Nov 3 0:30:02 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414974602.074957}
+INFO  - Mon Nov 3 0:30:02 UTC 2014 --> ANDROID::PUSH Start at:: {12:30:02}
+INFO  - Mon Nov 3 0:30:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 0:30:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:30:02 }<br/>
+INFO  - Mon Nov 3 0:30:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009442 }<br/>
+INFO  - Mon Nov 3 0:31:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414974661.662535}
+INFO  - Mon Nov 3 0:31:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:31:01}
+INFO  - Mon Nov 3 0:31:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:31:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:31:01 }<br/>
+INFO  - Mon Nov 3 0:31:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007922 }<br/>
+INFO  - Mon Nov 3 0:32:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414974721.650351}
+INFO  - Mon Nov 3 0:32:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:32:01}
+INFO  - Mon Nov 3 0:32:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:32:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:32:01 }<br/>
+INFO  - Mon Nov 3 0:32:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005100 }<br/>
+INFO  - Mon Nov 3 0:33:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414974781.635375}
+INFO  - Mon Nov 3 0:33:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:33:01}
+INFO  - Mon Nov 3 0:33:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:33:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:33:01 }<br/>
+INFO  - Mon Nov 3 0:33:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006870 }<br/>
+INFO  - Mon Nov 3 0:34:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414974841.643354}
+INFO  - Mon Nov 3 0:34:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:34:01}
+INFO  - Mon Nov 3 0:34:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:34:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:34:01 }<br/>
+INFO  - Mon Nov 3 0:34:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006254 }<br/>
+INFO  - Mon Nov 3 0:35:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414974901.671035}
+INFO  - Mon Nov 3 0:35:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:35:01}
+INFO  - Mon Nov 3 0:35:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 0:35:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:35:01 }<br/>
+INFO  - Mon Nov 3 0:35:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005520 }<br/>
+INFO  - Mon Nov 3 0:36:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414974961.240723}
+INFO  - Mon Nov 3 0:36:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:36:01}
+INFO  - Mon Nov 3 0:36:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:36:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:36:01 }<br/>
+INFO  - Mon Nov 3 0:36:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005948 }<br/>
+INFO  - Mon Nov 3 0:37:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414975021.312221}
+INFO  - Mon Nov 3 0:37:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:37:01}
+INFO  - Mon Nov 3 0:37:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:37:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:37:01 }<br/>
+INFO  - Mon Nov 3 0:37:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005983 }<br/>
+INFO  - Mon Nov 3 0:38:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414975081.150802}
+INFO  - Mon Nov 3 0:38:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:38:01}
+INFO  - Mon Nov 3 0:38:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 0:38:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:38:01 }<br/>
+INFO  - Mon Nov 3 0:38:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004920 }<br/>
+INFO  - Mon Nov 3 0:39:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414975141.182874}
+INFO  - Mon Nov 3 0:39:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:39:01}
+INFO  - Mon Nov 3 0:39:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:39:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:39:01 }<br/>
+INFO  - Mon Nov 3 0:39:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005813 }<br/>
+INFO  - Mon Nov 3 0:40:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414975201.213029}
+INFO  - Mon Nov 3 0:40:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:40:01}
+INFO  - Mon Nov 3 0:40:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:40:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:40:01 }<br/>
+INFO  - Mon Nov 3 0:40:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006355 }<br/>
+INFO  - Mon Nov 3 0:41:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414975261.832225}
+INFO  - Mon Nov 3 0:41:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:41:01}
+INFO  - Mon Nov 3 0:41:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:41:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:41:01 }<br/>
+INFO  - Mon Nov 3 0:41:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008676 }<br/>
+INFO  - Mon Nov 3 0:42:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414975321.711627}
+INFO  - Mon Nov 3 0:42:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:42:01}
+INFO  - Mon Nov 3 0:42:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:42:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:42:01 }<br/>
+INFO  - Mon Nov 3 0:42:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006020 }<br/>
+INFO  - Mon Nov 3 0:43:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414975381.720313}
+INFO  - Mon Nov 3 0:43:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:43:01}
+INFO  - Mon Nov 3 0:43:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 0:43:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:43:01 }<br/>
+INFO  - Mon Nov 3 0:43:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004989 }<br/>
+INFO  - Mon Nov 3 0:44:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414975441.770266}
+INFO  - Mon Nov 3 0:44:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:44:01}
+INFO  - Mon Nov 3 0:44:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:44:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:44:01 }<br/>
+INFO  - Mon Nov 3 0:44:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005353 }<br/>
+INFO  - Mon Nov 3 0:45:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414975501.780560}
+INFO  - Mon Nov 3 0:45:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:45:01}
+INFO  - Mon Nov 3 0:45:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000005 }
+
+INFO  - Mon Nov 3 0:45:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:45:01 }<br/>
+INFO  - Mon Nov 3 0:45:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007324 }<br/>
+INFO  - Mon Nov 3 0:46:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414975561.389319}
+INFO  - Mon Nov 3 0:46:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:46:01}
+INFO  - Mon Nov 3 0:46:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:46:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:46:01 }<br/>
+INFO  - Mon Nov 3 0:46:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005268 }<br/>
+INFO  - Mon Nov 3 0:47:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414975621.246787}
+INFO  - Mon Nov 3 0:47:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:47:01}
+INFO  - Mon Nov 3 0:47:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:47:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:47:01 }<br/>
+INFO  - Mon Nov 3 0:47:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009626 }<br/>
+INFO  - Mon Nov 3 0:48:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414975681.233416}
+INFO  - Mon Nov 3 0:48:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:48:01}
+INFO  - Mon Nov 3 0:48:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:48:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:48:01 }<br/>
+INFO  - Mon Nov 3 0:48:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006343 }<br/>
+INFO  - Mon Nov 3 0:49:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414975741.204347}
+INFO  - Mon Nov 3 0:49:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:49:01}
+INFO  - Mon Nov 3 0:49:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:49:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:49:01 }<br/>
+INFO  - Mon Nov 3 0:49:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006052 }<br/>
+INFO  - Mon Nov 3 0:50:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414975801.228298}
+INFO  - Mon Nov 3 0:50:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:50:01}
+INFO  - Mon Nov 3 0:50:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:50:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:50:01 }<br/>
+INFO  - Mon Nov 3 0:50:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005015 }<br/>
+INFO  - Mon Nov 3 0:51:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414975861.835594}
+INFO  - Mon Nov 3 0:51:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:51:01}
+INFO  - Mon Nov 3 0:51:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:51:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:51:01 }<br/>
+INFO  - Mon Nov 3 0:51:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008642 }<br/>
+INFO  - Mon Nov 3 0:52:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414975921.667378}
+INFO  - Mon Nov 3 0:52:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:52:01}
+INFO  - Mon Nov 3 0:52:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:52:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:52:01 }<br/>
+INFO  - Mon Nov 3 0:52:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007873 }<br/>
+INFO  - Mon Nov 3 0:53:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414975981.516957}
+INFO  - Mon Nov 3 0:53:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:53:01}
+INFO  - Mon Nov 3 0:53:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000011 }
+
+INFO  - Mon Nov 3 0:53:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:53:01 }<br/>
+INFO  - Mon Nov 3 0:53:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005026 }<br/>
+INFO  - Mon Nov 3 0:54:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414976041.492503}
+INFO  - Mon Nov 3 0:54:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:54:01}
+INFO  - Mon Nov 3 0:54:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:54:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:54:01 }<br/>
+INFO  - Mon Nov 3 0:54:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005488 }<br/>
+INFO  - Mon Nov 3 0:55:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414976101.749005}
+INFO  - Mon Nov 3 0:55:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:55:01}
+INFO  - Mon Nov 3 0:55:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:55:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:55:01 }<br/>
+INFO  - Mon Nov 3 0:55:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006111 }<br/>
+INFO  - Mon Nov 3 0:56:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414976161.330998}
+INFO  - Mon Nov 3 0:56:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:56:01}
+INFO  - Mon Nov 3 0:56:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:56:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:56:01 }<br/>
+INFO  - Mon Nov 3 0:56:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004980 }<br/>
+INFO  - Mon Nov 3 0:57:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414976221.310784}
+INFO  - Mon Nov 3 0:57:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:57:01}
+INFO  - Mon Nov 3 0:57:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:57:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:57:01 }<br/>
+INFO  - Mon Nov 3 0:57:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005166 }<br/>
+INFO  - Mon Nov 3 0:58:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414976281.159290}
+INFO  - Mon Nov 3 0:58:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:58:01}
+INFO  - Mon Nov 3 0:58:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 0:58:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:58:01 }<br/>
+INFO  - Mon Nov 3 0:58:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005999 }<br/>
+INFO  - Mon Nov 3 0:59:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414976341.864239}
+INFO  - Mon Nov 3 0:59:01 UTC 2014 --> ANDROID::PUSH Start at:: {12:59:01}
+INFO  - Mon Nov 3 0:59:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 0:59:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 12:59:01 }<br/>
+INFO  - Mon Nov 3 0:59:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005033 }<br/>
+INFO  - Mon Nov 3 1:00:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414976401.710697}
+INFO  - Mon Nov 3 1:00:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:00:01}
+INFO  - Mon Nov 3 1:00:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:00:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:00:01 }<br/>
+INFO  - Mon Nov 3 1:00:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005423 }<br/>
+INFO  - Mon Nov 3 1:01:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414976461.321609}
+INFO  - Mon Nov 3 1:01:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:01:01}
+INFO  - Mon Nov 3 1:01:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 1:01:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:01:01 }<br/>
+INFO  - Mon Nov 3 1:01:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008427 }<br/>
+INFO  - Mon Nov 3 1:02:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414976521.308835}
+INFO  - Mon Nov 3 1:02:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:02:01}
+INFO  - Mon Nov 3 1:02:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:02:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:02:01 }<br/>
+INFO  - Mon Nov 3 1:02:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006050 }<br/>
+INFO  - Mon Nov 3 1:03:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414976581.204917}
+INFO  - Mon Nov 3 1:03:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:03:01}
+INFO  - Mon Nov 3 1:03:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:03:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:03:01 }<br/>
+INFO  - Mon Nov 3 1:03:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007608 }<br/>
+INFO  - Mon Nov 3 1:04:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414976641.227005}
+INFO  - Mon Nov 3 1:04:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:04:01}
+INFO  - Mon Nov 3 1:04:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:04:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:04:01 }<br/>
+INFO  - Mon Nov 3 1:04:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004675 }<br/>
+INFO  - Mon Nov 3 1:05:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414976701.411455}
+INFO  - Mon Nov 3 1:05:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:05:01}
+INFO  - Mon Nov 3 1:05:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:05:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:05:01 }<br/>
+INFO  - Mon Nov 3 1:05:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005717 }<br/>
+INFO  - Mon Nov 3 1:06:02 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414976762.016026}
+INFO  - Mon Nov 3 1:06:02 UTC 2014 --> ANDROID::PUSH Start at:: {01:06:02}
+INFO  - Mon Nov 3 1:06:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:06:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:06:02 }<br/>
+INFO  - Mon Nov 3 1:06:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005369 }<br/>
+INFO  - Mon Nov 3 1:07:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414976821.851326}
+INFO  - Mon Nov 3 1:07:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:07:01}
+INFO  - Mon Nov 3 1:07:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 1:07:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:07:01 }<br/>
+INFO  - Mon Nov 3 1:07:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005101 }<br/>
+INFO  - Mon Nov 3 1:08:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414976881.673042}
+INFO  - Mon Nov 3 1:08:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:08:01}
+INFO  - Mon Nov 3 1:08:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:08:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:08:01 }<br/>
+INFO  - Mon Nov 3 1:08:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006309 }<br/>
+INFO  - Mon Nov 3 1:09:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414976941.690719}
+INFO  - Mon Nov 3 1:09:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:09:01}
+INFO  - Mon Nov 3 1:09:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:09:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:09:01 }<br/>
+INFO  - Mon Nov 3 1:09:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005606 }<br/>
+INFO  - Mon Nov 3 1:10:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414977001.734156}
+INFO  - Mon Nov 3 1:10:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:10:01}
+INFO  - Mon Nov 3 1:10:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:10:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:10:01 }<br/>
+INFO  - Mon Nov 3 1:10:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005742 }<br/>
+INFO  - Mon Nov 3 1:11:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414977061.362220}
+INFO  - Mon Nov 3 1:11:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:11:01}
+INFO  - Mon Nov 3 1:11:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 1:11:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:11:01 }<br/>
+INFO  - Mon Nov 3 1:11:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007962 }<br/>
+INFO  - Mon Nov 3 1:12:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414977121.208660}
+INFO  - Mon Nov 3 1:12:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:12:01}
+INFO  - Mon Nov 3 1:12:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:12:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:12:01 }<br/>
+INFO  - Mon Nov 3 1:12:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005279 }<br/>
+INFO  - Mon Nov 3 1:13:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414977181.111388}
+INFO  - Mon Nov 3 1:13:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:13:01}
+INFO  - Mon Nov 3 1:13:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:13:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:13:01 }<br/>
+INFO  - Mon Nov 3 1:13:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006486 }<br/>
+INFO  - Mon Nov 3 1:14:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414977241.961409}
+INFO  - Mon Nov 3 1:14:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:14:01}
+INFO  - Mon Nov 3 1:14:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:14:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:14:01 }<br/>
+INFO  - Mon Nov 3 1:14:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007062 }<br/>
+INFO  - Mon Nov 3 1:15:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414977301.881384}
+INFO  - Mon Nov 3 1:15:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:15:01}
+INFO  - Mon Nov 3 1:15:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:15:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:15:01 }<br/>
+INFO  - Mon Nov 3 1:15:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004751 }<br/>
+INFO  - Mon Nov 3 1:16:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414977361.490056}
+INFO  - Mon Nov 3 1:16:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:16:01}
+INFO  - Mon Nov 3 1:16:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:16:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:16:01 }<br/>
+INFO  - Mon Nov 3 1:16:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005506 }<br/>
+INFO  - Mon Nov 3 1:17:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414977421.386595}
+INFO  - Mon Nov 3 1:17:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:17:01}
+INFO  - Mon Nov 3 1:17:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:17:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:17:01 }<br/>
+INFO  - Mon Nov 3 1:17:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006405 }<br/>
+INFO  - Mon Nov 3 1:18:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414977481.361879}
+INFO  - Mon Nov 3 1:18:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:18:01}
+INFO  - Mon Nov 3 1:18:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:18:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:18:01 }<br/>
+INFO  - Mon Nov 3 1:18:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005421 }<br/>
+INFO  - Mon Nov 3 1:19:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414977541.383134}
+INFO  - Mon Nov 3 1:19:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:19:01}
+INFO  - Mon Nov 3 1:19:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:19:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:19:01 }<br/>
+INFO  - Mon Nov 3 1:19:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004906 }<br/>
+INFO  - Mon Nov 3 1:20:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414977601.228093}
+INFO  - Mon Nov 3 1:20:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:20:01}
+INFO  - Mon Nov 3 1:20:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:20:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:20:01 }<br/>
+INFO  - Mon Nov 3 1:20:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008024 }<br/>
+INFO  - Mon Nov 3 1:21:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414977661.851472}
+INFO  - Mon Nov 3 1:21:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:21:01}
+INFO  - Mon Nov 3 1:21:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:21:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:21:01 }<br/>
+INFO  - Mon Nov 3 1:21:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005111 }<br/>
+INFO  - Mon Nov 3 1:22:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414977721.880813}
+INFO  - Mon Nov 3 1:22:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:22:01}
+INFO  - Mon Nov 3 1:22:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 1:22:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:22:01 }<br/>
+INFO  - Mon Nov 3 1:22:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005312 }<br/>
+INFO  - Mon Nov 3 1:23:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414977781.732177}
+INFO  - Mon Nov 3 1:23:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:23:01}
+INFO  - Mon Nov 3 1:23:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:23:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:23:01 }<br/>
+INFO  - Mon Nov 3 1:23:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005647 }<br/>
+INFO  - Mon Nov 3 1:24:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414977841.552058}
+INFO  - Mon Nov 3 1:24:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:24:01}
+INFO  - Mon Nov 3 1:24:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:24:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:24:01 }<br/>
+INFO  - Mon Nov 3 1:24:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006450 }<br/>
+INFO  - Mon Nov 3 1:25:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414977901.370022}
+INFO  - Mon Nov 3 1:25:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:25:01}
+INFO  - Mon Nov 3 1:25:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:25:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:25:01 }<br/>
+INFO  - Mon Nov 3 1:25:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006206 }<br/>
+INFO  - Mon Nov 3 1:26:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414977961.989731}
+INFO  - Mon Nov 3 1:26:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:26:01}
+INFO  - Mon Nov 3 1:26:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:26:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:26:01 }<br/>
+INFO  - Mon Nov 3 1:26:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.010084 }<br/>
+INFO  - Mon Nov 3 1:27:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414978021.792536}
+INFO  - Mon Nov 3 1:27:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:27:01}
+INFO  - Mon Nov 3 1:27:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:27:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:27:01 }<br/>
+INFO  - Mon Nov 3 1:27:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008016 }<br/>
+INFO  - Mon Nov 3 1:28:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414978081.851473}
+INFO  - Mon Nov 3 1:28:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:28:01}
+INFO  - Mon Nov 3 1:28:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:28:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:28:01 }<br/>
+INFO  - Mon Nov 3 1:28:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004967 }<br/>
+INFO  - Mon Nov 3 1:29:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414978141.671942}
+INFO  - Mon Nov 3 1:29:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:29:01}
+INFO  - Mon Nov 3 1:29:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:29:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:29:01 }<br/>
+INFO  - Mon Nov 3 1:29:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005099 }<br/>
+INFO  - Mon Nov 3 1:30:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414978201.754775}
+INFO  - Mon Nov 3 1:30:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:30:01}
+INFO  - Mon Nov 3 1:30:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:30:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:30:01 }<br/>
+INFO  - Mon Nov 3 1:30:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005416 }<br/>
+INFO  - Mon Nov 3 1:31:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414978261.363550}
+INFO  - Mon Nov 3 1:31:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:31:01}
+INFO  - Mon Nov 3 1:31:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:31:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:31:01 }<br/>
+INFO  - Mon Nov 3 1:31:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005156 }<br/>
+INFO  - Mon Nov 3 1:32:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414978321.187570}
+INFO  - Mon Nov 3 1:32:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:32:01}
+INFO  - Mon Nov 3 1:32:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:32:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:32:01 }<br/>
+INFO  - Mon Nov 3 1:32:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005180 }<br/>
+INFO  - Mon Nov 3 1:33:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414978381.858802}
+INFO  - Mon Nov 3 1:33:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:33:01}
+INFO  - Mon Nov 3 1:33:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:33:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:33:01 }<br/>
+INFO  - Mon Nov 3 1:33:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008623 }<br/>
+INFO  - Mon Nov 3 1:34:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414978441.726543}
+INFO  - Mon Nov 3 1:34:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:34:01}
+INFO  - Mon Nov 3 1:34:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:34:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:34:01 }<br/>
+INFO  - Mon Nov 3 1:34:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005393 }<br/>
+INFO  - Mon Nov 3 1:35:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414978501.578794}
+INFO  - Mon Nov 3 1:35:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:35:01}
+INFO  - Mon Nov 3 1:35:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000005 }
+
+INFO  - Mon Nov 3 1:35:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:35:01 }<br/>
+INFO  - Mon Nov 3 1:35:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007280 }<br/>
+INFO  - Mon Nov 3 1:36:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414978561.160546}
+INFO  - Mon Nov 3 1:36:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:36:01}
+INFO  - Mon Nov 3 1:36:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:36:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:36:01 }<br/>
+INFO  - Mon Nov 3 1:36:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005723 }<br/>
+INFO  - Mon Nov 3 1:37:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414978621.907768}
+INFO  - Mon Nov 3 1:37:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:37:01}
+INFO  - Mon Nov 3 1:37:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:37:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:37:01 }<br/>
+INFO  - Mon Nov 3 1:37:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005519 }<br/>
+INFO  - Mon Nov 3 1:38:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414978681.910937}
+INFO  - Mon Nov 3 1:38:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:38:01}
+INFO  - Mon Nov 3 1:38:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:38:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:38:01 }<br/>
+INFO  - Mon Nov 3 1:38:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005069 }<br/>
+INFO  - Mon Nov 3 1:39:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414978741.892307}
+INFO  - Mon Nov 3 1:39:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:39:01}
+INFO  - Mon Nov 3 1:39:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:39:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:39:01 }<br/>
+INFO  - Mon Nov 3 1:39:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005564 }<br/>
+INFO  - Mon Nov 3 1:40:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414978801.925105}
+INFO  - Mon Nov 3 1:40:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:40:01}
+INFO  - Mon Nov 3 1:40:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 1:40:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:40:01 }<br/>
+INFO  - Mon Nov 3 1:40:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005166 }<br/>
+INFO  - Mon Nov 3 1:41:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414978861.519116}
+INFO  - Mon Nov 3 1:41:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:41:01}
+INFO  - Mon Nov 3 1:41:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:41:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:41:01 }<br/>
+INFO  - Mon Nov 3 1:41:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007849 }<br/>
+INFO  - Mon Nov 3 1:42:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414978921.367675}
+INFO  - Mon Nov 3 1:42:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:42:01}
+INFO  - Mon Nov 3 1:42:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:42:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:42:01 }<br/>
+INFO  - Mon Nov 3 1:42:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007757 }<br/>
+INFO  - Mon Nov 3 1:43:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414978981.169502}
+INFO  - Mon Nov 3 1:43:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:43:01}
+INFO  - Mon Nov 3 1:43:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:43:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:43:01 }<br/>
+INFO  - Mon Nov 3 1:43:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004936 }<br/>
+INFO  - Mon Nov 3 1:44:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414979041.120542}
+INFO  - Mon Nov 3 1:44:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:44:01}
+INFO  - Mon Nov 3 1:44:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:44:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:44:01 }<br/>
+INFO  - Mon Nov 3 1:44:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005082 }<br/>
+INFO  - Mon Nov 3 1:45:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414979101.271075}
+INFO  - Mon Nov 3 1:45:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:45:01}
+INFO  - Mon Nov 3 1:45:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:45:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:45:01 }<br/>
+INFO  - Mon Nov 3 1:45:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005338 }<br/>
+INFO  - Mon Nov 3 1:46:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414979161.875258}
+INFO  - Mon Nov 3 1:46:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:46:01}
+INFO  - Mon Nov 3 1:46:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:46:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:46:01 }<br/>
+INFO  - Mon Nov 3 1:46:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008698 }<br/>
+INFO  - Mon Nov 3 1:47:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414979221.910295}
+INFO  - Mon Nov 3 1:47:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:47:01}
+INFO  - Mon Nov 3 1:47:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:47:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:47:01 }<br/>
+INFO  - Mon Nov 3 1:47:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008314 }<br/>
+INFO  - Mon Nov 3 1:48:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414979281.770160}
+INFO  - Mon Nov 3 1:48:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:48:01}
+INFO  - Mon Nov 3 1:48:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:48:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:48:01 }<br/>
+INFO  - Mon Nov 3 1:48:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005488 }<br/>
+INFO  - Mon Nov 3 1:49:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414979341.587351}
+INFO  - Mon Nov 3 1:49:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:49:01}
+INFO  - Mon Nov 3 1:49:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:49:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:49:01 }<br/>
+INFO  - Mon Nov 3 1:49:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004952 }<br/>
+INFO  - Mon Nov 3 1:50:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414979401.768151}
+INFO  - Mon Nov 3 1:50:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:50:01}
+INFO  - Mon Nov 3 1:50:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:50:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:50:01 }<br/>
+INFO  - Mon Nov 3 1:50:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006867 }<br/>
+INFO  - Mon Nov 3 1:51:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414979461.373558}
+INFO  - Mon Nov 3 1:51:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:51:01}
+INFO  - Mon Nov 3 1:51:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:51:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:51:01 }<br/>
+INFO  - Mon Nov 3 1:51:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.010303 }<br/>
+INFO  - Mon Nov 3 1:52:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414979521.405069}
+INFO  - Mon Nov 3 1:52:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:52:01}
+INFO  - Mon Nov 3 1:52:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:52:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:52:01 }<br/>
+INFO  - Mon Nov 3 1:52:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007492 }<br/>
+INFO  - Mon Nov 3 1:53:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414979581.414320}
+INFO  - Mon Nov 3 1:53:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:53:01}
+INFO  - Mon Nov 3 1:53:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:53:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:53:01 }<br/>
+INFO  - Mon Nov 3 1:53:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008695 }<br/>
+INFO  - Mon Nov 3 1:54:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414979641.374769}
+INFO  - Mon Nov 3 1:54:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:54:01}
+INFO  - Mon Nov 3 1:54:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 1:54:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:54:01 }<br/>
+INFO  - Mon Nov 3 1:54:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004605 }<br/>
+INFO  - Mon Nov 3 1:55:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414979701.421826}
+INFO  - Mon Nov 3 1:55:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:55:01}
+INFO  - Mon Nov 3 1:55:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 1:55:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:55:01 }<br/>
+INFO  - Mon Nov 3 1:55:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006422 }<br/>
+INFO  - Mon Nov 3 1:56:02 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414979762.044640}
+INFO  - Mon Nov 3 1:56:02 UTC 2014 --> ANDROID::PUSH Start at:: {01:56:02}
+INFO  - Mon Nov 3 1:56:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 1:56:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:56:02 }<br/>
+INFO  - Mon Nov 3 1:56:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.010258 }<br/>
+INFO  - Mon Nov 3 1:57:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414979821.790972}
+INFO  - Mon Nov 3 1:57:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:57:01}
+INFO  - Mon Nov 3 1:57:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:57:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:57:01 }<br/>
+INFO  - Mon Nov 3 1:57:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006947 }<br/>
+INFO  - Mon Nov 3 1:58:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414979881.674323}
+INFO  - Mon Nov 3 1:58:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:58:01}
+INFO  - Mon Nov 3 1:58:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 1:58:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:58:01 }<br/>
+INFO  - Mon Nov 3 1:58:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009278 }<br/>
+INFO  - Mon Nov 3 1:59:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414979941.691063}
+INFO  - Mon Nov 3 1:59:01 UTC 2014 --> ANDROID::PUSH Start at:: {01:59:01}
+INFO  - Mon Nov 3 1:59:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000005 }
+
+INFO  - Mon Nov 3 1:59:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 01:59:01 }<br/>
+INFO  - Mon Nov 3 1:59:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007455 }<br/>
+INFO  - Mon Nov 3 2:00:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414980001.568639}
+INFO  - Mon Nov 3 2:00:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:00:01}
+INFO  - Mon Nov 3 2:00:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:00:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:00:01 }<br/>
+INFO  - Mon Nov 3 2:00:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006103 }<br/>
+INFO  - Mon Nov 3 2:01:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414980061.175701}
+INFO  - Mon Nov 3 2:01:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:01:01}
+INFO  - Mon Nov 3 2:01:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 2:01:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:01:01 }<br/>
+INFO  - Mon Nov 3 2:01:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006175 }<br/>
+INFO  - Mon Nov 3 2:02:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414980121.112244}
+INFO  - Mon Nov 3 2:02:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:02:01}
+INFO  - Mon Nov 3 2:02:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000001 }
+
+INFO  - Mon Nov 3 2:02:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:02:01 }<br/>
+INFO  - Mon Nov 3 2:02:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005069 }<br/>
+INFO  - Mon Nov 3 2:03:02 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414980182.065572}
+INFO  - Mon Nov 3 2:03:02 UTC 2014 --> ANDROID::PUSH Start at:: {02:03:02}
+INFO  - Mon Nov 3 2:03:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:03:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:03:02 }<br/>
+INFO  - Mon Nov 3 2:03:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004983 }<br/>
+INFO  - Mon Nov 3 2:04:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414980241.065781}
+INFO  - Mon Nov 3 2:04:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:04:01}
+INFO  - Mon Nov 3 2:04:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:04:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:04:01 }<br/>
+INFO  - Mon Nov 3 2:04:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004339 }<br/>
+INFO  - Mon Nov 3 2:05:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414980301.951189}
+INFO  - Mon Nov 3 2:05:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:05:01}
+INFO  - Mon Nov 3 2:05:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 2:05:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:05:01 }<br/>
+INFO  - Mon Nov 3 2:05:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005723 }<br/>
+INFO  - Mon Nov 3 2:06:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414980361.560338}
+INFO  - Mon Nov 3 2:06:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:06:01}
+INFO  - Mon Nov 3 2:06:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:06:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:06:01 }<br/>
+INFO  - Mon Nov 3 2:06:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.010401 }<br/>
+INFO  - Mon Nov 3 2:07:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414980421.615394}
+INFO  - Mon Nov 3 2:07:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:07:01}
+INFO  - Mon Nov 3 2:07:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:07:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:07:01 }<br/>
+INFO  - Mon Nov 3 2:07:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006111 }<br/>
+INFO  - Mon Nov 3 2:08:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414980481.554383}
+INFO  - Mon Nov 3 2:08:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:08:01}
+INFO  - Mon Nov 3 2:08:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 2:08:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:08:01 }<br/>
+INFO  - Mon Nov 3 2:08:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005920 }<br/>
+INFO  - Mon Nov 3 2:09:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414980541.440208}
+INFO  - Mon Nov 3 2:09:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:09:01}
+INFO  - Mon Nov 3 2:09:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:09:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:09:01 }<br/>
+INFO  - Mon Nov 3 2:09:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005209 }<br/>
+INFO  - Mon Nov 3 2:10:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414980601.687797}
+INFO  - Mon Nov 3 2:10:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:10:01}
+INFO  - Mon Nov 3 2:10:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 2:10:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:10:01 }<br/>
+INFO  - Mon Nov 3 2:10:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008958 }<br/>
+INFO  - Mon Nov 3 2:11:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414980661.291017}
+INFO  - Mon Nov 3 2:11:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:11:01}
+INFO  - Mon Nov 3 2:11:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 2:11:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:11:01 }<br/>
+INFO  - Mon Nov 3 2:11:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005240 }<br/>
+INFO  - Mon Nov 3 2:12:02 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414980722.032117}
+INFO  - Mon Nov 3 2:12:02 UTC 2014 --> ANDROID::PUSH Start at:: {02:12:02}
+INFO  - Mon Nov 3 2:12:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:12:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:12:02 }<br/>
+INFO  - Mon Nov 3 2:12:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006877 }<br/>
+INFO  - Mon Nov 3 2:13:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414980781.902737}
+INFO  - Mon Nov 3 2:13:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:13:01}
+INFO  - Mon Nov 3 2:13:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 2:13:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:13:01 }<br/>
+INFO  - Mon Nov 3 2:13:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006084 }<br/>
+INFO  - Mon Nov 3 2:14:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414980841.874775}
+INFO  - Mon Nov 3 2:14:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:14:01}
+INFO  - Mon Nov 3 2:14:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:14:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:14:01 }<br/>
+INFO  - Mon Nov 3 2:14:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005962 }<br/>
+INFO  - Mon Nov 3 2:15:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414980901.965837}
+INFO  - Mon Nov 3 2:15:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:15:01}
+INFO  - Mon Nov 3 2:15:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:15:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:15:01 }<br/>
+INFO  - Mon Nov 3 2:15:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.010923 }<br/>
+INFO  - Mon Nov 3 2:16:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414980961.567755}
+INFO  - Mon Nov 3 2:16:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:16:01}
+INFO  - Mon Nov 3 2:16:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:16:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:16:01 }<br/>
+INFO  - Mon Nov 3 2:16:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005522 }<br/>
+INFO  - Mon Nov 3 2:17:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414981021.552499}
+INFO  - Mon Nov 3 2:17:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:17:01}
+INFO  - Mon Nov 3 2:17:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:17:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:17:01 }<br/>
+INFO  - Mon Nov 3 2:17:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005199 }<br/>
+INFO  - Mon Nov 3 2:18:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414981081.612475}
+INFO  - Mon Nov 3 2:18:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:18:01}
+INFO  - Mon Nov 3 2:18:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:18:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:18:01 }<br/>
+INFO  - Mon Nov 3 2:18:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007171 }<br/>
+INFO  - Mon Nov 3 2:19:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414981141.611126}
+INFO  - Mon Nov 3 2:19:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:19:01}
+INFO  - Mon Nov 3 2:19:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:19:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:19:01 }<br/>
+INFO  - Mon Nov 3 2:19:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005034 }<br/>
+INFO  - Mon Nov 3 2:20:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414981201.624179}
+INFO  - Mon Nov 3 2:20:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:20:01}
+INFO  - Mon Nov 3 2:20:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 2:20:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:20:01 }<br/>
+INFO  - Mon Nov 3 2:20:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006262 }<br/>
+INFO  - Mon Nov 3 2:21:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414981261.226411}
+INFO  - Mon Nov 3 2:21:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:21:01}
+INFO  - Mon Nov 3 2:21:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:21:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:21:01 }<br/>
+INFO  - Mon Nov 3 2:21:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005961 }<br/>
+INFO  - Mon Nov 3 2:22:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414981321.195824}
+INFO  - Mon Nov 3 2:22:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:22:01}
+INFO  - Mon Nov 3 2:22:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:22:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:22:01 }<br/>
+INFO  - Mon Nov 3 2:22:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005954 }<br/>
+INFO  - Mon Nov 3 2:23:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414981381.177173}
+INFO  - Mon Nov 3 2:23:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:23:01}
+INFO  - Mon Nov 3 2:23:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:23:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:23:01 }<br/>
+INFO  - Mon Nov 3 2:23:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008873 }<br/>
+INFO  - Mon Nov 3 2:24:02 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414981442.014529}
+INFO  - Mon Nov 3 2:24:02 UTC 2014 --> ANDROID::PUSH Start at:: {02:24:02}
+INFO  - Mon Nov 3 2:24:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:24:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:24:02 }<br/>
+INFO  - Mon Nov 3 2:24:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004898 }<br/>
+INFO  - Mon Nov 3 2:25:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414981501.059453}
+INFO  - Mon Nov 3 2:25:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:25:01}
+INFO  - Mon Nov 3 2:25:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:25:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:25:01 }<br/>
+INFO  - Mon Nov 3 2:25:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004749 }<br/>
+INFO  - Mon Nov 3 2:26:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414981561.665545}
+INFO  - Mon Nov 3 2:26:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:26:01}
+INFO  - Mon Nov 3 2:26:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:26:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:26:01 }<br/>
+INFO  - Mon Nov 3 2:26:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008225 }<br/>
+INFO  - Mon Nov 3 2:27:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414981621.662980}
+INFO  - Mon Nov 3 2:27:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:27:01}
+INFO  - Mon Nov 3 2:27:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 2:27:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:27:01 }<br/>
+INFO  - Mon Nov 3 2:27:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005450 }<br/>
+INFO  - Mon Nov 3 2:28:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414981681.522257}
+INFO  - Mon Nov 3 2:28:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:28:01}
+INFO  - Mon Nov 3 2:28:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:28:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:28:01 }<br/>
+INFO  - Mon Nov 3 2:28:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009457 }<br/>
+INFO  - Mon Nov 3 2:29:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414981741.522852}
+INFO  - Mon Nov 3 2:29:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:29:01}
+INFO  - Mon Nov 3 2:29:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:29:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:29:01 }<br/>
+INFO  - Mon Nov 3 2:29:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006436 }<br/>
+INFO  - Mon Nov 3 2:30:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414981801.706371}
+INFO  - Mon Nov 3 2:30:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:30:01}
+INFO  - Mon Nov 3 2:30:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 2:30:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:30:01 }<br/>
+INFO  - Mon Nov 3 2:30:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005358 }<br/>
+INFO  - Mon Nov 3 2:31:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414981861.328402}
+INFO  - Mon Nov 3 2:31:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:31:01}
+INFO  - Mon Nov 3 2:31:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:31:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:31:01 }<br/>
+INFO  - Mon Nov 3 2:31:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009770 }<br/>
+INFO  - Mon Nov 3 2:32:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414981921.220580}
+INFO  - Mon Nov 3 2:32:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:32:01}
+INFO  - Mon Nov 3 2:32:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000001 }
+
+INFO  - Mon Nov 3 2:32:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:32:01 }<br/>
+INFO  - Mon Nov 3 2:32:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005897 }<br/>
+INFO  - Mon Nov 3 2:33:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414981981.179275}
+INFO  - Mon Nov 3 2:33:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:33:01}
+INFO  - Mon Nov 3 2:33:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:33:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:33:01 }<br/>
+INFO  - Mon Nov 3 2:33:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008581 }<br/>
+INFO  - Mon Nov 3 2:34:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414982041.993048}
+INFO  - Mon Nov 3 2:34:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:34:01}
+INFO  - Mon Nov 3 2:34:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:34:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:34:01 }<br/>
+INFO  - Mon Nov 3 2:34:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005885 }<br/>
+INFO  - Mon Nov 3 2:35:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414982101.242911}
+INFO  - Mon Nov 3 2:35:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:35:01}
+INFO  - Mon Nov 3 2:35:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:35:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:35:01 }<br/>
+INFO  - Mon Nov 3 2:35:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006140 }<br/>
+INFO  - Mon Nov 3 2:36:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414982161.830251}
+INFO  - Mon Nov 3 2:36:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:36:01}
+INFO  - Mon Nov 3 2:36:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:36:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:36:01 }<br/>
+INFO  - Mon Nov 3 2:36:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005023 }<br/>
+INFO  - Mon Nov 3 2:37:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414982221.799484}
+INFO  - Mon Nov 3 2:37:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:37:01}
+INFO  - Mon Nov 3 2:37:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:37:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:37:01 }<br/>
+INFO  - Mon Nov 3 2:37:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009150 }<br/>
+INFO  - Mon Nov 3 2:38:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414982281.632145}
+INFO  - Mon Nov 3 2:38:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:38:01}
+INFO  - Mon Nov 3 2:38:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:38:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:38:01 }<br/>
+INFO  - Mon Nov 3 2:38:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005251 }<br/>
+INFO  - Mon Nov 3 2:39:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414982341.594141}
+INFO  - Mon Nov 3 2:39:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:39:01}
+INFO  - Mon Nov 3 2:39:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:39:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:39:01 }<br/>
+INFO  - Mon Nov 3 2:39:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004936 }<br/>
+INFO  - Mon Nov 3 2:40:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414982401.528065}
+INFO  - Mon Nov 3 2:40:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:40:01}
+INFO  - Mon Nov 3 2:40:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:40:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:40:01 }<br/>
+INFO  - Mon Nov 3 2:40:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008522 }<br/>
+INFO  - Mon Nov 3 2:41:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414982461.137420}
+INFO  - Mon Nov 3 2:41:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:41:01}
+INFO  - Mon Nov 3 2:41:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:41:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:41:01 }<br/>
+INFO  - Mon Nov 3 2:41:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004560 }<br/>
+INFO  - Mon Nov 3 2:42:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414982521.143271}
+INFO  - Mon Nov 3 2:42:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:42:01}
+INFO  - Mon Nov 3 2:42:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:42:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:42:01 }<br/>
+INFO  - Mon Nov 3 2:42:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006405 }<br/>
+INFO  - Mon Nov 3 2:43:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414982581.928666}
+INFO  - Mon Nov 3 2:43:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:43:01}
+INFO  - Mon Nov 3 2:43:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 2:43:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:43:01 }<br/>
+INFO  - Mon Nov 3 2:43:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005241 }<br/>
+INFO  - Mon Nov 3 2:44:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414982641.743814}
+INFO  - Mon Nov 3 2:44:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:44:01}
+INFO  - Mon Nov 3 2:44:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:44:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:44:01 }<br/>
+INFO  - Mon Nov 3 2:44:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004555 }<br/>
+INFO  - Mon Nov 3 2:45:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414982701.773312}
+INFO  - Mon Nov 3 2:45:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:45:01}
+INFO  - Mon Nov 3 2:45:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:45:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:45:01 }<br/>
+INFO  - Mon Nov 3 2:45:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004900 }<br/>
+INFO  - Mon Nov 3 2:46:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414982761.371206}
+INFO  - Mon Nov 3 2:46:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:46:01}
+INFO  - Mon Nov 3 2:46:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:46:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:46:01 }<br/>
+INFO  - Mon Nov 3 2:46:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008388 }<br/>
+INFO  - Mon Nov 3 2:47:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414982821.170822}
+INFO  - Mon Nov 3 2:47:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:47:01}
+INFO  - Mon Nov 3 2:47:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 2:47:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:47:01 }<br/>
+INFO  - Mon Nov 3 2:47:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005888 }<br/>
+INFO  - Mon Nov 3 2:48:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414982881.173244}
+INFO  - Mon Nov 3 2:48:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:48:01}
+INFO  - Mon Nov 3 2:48:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:48:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:48:01 }<br/>
+INFO  - Mon Nov 3 2:48:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005436 }<br/>
+INFO  - Mon Nov 3 2:49:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414982941.166900}
+INFO  - Mon Nov 3 2:49:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:49:01}
+INFO  - Mon Nov 3 2:49:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:49:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:49:01 }<br/>
+INFO  - Mon Nov 3 2:49:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005363 }<br/>
+INFO  - Mon Nov 3 2:50:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414983001.479056}
+INFO  - Mon Nov 3 2:50:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:50:01}
+INFO  - Mon Nov 3 2:50:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 2:50:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:50:01 }<br/>
+INFO  - Mon Nov 3 2:50:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006408 }<br/>
+INFO  - Mon Nov 3 2:51:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414983061.092636}
+INFO  - Mon Nov 3 2:51:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:51:01}
+INFO  - Mon Nov 3 2:51:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:51:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:51:01 }<br/>
+INFO  - Mon Nov 3 2:51:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008244 }<br/>
+INFO  - Mon Nov 3 2:52:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414983121.921036}
+INFO  - Mon Nov 3 2:52:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:52:01}
+INFO  - Mon Nov 3 2:52:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 2:52:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:52:01 }<br/>
+INFO  - Mon Nov 3 2:52:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005385 }<br/>
+INFO  - Mon Nov 3 2:53:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414983181.770422}
+INFO  - Mon Nov 3 2:53:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:53:01}
+INFO  - Mon Nov 3 2:53:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000001 }
+
+INFO  - Mon Nov 3 2:53:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:53:01 }<br/>
+INFO  - Mon Nov 3 2:53:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005117 }<br/>
+INFO  - Mon Nov 3 2:54:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414983241.533446}
+INFO  - Mon Nov 3 2:54:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:54:01}
+INFO  - Mon Nov 3 2:54:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 2:54:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:54:01 }<br/>
+INFO  - Mon Nov 3 2:54:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004520 }<br/>
+INFO  - Mon Nov 3 2:55:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414983301.931590}
+INFO  - Mon Nov 3 2:55:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:55:01}
+INFO  - Mon Nov 3 2:55:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 2:55:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:55:01 }<br/>
+INFO  - Mon Nov 3 2:55:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005574 }<br/>
+INFO  - Mon Nov 3 2:56:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414983361.546855}
+INFO  - Mon Nov 3 2:56:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:56:01}
+INFO  - Mon Nov 3 2:56:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:56:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:56:01 }<br/>
+INFO  - Mon Nov 3 2:56:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008133 }<br/>
+INFO  - Mon Nov 3 2:57:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414983421.394535}
+INFO  - Mon Nov 3 2:57:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:57:01}
+INFO  - Mon Nov 3 2:57:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:57:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:57:01 }<br/>
+INFO  - Mon Nov 3 2:57:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005595 }<br/>
+INFO  - Mon Nov 3 2:58:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414983481.414682}
+INFO  - Mon Nov 3 2:58:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:58:01}
+INFO  - Mon Nov 3 2:58:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 2:58:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:58:01 }<br/>
+INFO  - Mon Nov 3 2:58:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005035 }<br/>
+INFO  - Mon Nov 3 2:59:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414983541.250886}
+INFO  - Mon Nov 3 2:59:01 UTC 2014 --> ANDROID::PUSH Start at:: {02:59:01}
+INFO  - Mon Nov 3 2:59:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 2:59:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 02:59:01 }<br/>
+INFO  - Mon Nov 3 2:59:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006205 }<br/>
+INFO  - Mon Nov 3 3:00:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414983601.444737}
+INFO  - Mon Nov 3 3:00:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:00:01}
+INFO  - Mon Nov 3 3:00:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 3:00:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:00:01 }<br/>
+INFO  - Mon Nov 3 3:00:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008304 }<br/>
+INFO  - Mon Nov 3 3:01:02 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414983662.035371}
+INFO  - Mon Nov 3 3:01:02 UTC 2014 --> ANDROID::PUSH Start at:: {03:01:02}
+INFO  - Mon Nov 3 3:01:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:01:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:01:02 }<br/>
+INFO  - Mon Nov 3 3:01:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008156 }<br/>
+INFO  - Mon Nov 3 3:02:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414983721.953016}
+INFO  - Mon Nov 3 3:02:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:02:01}
+INFO  - Mon Nov 3 3:02:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:02:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:02:01 }<br/>
+INFO  - Mon Nov 3 3:02:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005289 }<br/>
+INFO  - Mon Nov 3 3:03:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414983781.942761}
+INFO  - Mon Nov 3 3:03:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:03:01}
+INFO  - Mon Nov 3 3:03:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:03:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:03:01 }<br/>
+INFO  - Mon Nov 3 3:03:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005843 }<br/>
+INFO  - Mon Nov 3 3:04:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414983841.779430}
+INFO  - Mon Nov 3 3:04:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:04:01}
+INFO  - Mon Nov 3 3:04:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:04:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:04:01 }<br/>
+INFO  - Mon Nov 3 3:04:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007594 }<br/>
+INFO  - Mon Nov 3 3:05:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414983901.971317}
+INFO  - Mon Nov 3 3:05:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:05:01}
+INFO  - Mon Nov 3 3:05:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:05:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:05:01 }<br/>
+INFO  - Mon Nov 3 3:05:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005138 }<br/>
+INFO  - Mon Nov 3 3:06:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414983961.582808}
+INFO  - Mon Nov 3 3:06:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:06:01}
+INFO  - Mon Nov 3 3:06:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000001 }
+
+INFO  - Mon Nov 3 3:06:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:06:01 }<br/>
+INFO  - Mon Nov 3 3:06:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005150 }<br/>
+INFO  - Mon Nov 3 3:07:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414984021.440916}
+INFO  - Mon Nov 3 3:07:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:07:01}
+INFO  - Mon Nov 3 3:07:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 3:07:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:07:01 }<br/>
+INFO  - Mon Nov 3 3:07:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005748 }<br/>
+INFO  - Mon Nov 3 3:08:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414984081.263921}
+INFO  - Mon Nov 3 3:08:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:08:01}
+INFO  - Mon Nov 3 3:08:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:08:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:08:01 }<br/>
+INFO  - Mon Nov 3 3:08:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005393 }<br/>
+INFO  - Mon Nov 3 3:09:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414984141.301248}
+INFO  - Mon Nov 3 3:09:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:09:01}
+INFO  - Mon Nov 3 3:09:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:09:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:09:01 }<br/>
+INFO  - Mon Nov 3 3:09:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005602 }<br/>
+INFO  - Mon Nov 3 3:10:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414984201.510575}
+INFO  - Mon Nov 3 3:10:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:10:01}
+INFO  - Mon Nov 3 3:10:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 3:10:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:10:01 }<br/>
+INFO  - Mon Nov 3 3:10:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006238 }<br/>
+INFO  - Mon Nov 3 3:11:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414984261.115626}
+INFO  - Mon Nov 3 3:11:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:11:01}
+INFO  - Mon Nov 3 3:11:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:11:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:11:01 }<br/>
+INFO  - Mon Nov 3 3:11:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008007 }<br/>
+INFO  - Mon Nov 3 3:12:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414984321.938674}
+INFO  - Mon Nov 3 3:12:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:12:01}
+INFO  - Mon Nov 3 3:12:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:12:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:12:01 }<br/>
+INFO  - Mon Nov 3 3:12:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006056 }<br/>
+INFO  - Mon Nov 3 3:13:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414984381.952380}
+INFO  - Mon Nov 3 3:13:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:13:01}
+INFO  - Mon Nov 3 3:13:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:13:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:13:01 }<br/>
+INFO  - Mon Nov 3 3:13:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008463 }<br/>
+INFO  - Mon Nov 3 3:14:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414984441.814162}
+INFO  - Mon Nov 3 3:14:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:14:01}
+INFO  - Mon Nov 3 3:14:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:14:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:14:01 }<br/>
+INFO  - Mon Nov 3 3:14:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006573 }<br/>
+INFO  - Mon Nov 3 3:15:02 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414984502.010413}
+INFO  - Mon Nov 3 3:15:02 UTC 2014 --> ANDROID::PUSH Start at:: {03:15:02}
+INFO  - Mon Nov 3 3:15:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:15:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:15:02 }<br/>
+INFO  - Mon Nov 3 3:15:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006137 }<br/>
+INFO  - Mon Nov 3 3:16:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414984561.644643}
+INFO  - Mon Nov 3 3:16:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:16:01}
+INFO  - Mon Nov 3 3:16:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 3:16:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:16:01 }<br/>
+INFO  - Mon Nov 3 3:16:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009678 }<br/>
+INFO  - Mon Nov 3 3:17:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414984621.665035}
+INFO  - Mon Nov 3 3:17:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:17:01}
+INFO  - Mon Nov 3 3:17:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:17:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:17:01 }<br/>
+INFO  - Mon Nov 3 3:17:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005650 }<br/>
+INFO  - Mon Nov 3 3:18:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414984681.682788}
+INFO  - Mon Nov 3 3:18:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:18:01}
+INFO  - Mon Nov 3 3:18:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:18:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:18:01 }<br/>
+INFO  - Mon Nov 3 3:18:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005880 }<br/>
+INFO  - Mon Nov 3 3:19:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414984741.345009}
+INFO  - Mon Nov 3 3:19:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:19:01}
+INFO  - Mon Nov 3 3:19:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:19:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:19:01 }<br/>
+INFO  - Mon Nov 3 3:19:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005722 }<br/>
+INFO  - Mon Nov 3 3:20:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414984801.503324}
+INFO  - Mon Nov 3 3:20:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:20:01}
+INFO  - Mon Nov 3 3:20:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:20:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:20:01 }<br/>
+INFO  - Mon Nov 3 3:20:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005456 }<br/>
+INFO  - Mon Nov 3 3:21:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414984861.114099}
+INFO  - Mon Nov 3 3:21:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:21:01}
+INFO  - Mon Nov 3 3:21:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:21:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:21:01 }<br/>
+INFO  - Mon Nov 3 3:21:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006822 }<br/>
+INFO  - Mon Nov 3 3:22:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414984921.988873}
+INFO  - Mon Nov 3 3:22:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:22:01}
+INFO  - Mon Nov 3 3:22:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:22:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:22:01 }<br/>
+INFO  - Mon Nov 3 3:22:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005020 }<br/>
+INFO  - Mon Nov 3 3:23:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414984981.643163}
+INFO  - Mon Nov 3 3:23:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:23:01}
+INFO  - Mon Nov 3 3:23:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:23:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:23:01 }<br/>
+INFO  - Mon Nov 3 3:23:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004711 }<br/>
+INFO  - Mon Nov 3 3:24:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414985041.481680}
+INFO  - Mon Nov 3 3:24:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:24:01}
+INFO  - Mon Nov 3 3:24:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 3:24:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:24:01 }<br/>
+INFO  - Mon Nov 3 3:24:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005611 }<br/>
+INFO  - Mon Nov 3 3:25:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414985101.488002}
+INFO  - Mon Nov 3 3:25:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:25:01}
+INFO  - Mon Nov 3 3:25:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 3:25:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:25:01 }<br/>
+INFO  - Mon Nov 3 3:25:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008215 }<br/>
+INFO  - Mon Nov 3 3:26:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414985161.104449}
+INFO  - Mon Nov 3 3:26:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:26:01}
+INFO  - Mon Nov 3 3:26:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:26:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:26:01 }<br/>
+INFO  - Mon Nov 3 3:26:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009292 }<br/>
+INFO  - Mon Nov 3 3:27:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414985221.101246}
+INFO  - Mon Nov 3 3:27:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:27:01}
+INFO  - Mon Nov 3 3:27:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:27:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:27:01 }<br/>
+INFO  - Mon Nov 3 3:27:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005833 }<br/>
+INFO  - Mon Nov 3 3:28:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414985281.051445}
+INFO  - Mon Nov 3 3:28:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:28:01}
+INFO  - Mon Nov 3 3:28:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 3:28:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:28:01 }<br/>
+INFO  - Mon Nov 3 3:28:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007257 }<br/>
+INFO  - Mon Nov 3 3:29:02 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414985342.027520}
+INFO  - Mon Nov 3 3:29:02 UTC 2014 --> ANDROID::PUSH Start at:: {03:29:02}
+INFO  - Mon Nov 3 3:29:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:29:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:29:02 }<br/>
+INFO  - Mon Nov 3 3:29:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005183 }<br/>
+INFO  - Mon Nov 3 3:30:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414985401.234929}
+INFO  - Mon Nov 3 3:30:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:30:01}
+INFO  - Mon Nov 3 3:30:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:30:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:30:01 }<br/>
+INFO  - Mon Nov 3 3:30:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007419 }<br/>
+INFO  - Mon Nov 3 3:31:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414985461.830935}
+INFO  - Mon Nov 3 3:31:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:31:01}
+INFO  - Mon Nov 3 3:31:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:31:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:31:01 }<br/>
+INFO  - Mon Nov 3 3:31:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006485 }<br/>
+INFO  - Mon Nov 3 3:32:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414985521.712034}
+INFO  - Mon Nov 3 3:32:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:32:01}
+INFO  - Mon Nov 3 3:32:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 3:32:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:32:01 }<br/>
+INFO  - Mon Nov 3 3:32:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005562 }<br/>
+INFO  - Mon Nov 3 3:33:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414985581.710817}
+INFO  - Mon Nov 3 3:33:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:33:01}
+INFO  - Mon Nov 3 3:33:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:33:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:33:01 }<br/>
+INFO  - Mon Nov 3 3:33:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005415 }<br/>
+INFO  - Mon Nov 3 3:34:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414985641.542568}
+INFO  - Mon Nov 3 3:34:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:34:01}
+INFO  - Mon Nov 3 3:34:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:34:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:34:01 }<br/>
+INFO  - Mon Nov 3 3:34:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006479 }<br/>
+INFO  - Mon Nov 3 3:35:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414985701.687236}
+INFO  - Mon Nov 3 3:35:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:35:01}
+INFO  - Mon Nov 3 3:35:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:35:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:35:01 }<br/>
+INFO  - Mon Nov 3 3:35:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008108 }<br/>
+INFO  - Mon Nov 3 3:36:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414985761.281223}
+INFO  - Mon Nov 3 3:36:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:36:01}
+INFO  - Mon Nov 3 3:36:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:36:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:36:01 }<br/>
+INFO  - Mon Nov 3 3:36:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008100 }<br/>
+INFO  - Mon Nov 3 3:37:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414985821.107598}
+INFO  - Mon Nov 3 3:37:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:37:01}
+INFO  - Mon Nov 3 3:37:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:37:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:37:01 }<br/>
+INFO  - Mon Nov 3 3:37:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006085 }<br/>
+INFO  - Mon Nov 3 3:38:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414985881.821220}
+INFO  - Mon Nov 3 3:38:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:38:01}
+INFO  - Mon Nov 3 3:38:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:38:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:38:01 }<br/>
+INFO  - Mon Nov 3 3:38:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004773 }<br/>
+INFO  - Mon Nov 3 3:39:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414985941.682808}
+INFO  - Mon Nov 3 3:39:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:39:01}
+INFO  - Mon Nov 3 3:39:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:39:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:39:01 }<br/>
+INFO  - Mon Nov 3 3:39:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006384 }<br/>
+INFO  - Mon Nov 3 3:40:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414986001.673184}
+INFO  - Mon Nov 3 3:40:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:40:01}
+INFO  - Mon Nov 3 3:40:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:40:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:40:01 }<br/>
+INFO  - Mon Nov 3 3:40:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006563 }<br/>
+INFO  - Mon Nov 3 3:41:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414986061.334470}
+INFO  - Mon Nov 3 3:41:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:41:01}
+INFO  - Mon Nov 3 3:41:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 3:41:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:41:01 }<br/>
+INFO  - Mon Nov 3 3:41:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006307 }<br/>
+INFO  - Mon Nov 3 3:42:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414986121.313973}
+INFO  - Mon Nov 3 3:42:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:42:01}
+INFO  - Mon Nov 3 3:42:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:42:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:42:01 }<br/>
+INFO  - Mon Nov 3 3:42:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007784 }<br/>
+INFO  - Mon Nov 3 3:43:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414986181.273675}
+INFO  - Mon Nov 3 3:43:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:43:01}
+INFO  - Mon Nov 3 3:43:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000001 }
+
+INFO  - Mon Nov 3 3:43:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:43:01 }<br/>
+INFO  - Mon Nov 3 3:43:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005173 }<br/>
+INFO  - Mon Nov 3 3:44:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414986241.101566}
+INFO  - Mon Nov 3 3:44:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:44:01}
+INFO  - Mon Nov 3 3:44:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:44:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:44:01 }<br/>
+INFO  - Mon Nov 3 3:44:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004759 }<br/>
+INFO  - Mon Nov 3 3:45:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414986301.310844}
+INFO  - Mon Nov 3 3:45:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:45:01}
+INFO  - Mon Nov 3 3:45:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 3:45:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:45:01 }<br/>
+INFO  - Mon Nov 3 3:45:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004853 }<br/>
+INFO  - Mon Nov 3 3:46:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414986361.922874}
+INFO  - Mon Nov 3 3:46:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:46:01}
+INFO  - Mon Nov 3 3:46:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 3:46:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:46:01 }<br/>
+INFO  - Mon Nov 3 3:46:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006006 }<br/>
+INFO  - Mon Nov 3 3:47:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414986421.680788}
+INFO  - Mon Nov 3 3:47:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:47:01}
+INFO  - Mon Nov 3 3:47:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:47:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:47:01 }<br/>
+INFO  - Mon Nov 3 3:47:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005374 }<br/>
+INFO  - Mon Nov 3 3:48:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414986481.701915}
+INFO  - Mon Nov 3 3:48:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:48:01}
+INFO  - Mon Nov 3 3:48:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:48:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:48:01 }<br/>
+INFO  - Mon Nov 3 3:48:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006561 }<br/>
+INFO  - Mon Nov 3 3:49:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414986541.673820}
+INFO  - Mon Nov 3 3:49:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:49:01}
+INFO  - Mon Nov 3 3:49:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:49:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:49:01 }<br/>
+INFO  - Mon Nov 3 3:49:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005289 }<br/>
+INFO  - Mon Nov 3 3:50:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414986601.522749}
+INFO  - Mon Nov 3 3:50:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:50:01}
+INFO  - Mon Nov 3 3:50:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:50:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:50:01 }<br/>
+INFO  - Mon Nov 3 3:50:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008750 }<br/>
+INFO  - Mon Nov 3 3:51:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414986661.145386}
+INFO  - Mon Nov 3 3:51:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:51:01}
+INFO  - Mon Nov 3 3:51:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:51:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:51:01 }<br/>
+INFO  - Mon Nov 3 3:51:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009503 }<br/>
+INFO  - Mon Nov 3 3:52:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414986721.126814}
+INFO  - Mon Nov 3 3:52:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:52:01}
+INFO  - Mon Nov 3 3:52:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:52:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:52:01 }<br/>
+INFO  - Mon Nov 3 3:52:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005513 }<br/>
+INFO  - Mon Nov 3 3:53:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414986781.923883}
+INFO  - Mon Nov 3 3:53:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:53:01}
+INFO  - Mon Nov 3 3:53:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:53:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:53:01 }<br/>
+INFO  - Mon Nov 3 3:53:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004625 }<br/>
+INFO  - Mon Nov 3 3:54:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414986841.778354}
+INFO  - Mon Nov 3 3:54:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:54:01}
+INFO  - Mon Nov 3 3:54:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:54:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:54:01 }<br/>
+INFO  - Mon Nov 3 3:54:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005640 }<br/>
+INFO  - Mon Nov 3 3:55:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414986901.953494}
+INFO  - Mon Nov 3 3:55:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:55:01}
+INFO  - Mon Nov 3 3:55:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:55:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:55:01 }<br/>
+INFO  - Mon Nov 3 3:55:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006355 }<br/>
+INFO  - Mon Nov 3 3:56:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414986961.550581}
+INFO  - Mon Nov 3 3:56:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:56:01}
+INFO  - Mon Nov 3 3:56:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:56:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:56:01 }<br/>
+INFO  - Mon Nov 3 3:56:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008841 }<br/>
+INFO  - Mon Nov 3 3:57:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414987021.359325}
+INFO  - Mon Nov 3 3:57:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:57:01}
+INFO  - Mon Nov 3 3:57:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:57:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:57:01 }<br/>
+INFO  - Mon Nov 3 3:57:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006009 }<br/>
+INFO  - Mon Nov 3 3:58:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414987081.215840}
+INFO  - Mon Nov 3 3:58:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:58:01}
+INFO  - Mon Nov 3 3:58:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:58:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:58:01 }<br/>
+INFO  - Mon Nov 3 3:58:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004551 }<br/>
+INFO  - Mon Nov 3 3:59:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414987141.073194}
+INFO  - Mon Nov 3 3:59:01 UTC 2014 --> ANDROID::PUSH Start at:: {03:59:01}
+INFO  - Mon Nov 3 3:59:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 3:59:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 03:59:01 }<br/>
+INFO  - Mon Nov 3 3:59:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004516 }<br/>
+INFO  - Mon Nov 3 4:00:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414987201.113266}
+INFO  - Mon Nov 3 4:00:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:00:01}
+INFO  - Mon Nov 3 4:00:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:00:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:00:01 }<br/>
+INFO  - Mon Nov 3 4:00:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005177 }<br/>
+INFO  - Mon Nov 3 4:01:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414987261.734454}
+INFO  - Mon Nov 3 4:01:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:01:01}
+INFO  - Mon Nov 3 4:01:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:01:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:01:01 }<br/>
+INFO  - Mon Nov 3 4:01:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008326 }<br/>
+INFO  - Mon Nov 3 4:02:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414987321.453684}
+INFO  - Mon Nov 3 4:02:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:02:01}
+INFO  - Mon Nov 3 4:02:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 4:02:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:02:01 }<br/>
+INFO  - Mon Nov 3 4:02:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009468 }<br/>
+INFO  - Mon Nov 3 4:03:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414987381.322117}
+INFO  - Mon Nov 3 4:03:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:03:01}
+INFO  - Mon Nov 3 4:03:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:03:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:03:01 }<br/>
+INFO  - Mon Nov 3 4:03:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005127 }<br/>
+INFO  - Mon Nov 3 4:04:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414987441.166374}
+INFO  - Mon Nov 3 4:04:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:04:01}
+INFO  - Mon Nov 3 4:04:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:04:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:04:01 }<br/>
+INFO  - Mon Nov 3 4:04:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006363 }<br/>
+INFO  - Mon Nov 3 4:05:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414987501.385274}
+INFO  - Mon Nov 3 4:05:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:05:01}
+INFO  - Mon Nov 3 4:05:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 4:05:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:05:01 }<br/>
+INFO  - Mon Nov 3 4:05:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009393 }<br/>
+INFO  - Mon Nov 3 4:06:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414987561.998823}
+INFO  - Mon Nov 3 4:06:02 UTC 2014 --> ANDROID::PUSH Start at:: {04:06:02}
+INFO  - Mon Nov 3 4:06:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:06:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:06:01 }<br/>
+INFO  - Mon Nov 3 4:06:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006149 }<br/>
+INFO  - Mon Nov 3 4:07:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414987621.874218}
+INFO  - Mon Nov 3 4:07:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:07:01}
+INFO  - Mon Nov 3 4:07:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:07:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:07:01 }<br/>
+INFO  - Mon Nov 3 4:07:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005257 }<br/>
+INFO  - Mon Nov 3 4:08:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414987681.714797}
+INFO  - Mon Nov 3 4:08:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:08:01}
+INFO  - Mon Nov 3 4:08:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:08:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:08:01 }<br/>
+INFO  - Mon Nov 3 4:08:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005500 }<br/>
+INFO  - Mon Nov 3 4:09:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414987741.560159}
+INFO  - Mon Nov 3 4:09:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:09:01}
+INFO  - Mon Nov 3 4:09:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:09:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:09:01 }<br/>
+INFO  - Mon Nov 3 4:09:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005155 }<br/>
+INFO  - Mon Nov 3 4:10:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414987801.392860}
+INFO  - Mon Nov 3 4:10:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:10:01}
+INFO  - Mon Nov 3 4:10:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:10:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:10:01 }<br/>
+INFO  - Mon Nov 3 4:10:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005209 }<br/>
+INFO  - Mon Nov 3 4:11:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414987861.992812}
+INFO  - Mon Nov 3 4:11:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:11:01}
+INFO  - Mon Nov 3 4:11:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:11:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:11:01 }<br/>
+INFO  - Mon Nov 3 4:11:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005646 }<br/>
+INFO  - Mon Nov 3 4:12:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414987921.812167}
+INFO  - Mon Nov 3 4:12:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:12:01}
+INFO  - Mon Nov 3 4:12:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:12:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:12:01 }<br/>
+INFO  - Mon Nov 3 4:12:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005856 }<br/>
+INFO  - Mon Nov 3 4:13:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414987981.721267}
+INFO  - Mon Nov 3 4:13:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:13:01}
+INFO  - Mon Nov 3 4:13:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:13:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:13:01 }<br/>
+INFO  - Mon Nov 3 4:13:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005461 }<br/>
+INFO  - Mon Nov 3 4:14:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414988041.432709}
+INFO  - Mon Nov 3 4:14:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:14:01}
+INFO  - Mon Nov 3 4:14:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:14:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:14:01 }<br/>
+INFO  - Mon Nov 3 4:14:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005153 }<br/>
+INFO  - Mon Nov 3 4:15:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414988101.469659}
+INFO  - Mon Nov 3 4:15:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:15:01}
+INFO  - Mon Nov 3 4:15:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 4:15:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:15:01 }<br/>
+INFO  - Mon Nov 3 4:15:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009275 }<br/>
+INFO  - Mon Nov 3 4:16:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414988161.063268}
+INFO  - Mon Nov 3 4:16:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:16:01}
+INFO  - Mon Nov 3 4:16:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:16:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:16:01 }<br/>
+INFO  - Mon Nov 3 4:16:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008815 }<br/>
+INFO  - Mon Nov 3 4:17:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414988221.824991}
+INFO  - Mon Nov 3 4:17:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:17:01}
+INFO  - Mon Nov 3 4:17:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:17:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:17:01 }<br/>
+INFO  - Mon Nov 3 4:17:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004953 }<br/>
+INFO  - Mon Nov 3 4:18:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414988281.660361}
+INFO  - Mon Nov 3 4:18:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:18:01}
+INFO  - Mon Nov 3 4:18:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:18:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:18:01 }<br/>
+INFO  - Mon Nov 3 4:18:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004990 }<br/>
+INFO  - Mon Nov 3 4:19:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414988341.510963}
+INFO  - Mon Nov 3 4:19:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:19:01}
+INFO  - Mon Nov 3 4:19:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:19:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:19:01 }<br/>
+INFO  - Mon Nov 3 4:19:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004732 }<br/>
+INFO  - Mon Nov 3 4:20:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414988401.595435}
+INFO  - Mon Nov 3 4:20:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:20:01}
+INFO  - Mon Nov 3 4:20:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 4:20:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:20:01 }<br/>
+INFO  - Mon Nov 3 4:20:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007390 }<br/>
+INFO  - Mon Nov 3 4:21:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414988461.210495}
+INFO  - Mon Nov 3 4:21:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:21:01}
+INFO  - Mon Nov 3 4:21:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:21:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:21:01 }<br/>
+INFO  - Mon Nov 3 4:21:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009337 }<br/>
+INFO  - Mon Nov 3 4:22:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414988521.910834}
+INFO  - Mon Nov 3 4:22:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:22:01}
+INFO  - Mon Nov 3 4:22:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:22:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:22:01 }<br/>
+INFO  - Mon Nov 3 4:22:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006087 }<br/>
+INFO  - Mon Nov 3 4:23:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414988581.759587}
+INFO  - Mon Nov 3 4:23:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:23:01}
+INFO  - Mon Nov 3 4:23:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:23:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:23:01 }<br/>
+INFO  - Mon Nov 3 4:23:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005312 }<br/>
+INFO  - Mon Nov 3 4:24:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414988641.751876}
+INFO  - Mon Nov 3 4:24:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:24:01}
+INFO  - Mon Nov 3 4:24:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:24:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:24:01 }<br/>
+INFO  - Mon Nov 3 4:24:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006230 }<br/>
+INFO  - Mon Nov 3 4:25:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414988701.841844}
+INFO  - Mon Nov 3 4:25:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:25:01}
+INFO  - Mon Nov 3 4:25:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 4:25:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:25:01 }<br/>
+INFO  - Mon Nov 3 4:25:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005068 }<br/>
+INFO  - Mon Nov 3 4:26:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414988761.489460}
+INFO  - Mon Nov 3 4:26:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:26:01}
+INFO  - Mon Nov 3 4:26:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:26:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:26:01 }<br/>
+INFO  - Mon Nov 3 4:26:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005942 }<br/>
+INFO  - Mon Nov 3 4:27:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414988821.322048}
+INFO  - Mon Nov 3 4:27:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:27:01}
+INFO  - Mon Nov 3 4:27:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:27:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:27:01 }<br/>
+INFO  - Mon Nov 3 4:27:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004996 }<br/>
+INFO  - Mon Nov 3 4:28:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414988881.140286}
+INFO  - Mon Nov 3 4:28:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:28:01}
+INFO  - Mon Nov 3 4:28:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:28:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:28:01 }<br/>
+INFO  - Mon Nov 3 4:28:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005498 }<br/>
+INFO  - Mon Nov 3 4:29:02 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414988942.028383}
+INFO  - Mon Nov 3 4:29:02 UTC 2014 --> ANDROID::PUSH Start at:: {04:29:02}
+INFO  - Mon Nov 3 4:29:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:29:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:29:02 }<br/>
+INFO  - Mon Nov 3 4:29:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008083 }<br/>
+INFO  - Mon Nov 3 4:30:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414989001.287670}
+INFO  - Mon Nov 3 4:30:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:30:01}
+INFO  - Mon Nov 3 4:30:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:30:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:30:01 }<br/>
+INFO  - Mon Nov 3 4:30:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005489 }<br/>
+INFO  - Mon Nov 3 4:31:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414989061.905020}
+INFO  - Mon Nov 3 4:31:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:31:01}
+INFO  - Mon Nov 3 4:31:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:31:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:31:01 }<br/>
+INFO  - Mon Nov 3 4:31:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005130 }<br/>
+INFO  - Mon Nov 3 4:32:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414989121.885216}
+INFO  - Mon Nov 3 4:32:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:32:01}
+INFO  - Mon Nov 3 4:32:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:32:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:32:01 }<br/>
+INFO  - Mon Nov 3 4:32:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005145 }<br/>
+INFO  - Mon Nov 3 4:33:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414989181.890875}
+INFO  - Mon Nov 3 4:33:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:33:01}
+INFO  - Mon Nov 3 4:33:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:33:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:33:01 }<br/>
+INFO  - Mon Nov 3 4:33:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005031 }<br/>
+INFO  - Mon Nov 3 4:34:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414989241.891820}
+INFO  - Mon Nov 3 4:34:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:34:01}
+INFO  - Mon Nov 3 4:34:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:34:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:34:01 }<br/>
+INFO  - Mon Nov 3 4:34:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004967 }<br/>
+INFO  - Mon Nov 3 4:35:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414989301.084181}
+INFO  - Mon Nov 3 4:35:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:35:01}
+INFO  - Mon Nov 3 4:35:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:35:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:35:01 }<br/>
+INFO  - Mon Nov 3 4:35:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005207 }<br/>
+INFO  - Mon Nov 3 4:36:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414989361.692154}
+INFO  - Mon Nov 3 4:36:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:36:01}
+INFO  - Mon Nov 3 4:36:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:36:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:36:01 }<br/>
+INFO  - Mon Nov 3 4:36:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008962 }<br/>
+INFO  - Mon Nov 3 4:37:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414989421.603538}
+INFO  - Mon Nov 3 4:37:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:37:01}
+INFO  - Mon Nov 3 4:37:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:37:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:37:01 }<br/>
+INFO  - Mon Nov 3 4:37:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007031 }<br/>
+INFO  - Mon Nov 3 4:38:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414989481.272215}
+INFO  - Mon Nov 3 4:38:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:38:01}
+INFO  - Mon Nov 3 4:38:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:38:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:38:01 }<br/>
+INFO  - Mon Nov 3 4:38:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006137 }<br/>
+INFO  - Mon Nov 3 4:39:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414989541.140787}
+INFO  - Mon Nov 3 4:39:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:39:01}
+INFO  - Mon Nov 3 4:39:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000001 }
+
+INFO  - Mon Nov 3 4:39:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:39:01 }<br/>
+INFO  - Mon Nov 3 4:39:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004868 }<br/>
+INFO  - Mon Nov 3 4:40:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414989601.220364}
+INFO  - Mon Nov 3 4:40:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:40:01}
+INFO  - Mon Nov 3 4:40:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:40:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:40:01 }<br/>
+INFO  - Mon Nov 3 4:40:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008788 }<br/>
+INFO  - Mon Nov 3 4:41:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414989661.831578}
+INFO  - Mon Nov 3 4:41:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:41:01}
+INFO  - Mon Nov 3 4:41:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 4:41:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:41:01 }<br/>
+INFO  - Mon Nov 3 4:41:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009750 }<br/>
+INFO  - Mon Nov 3 4:42:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414989721.845904}
+INFO  - Mon Nov 3 4:42:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:42:01}
+INFO  - Mon Nov 3 4:42:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:42:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:42:01 }<br/>
+INFO  - Mon Nov 3 4:42:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006028 }<br/>
+INFO  - Mon Nov 3 4:43:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414989781.877330}
+INFO  - Mon Nov 3 4:43:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:43:01}
+INFO  - Mon Nov 3 4:43:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 4:43:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:43:01 }<br/>
+INFO  - Mon Nov 3 4:43:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005050 }<br/>
+INFO  - Mon Nov 3 4:44:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414989841.669872}
+INFO  - Mon Nov 3 4:44:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:44:01}
+INFO  - Mon Nov 3 4:44:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:44:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:44:01 }<br/>
+INFO  - Mon Nov 3 4:44:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004850 }<br/>
+INFO  - Mon Nov 3 4:45:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414989901.711737}
+INFO  - Mon Nov 3 4:45:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:45:01}
+INFO  - Mon Nov 3 4:45:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:45:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:45:01 }<br/>
+INFO  - Mon Nov 3 4:45:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005253 }<br/>
+INFO  - Mon Nov 3 4:46:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414989961.319007}
+INFO  - Mon Nov 3 4:46:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:46:01}
+INFO  - Mon Nov 3 4:46:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:46:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:46:01 }<br/>
+INFO  - Mon Nov 3 4:46:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005869 }<br/>
+INFO  - Mon Nov 3 4:47:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414990021.130690}
+INFO  - Mon Nov 3 4:47:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:47:01}
+INFO  - Mon Nov 3 4:47:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:47:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:47:01 }<br/>
+INFO  - Mon Nov 3 4:47:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005275 }<br/>
+INFO  - Mon Nov 3 4:48:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414990081.972731}
+INFO  - Mon Nov 3 4:48:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:48:01}
+INFO  - Mon Nov 3 4:48:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:48:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:48:01 }<br/>
+INFO  - Mon Nov 3 4:48:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006281 }<br/>
+INFO  - Mon Nov 3 4:49:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414990141.709847}
+INFO  - Mon Nov 3 4:49:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:49:01}
+INFO  - Mon Nov 3 4:49:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:49:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:49:01 }<br/>
+INFO  - Mon Nov 3 4:49:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005156 }<br/>
+INFO  - Mon Nov 3 4:50:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414990201.870867}
+INFO  - Mon Nov 3 4:50:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:50:01}
+INFO  - Mon Nov 3 4:50:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:50:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:50:01 }<br/>
+INFO  - Mon Nov 3 4:50:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008738 }<br/>
+INFO  - Mon Nov 3 4:51:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414990261.464558}
+INFO  - Mon Nov 3 4:51:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:51:01}
+INFO  - Mon Nov 3 4:51:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:51:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:51:01 }<br/>
+INFO  - Mon Nov 3 4:51:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005249 }<br/>
+INFO  - Mon Nov 3 4:52:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414990321.451324}
+INFO  - Mon Nov 3 4:52:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:52:01}
+INFO  - Mon Nov 3 4:52:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:52:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:52:01 }<br/>
+INFO  - Mon Nov 3 4:52:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004918 }<br/>
+INFO  - Mon Nov 3 4:53:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414990381.304770}
+INFO  - Mon Nov 3 4:53:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:53:01}
+INFO  - Mon Nov 3 4:53:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:53:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:53:01 }<br/>
+INFO  - Mon Nov 3 4:53:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006982 }<br/>
+INFO  - Mon Nov 3 4:54:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414990441.144097}
+INFO  - Mon Nov 3 4:54:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:54:01}
+INFO  - Mon Nov 3 4:54:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:54:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:54:01 }<br/>
+INFO  - Mon Nov 3 4:54:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006304 }<br/>
+INFO  - Mon Nov 3 4:55:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414990501.407879}
+INFO  - Mon Nov 3 4:55:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:55:01}
+INFO  - Mon Nov 3 4:55:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 4:55:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:55:01 }<br/>
+INFO  - Mon Nov 3 4:55:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006660 }<br/>
+INFO  - Mon Nov 3 4:56:02 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414990562.003244}
+INFO  - Mon Nov 3 4:56:02 UTC 2014 --> ANDROID::PUSH Start at:: {04:56:02}
+INFO  - Mon Nov 3 4:56:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:56:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:56:01 }<br/>
+INFO  - Mon Nov 3 4:56:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008253 }<br/>
+INFO  - Mon Nov 3 4:57:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414990621.923674}
+INFO  - Mon Nov 3 4:57:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:57:01}
+INFO  - Mon Nov 3 4:57:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:57:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:57:01 }<br/>
+INFO  - Mon Nov 3 4:57:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006119 }<br/>
+INFO  - Mon Nov 3 4:58:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414990681.762153}
+INFO  - Mon Nov 3 4:58:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:58:01}
+INFO  - Mon Nov 3 4:58:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:58:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:58:01 }<br/>
+INFO  - Mon Nov 3 4:58:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005242 }<br/>
+INFO  - Mon Nov 3 4:59:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414990741.653617}
+INFO  - Mon Nov 3 4:59:01 UTC 2014 --> ANDROID::PUSH Start at:: {04:59:01}
+INFO  - Mon Nov 3 4:59:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 4:59:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 04:59:01 }<br/>
+INFO  - Mon Nov 3 4:59:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005810 }<br/>
+INFO  - Mon Nov 3 5:00:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414990801.934241}
+INFO  - Mon Nov 3 5:00:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:00:01}
+INFO  - Mon Nov 3 5:00:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:00:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:00:01 }<br/>
+INFO  - Mon Nov 3 5:00:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.011167 }<br/>
+INFO  - Mon Nov 3 5:01:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414990861.525941}
+INFO  - Mon Nov 3 5:01:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:01:01}
+INFO  - Mon Nov 3 5:01:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 5:01:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:01:01 }<br/>
+INFO  - Mon Nov 3 5:01:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009183 }<br/>
+INFO  - Mon Nov 3 5:02:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414990921.546866}
+INFO  - Mon Nov 3 5:02:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:02:01}
+INFO  - Mon Nov 3 5:02:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:02:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:02:01 }<br/>
+INFO  - Mon Nov 3 5:02:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005897 }<br/>
+INFO  - Mon Nov 3 5:03:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414990981.411654}
+INFO  - Mon Nov 3 5:03:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:03:01}
+INFO  - Mon Nov 3 5:03:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000001 }
+
+INFO  - Mon Nov 3 5:03:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:03:01 }<br/>
+INFO  - Mon Nov 3 5:03:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005040 }<br/>
+INFO  - Mon Nov 3 5:04:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414991041.431045}
+INFO  - Mon Nov 3 5:04:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:04:01}
+INFO  - Mon Nov 3 5:04:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:04:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:04:01 }<br/>
+INFO  - Mon Nov 3 5:04:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004996 }<br/>
+INFO  - Mon Nov 3 5:05:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414991101.715617}
+INFO  - Mon Nov 3 5:05:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:05:01}
+INFO  - Mon Nov 3 5:05:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 5:05:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:05:01 }<br/>
+INFO  - Mon Nov 3 5:05:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006522 }<br/>
+INFO  - Mon Nov 3 5:06:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414991161.339465}
+INFO  - Mon Nov 3 5:06:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:06:01}
+INFO  - Mon Nov 3 5:06:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 5:06:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:06:01 }<br/>
+INFO  - Mon Nov 3 5:06:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009023 }<br/>
+INFO  - Mon Nov 3 5:07:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414991221.172668}
+INFO  - Mon Nov 3 5:07:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:07:01}
+INFO  - Mon Nov 3 5:07:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:07:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:07:01 }<br/>
+INFO  - Mon Nov 3 5:07:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004941 }<br/>
+INFO  - Mon Nov 3 5:08:02 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414991282.004214}
+INFO  - Mon Nov 3 5:08:02 UTC 2014 --> ANDROID::PUSH Start at:: {05:08:02}
+INFO  - Mon Nov 3 5:08:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:08:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:08:02 }<br/>
+INFO  - Mon Nov 3 5:08:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005786 }<br/>
+INFO  - Mon Nov 3 5:09:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414991341.792522}
+INFO  - Mon Nov 3 5:09:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:09:01}
+INFO  - Mon Nov 3 5:09:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:09:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:09:01 }<br/>
+INFO  - Mon Nov 3 5:09:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005156 }<br/>
+INFO  - Mon Nov 3 5:10:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414991401.882383}
+INFO  - Mon Nov 3 5:10:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:10:01}
+INFO  - Mon Nov 3 5:10:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:10:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:10:01 }<br/>
+INFO  - Mon Nov 3 5:10:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005979 }<br/>
+INFO  - Mon Nov 3 5:11:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414991461.479392}
+INFO  - Mon Nov 3 5:11:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:11:01}
+INFO  - Mon Nov 3 5:11:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:11:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:11:01 }<br/>
+INFO  - Mon Nov 3 5:11:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007808 }<br/>
+INFO  - Mon Nov 3 5:12:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414991521.344923}
+INFO  - Mon Nov 3 5:12:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:12:01}
+INFO  - Mon Nov 3 5:12:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:12:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:12:01 }<br/>
+INFO  - Mon Nov 3 5:12:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008356 }<br/>
+INFO  - Mon Nov 3 5:13:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414991581.213760}
+INFO  - Mon Nov 3 5:13:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:13:01}
+INFO  - Mon Nov 3 5:13:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:13:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:13:01 }<br/>
+INFO  - Mon Nov 3 5:13:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006053 }<br/>
+INFO  - Mon Nov 3 5:14:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414991641.111887}
+INFO  - Mon Nov 3 5:14:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:14:01}
+INFO  - Mon Nov 3 5:14:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:14:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:14:01 }<br/>
+INFO  - Mon Nov 3 5:14:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005323 }<br/>
+INFO  - Mon Nov 3 5:15:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414991701.384588}
+INFO  - Mon Nov 3 5:15:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:15:01}
+INFO  - Mon Nov 3 5:15:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:15:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:15:01 }<br/>
+INFO  - Mon Nov 3 5:15:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005050 }<br/>
+INFO  - Mon Nov 3 5:16:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414991761.961296}
+INFO  - Mon Nov 3 5:16:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:16:01}
+INFO  - Mon Nov 3 5:16:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:16:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:16:01 }<br/>
+INFO  - Mon Nov 3 5:16:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005587 }<br/>
+INFO  - Mon Nov 3 5:17:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414991821.794053}
+INFO  - Mon Nov 3 5:17:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:17:01}
+INFO  - Mon Nov 3 5:17:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:17:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:17:01 }<br/>
+INFO  - Mon Nov 3 5:17:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005512 }<br/>
+INFO  - Mon Nov 3 5:18:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414991881.712271}
+INFO  - Mon Nov 3 5:18:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:18:01}
+INFO  - Mon Nov 3 5:18:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:18:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:18:01 }<br/>
+INFO  - Mon Nov 3 5:18:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005103 }<br/>
+INFO  - Mon Nov 3 5:19:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414991941.713225}
+INFO  - Mon Nov 3 5:19:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:19:01}
+INFO  - Mon Nov 3 5:19:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 5:19:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:19:01 }<br/>
+INFO  - Mon Nov 3 5:19:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005825 }<br/>
+INFO  - Mon Nov 3 5:20:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414992001.973312}
+INFO  - Mon Nov 3 5:20:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:20:01}
+INFO  - Mon Nov 3 5:20:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:20:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:20:01 }<br/>
+INFO  - Mon Nov 3 5:20:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005171 }<br/>
+INFO  - Mon Nov 3 5:21:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414992061.586432}
+INFO  - Mon Nov 3 5:21:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:21:01}
+INFO  - Mon Nov 3 5:21:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:21:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:21:01 }<br/>
+INFO  - Mon Nov 3 5:21:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005487 }<br/>
+INFO  - Mon Nov 3 5:22:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414992121.417840}
+INFO  - Mon Nov 3 5:22:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:22:01}
+INFO  - Mon Nov 3 5:22:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:22:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:22:01 }<br/>
+INFO  - Mon Nov 3 5:22:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007313 }<br/>
+INFO  - Mon Nov 3 5:23:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414992181.404847}
+INFO  - Mon Nov 3 5:23:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:23:01}
+INFO  - Mon Nov 3 5:23:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:23:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:23:01 }<br/>
+INFO  - Mon Nov 3 5:23:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006411 }<br/>
+INFO  - Mon Nov 3 5:24:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414992241.243037}
+INFO  - Mon Nov 3 5:24:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:24:01}
+INFO  - Mon Nov 3 5:24:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:24:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:24:01 }<br/>
+INFO  - Mon Nov 3 5:24:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006676 }<br/>
+INFO  - Mon Nov 3 5:25:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414992301.061094}
+INFO  - Mon Nov 3 5:25:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:25:01}
+INFO  - Mon Nov 3 5:25:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 5:25:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:25:01 }<br/>
+INFO  - Mon Nov 3 5:25:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006944 }<br/>
+INFO  - Mon Nov 3 5:26:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414992361.664204}
+INFO  - Mon Nov 3 5:26:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:26:01}
+INFO  - Mon Nov 3 5:26:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:26:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:26:01 }<br/>
+INFO  - Mon Nov 3 5:26:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007977 }<br/>
+INFO  - Mon Nov 3 5:27:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414992421.678090}
+INFO  - Mon Nov 3 5:27:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:27:01}
+INFO  - Mon Nov 3 5:27:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:27:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:27:01 }<br/>
+INFO  - Mon Nov 3 5:27:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005706 }<br/>
+INFO  - Mon Nov 3 5:28:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414992481.561956}
+INFO  - Mon Nov 3 5:28:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:28:01}
+INFO  - Mon Nov 3 5:28:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:28:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:28:01 }<br/>
+INFO  - Mon Nov 3 5:28:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005118 }<br/>
+INFO  - Mon Nov 3 5:29:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414992541.405792}
+INFO  - Mon Nov 3 5:29:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:29:01}
+INFO  - Mon Nov 3 5:29:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:29:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:29:01 }<br/>
+INFO  - Mon Nov 3 5:29:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004988 }<br/>
+INFO  - Mon Nov 3 5:30:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414992601.423964}
+INFO  - Mon Nov 3 5:30:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:30:01}
+INFO  - Mon Nov 3 5:30:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:30:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:30:01 }<br/>
+INFO  - Mon Nov 3 5:30:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006928 }<br/>
+INFO  - Mon Nov 3 5:31:02 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414992662.018977}
+INFO  - Mon Nov 3 5:31:02 UTC 2014 --> ANDROID::PUSH Start at:: {05:31:02}
+INFO  - Mon Nov 3 5:31:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:31:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:31:02 }<br/>
+INFO  - Mon Nov 3 5:31:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008219 }<br/>
+INFO  - Mon Nov 3 5:32:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414992721.053410}
+INFO  - Mon Nov 3 5:32:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:32:01}
+INFO  - Mon Nov 3 5:32:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:32:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:32:01 }<br/>
+INFO  - Mon Nov 3 5:32:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004677 }<br/>
+INFO  - Mon Nov 3 5:33:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414992781.885478}
+INFO  - Mon Nov 3 5:33:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:33:01}
+INFO  - Mon Nov 3 5:33:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 5:33:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:33:01 }<br/>
+INFO  - Mon Nov 3 5:33:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.007549 }<br/>
+INFO  - Mon Nov 3 5:34:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414992841.630566}
+INFO  - Mon Nov 3 5:34:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:34:01}
+INFO  - Mon Nov 3 5:34:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:34:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:34:01 }<br/>
+INFO  - Mon Nov 3 5:34:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004638 }<br/>
+INFO  - Mon Nov 3 5:35:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414992901.648783}
+INFO  - Mon Nov 3 5:35:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:35:01}
+INFO  - Mon Nov 3 5:35:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 5:35:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:35:01 }<br/>
+INFO  - Mon Nov 3 5:35:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005125 }<br/>
+INFO  - Mon Nov 3 5:36:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414992961.267742}
+INFO  - Mon Nov 3 5:36:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:36:01}
+INFO  - Mon Nov 3 5:36:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 5:36:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:36:01 }<br/>
+INFO  - Mon Nov 3 5:36:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009580 }<br/>
+INFO  - Mon Nov 3 5:37:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414993021.993299}
+INFO  - Mon Nov 3 5:37:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:37:01}
+INFO  - Mon Nov 3 5:37:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:37:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:37:01 }<br/>
+INFO  - Mon Nov 3 5:37:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005314 }<br/>
+INFO  - Mon Nov 3 5:38:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414993081.804467}
+INFO  - Mon Nov 3 5:38:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:38:01}
+INFO  - Mon Nov 3 5:38:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:38:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:38:01 }<br/>
+INFO  - Mon Nov 3 5:38:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005647 }<br/>
+INFO  - Mon Nov 3 5:39:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414993141.671977}
+INFO  - Mon Nov 3 5:39:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:39:01}
+INFO  - Mon Nov 3 5:39:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:39:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:39:01 }<br/>
+INFO  - Mon Nov 3 5:39:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005484 }<br/>
+INFO  - Mon Nov 3 5:40:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414993201.712075}
+INFO  - Mon Nov 3 5:40:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:40:01}
+INFO  - Mon Nov 3 5:40:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 5:40:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:40:01 }<br/>
+INFO  - Mon Nov 3 5:40:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008488 }<br/>
+INFO  - Mon Nov 3 5:41:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414993261.305375}
+INFO  - Mon Nov 3 5:41:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:41:01}
+INFO  - Mon Nov 3 5:41:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:41:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:41:01 }<br/>
+INFO  - Mon Nov 3 5:41:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005574 }<br/>
+INFO  - Mon Nov 3 5:42:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414993321.309187}
+INFO  - Mon Nov 3 5:42:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:42:01}
+INFO  - Mon Nov 3 5:42:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:42:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:42:01 }<br/>
+INFO  - Mon Nov 3 5:42:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005608 }<br/>
+INFO  - Mon Nov 3 5:43:02 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414993382.044036}
+INFO  - Mon Nov 3 5:43:02 UTC 2014 --> ANDROID::PUSH Start at:: {05:43:02}
+INFO  - Mon Nov 3 5:43:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:43:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:43:02 }<br/>
+INFO  - Mon Nov 3 5:43:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005150 }<br/>
+INFO  - Mon Nov 3 5:44:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414993441.914912}
+INFO  - Mon Nov 3 5:44:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:44:01}
+INFO  - Mon Nov 3 5:44:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:44:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:44:01 }<br/>
+INFO  - Mon Nov 3 5:44:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004862 }<br/>
+INFO  - Mon Nov 3 5:45:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414993501.144754}
+INFO  - Mon Nov 3 5:45:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:45:01}
+INFO  - Mon Nov 3 5:45:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:45:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:45:01 }<br/>
+INFO  - Mon Nov 3 5:45:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009711 }<br/>
+INFO  - Mon Nov 3 5:46:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414993561.725073}
+INFO  - Mon Nov 3 5:46:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:46:01}
+INFO  - Mon Nov 3 5:46:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:46:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:46:01 }<br/>
+INFO  - Mon Nov 3 5:46:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005138 }<br/>
+INFO  - Mon Nov 3 5:47:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414993621.473913}
+INFO  - Mon Nov 3 5:47:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:47:01}
+INFO  - Mon Nov 3 5:47:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:47:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:47:01 }<br/>
+INFO  - Mon Nov 3 5:47:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006069 }<br/>
+INFO  - Mon Nov 3 5:48:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414993681.361249}
+INFO  - Mon Nov 3 5:48:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:48:01}
+INFO  - Mon Nov 3 5:48:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:48:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:48:01 }<br/>
+INFO  - Mon Nov 3 5:48:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005248 }<br/>
+INFO  - Mon Nov 3 5:49:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414993741.250737}
+INFO  - Mon Nov 3 5:49:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:49:01}
+INFO  - Mon Nov 3 5:49:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:49:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:49:01 }<br/>
+INFO  - Mon Nov 3 5:49:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009529 }<br/>
+INFO  - Mon Nov 3 5:50:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414993801.184778}
+INFO  - Mon Nov 3 5:50:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:50:01}
+INFO  - Mon Nov 3 5:50:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 5:50:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:50:01 }<br/>
+INFO  - Mon Nov 3 5:50:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006586 }<br/>
+INFO  - Mon Nov 3 5:51:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414993861.781678}
+INFO  - Mon Nov 3 5:51:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:51:01}
+INFO  - Mon Nov 3 5:51:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:51:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:51:01 }<br/>
+INFO  - Mon Nov 3 5:51:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005882 }<br/>
+INFO  - Mon Nov 3 5:52:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414993921.826718}
+INFO  - Mon Nov 3 5:52:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:52:01}
+INFO  - Mon Nov 3 5:52:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:52:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:52:01 }<br/>
+INFO  - Mon Nov 3 5:52:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009582 }<br/>
+INFO  - Mon Nov 3 5:53:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414993981.693459}
+INFO  - Mon Nov 3 5:53:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:53:01}
+INFO  - Mon Nov 3 5:53:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:53:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:53:01 }<br/>
+INFO  - Mon Nov 3 5:53:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005691 }<br/>
+INFO  - Mon Nov 3 5:54:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414994041.355134}
+INFO  - Mon Nov 3 5:54:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:54:01}
+INFO  - Mon Nov 3 5:54:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:54:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:54:01 }<br/>
+INFO  - Mon Nov 3 5:54:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005366 }<br/>
+INFO  - Mon Nov 3 5:55:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414994101.453983}
+INFO  - Mon Nov 3 5:55:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:55:01}
+INFO  - Mon Nov 3 5:55:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:55:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:55:01 }<br/>
+INFO  - Mon Nov 3 5:55:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005366 }<br/>
+INFO  - Mon Nov 3 5:56:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414994161.079246}
+INFO  - Mon Nov 3 5:56:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:56:01}
+INFO  - Mon Nov 3 5:56:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 5:56:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:56:01 }<br/>
+INFO  - Mon Nov 3 5:56:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008369 }<br/>
+INFO  - Mon Nov 3 5:57:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414994221.954849}
+INFO  - Mon Nov 3 5:57:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:57:01}
+INFO  - Mon Nov 3 5:57:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:57:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:57:01 }<br/>
+INFO  - Mon Nov 3 5:57:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005651 }<br/>
+INFO  - Mon Nov 3 5:58:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414994281.991953}
+INFO  - Mon Nov 3 5:58:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:58:01}
+INFO  - Mon Nov 3 5:58:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 5:58:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:58:01 }<br/>
+INFO  - Mon Nov 3 5:58:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006704 }<br/>
+INFO  - Mon Nov 3 5:59:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414994341.792405}
+INFO  - Mon Nov 3 5:59:01 UTC 2014 --> ANDROID::PUSH Start at:: {05:59:01}
+INFO  - Mon Nov 3 5:59:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 5:59:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 05:59:01 }<br/>
+INFO  - Mon Nov 3 5:59:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006096 }<br/>
+INFO  - Mon Nov 3 6:00:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414994401.808837}
+INFO  - Mon Nov 3 6:00:01 UTC 2014 --> ANDROID::PUSH Start at:: {06:00:01}
+INFO  - Mon Nov 3 6:00:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 6:00:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 06:00:01 }<br/>
+INFO  - Mon Nov 3 6:00:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006025 }<br/>
+INFO  - Mon Nov 3 6:01:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414994461.416354}
+INFO  - Mon Nov 3 6:01:01 UTC 2014 --> ANDROID::PUSH Start at:: {06:01:01}
+INFO  - Mon Nov 3 6:01:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 6:01:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 06:01:01 }<br/>
+INFO  - Mon Nov 3 6:01:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009931 }<br/>
+INFO  - Mon Nov 3 6:02:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414994521.140440}
+INFO  - Mon Nov 3 6:02:01 UTC 2014 --> ANDROID::PUSH Start at:: {06:02:01}
+INFO  - Mon Nov 3 6:02:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 6:02:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 06:02:01 }<br/>
+INFO  - Mon Nov 3 6:02:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008280 }<br/>
+INFO  - Mon Nov 3 6:03:02 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414994582.008802}
+INFO  - Mon Nov 3 6:03:02 UTC 2014 --> ANDROID::PUSH Start at:: {06:03:02}
+INFO  - Mon Nov 3 6:03:02 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 6:03:02 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 06:03:02 }<br/>
+INFO  - Mon Nov 3 6:03:02 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005338 }<br/>
+INFO  - Mon Nov 3 6:04:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414994641.738994}
+INFO  - Mon Nov 3 6:04:01 UTC 2014 --> ANDROID::PUSH Start at:: {06:04:01}
+INFO  - Mon Nov 3 6:04:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 6:04:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 06:04:01 }<br/>
+INFO  - Mon Nov 3 6:04:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005659 }<br/>
+INFO  - Mon Nov 3 6:05:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414994701.921046}
+INFO  - Mon Nov 3 6:05:01 UTC 2014 --> ANDROID::PUSH Start at:: {06:05:01}
+INFO  - Mon Nov 3 6:05:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 6:05:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 06:05:01 }<br/>
+INFO  - Mon Nov 3 6:05:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006847 }<br/>
+INFO  - Mon Nov 3 6:06:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414994761.570661}
+INFO  - Mon Nov 3 6:06:01 UTC 2014 --> ANDROID::PUSH Start at:: {06:06:01}
+INFO  - Mon Nov 3 6:06:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 6:06:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 06:06:01 }<br/>
+INFO  - Mon Nov 3 6:06:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.009569 }<br/>
+INFO  - Mon Nov 3 6:07:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414994821.440952}
+INFO  - Mon Nov 3 6:07:01 UTC 2014 --> ANDROID::PUSH Start at:: {06:07:01}
+INFO  - Mon Nov 3 6:07:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 6:07:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 06:07:01 }<br/>
+INFO  - Mon Nov 3 6:07:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.006131 }<br/>
+INFO  - Mon Nov 3 6:08:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414994881.269594}
+INFO  - Mon Nov 3 6:08:01 UTC 2014 --> ANDROID::PUSH Start at:: {06:08:01}
+INFO  - Mon Nov 3 6:08:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 6:08:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 06:08:01 }<br/>
+INFO  - Mon Nov 3 6:08:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005034 }<br/>
+INFO  - Mon Nov 3 6:09:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414994941.242202}
+INFO  - Mon Nov 3 6:09:01 UTC 2014 --> ANDROID::PUSH Start at:: {06:09:01}
+INFO  - Mon Nov 3 6:09:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000003 }
+
+INFO  - Mon Nov 3 6:09:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 06:09:01 }<br/>
+INFO  - Mon Nov 3 6:09:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.004642 }<br/>
+INFO  - Mon Nov 3 6:10:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414995001.237636}
+INFO  - Mon Nov 3 6:10:01 UTC 2014 --> ANDROID::Total Number Of Users Register for sendpush() :: 1
+
+INFO  - Mon Nov 3 6:10:01 UTC 2014 --> ANDROID::Response Recieved:: Array
+https://android.googleapis.com/gcm/send
+{"multicast_id":8651764567583093329,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1414995002085856%38894435f9fd7ecd"}]}
+
+INFO  - Mon Nov 3 6:10:01 UTC 2014 --> ANDROID::PUSH Start at:: {06:10:01}
+INFO  - Mon Nov 3 6:10:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 6:10:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 06:10:01 }<br/>
+INFO  - Mon Nov 3 6:10:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.310942 }<br/>
+INFO  - Mon Nov 3 6:11:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414995061.879880}
+INFO  - Mon Nov 3 6:11:01 UTC 2014 --> ANDROID::PUSH Start at:: {06:11:01}
+INFO  - Mon Nov 3 6:11:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000004 }
+
+INFO  - Mon Nov 3 6:11:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 06:11:01 }<br/>
+INFO  - Mon Nov 3 6:11:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005982 }<br/>
+INFO  - Mon Nov 3 6:12:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414995121.855401}
+INFO  - Mon Nov 3 6:12:01 UTC 2014 --> ANDROID::PUSH Start at:: {06:12:01}
+INFO  - Mon Nov 3 6:12:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 6:12:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 06:12:01 }<br/>
+INFO  - Mon Nov 3 6:12:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.005774 }<br/>
+INFO  - Mon Nov 3 6:13:01 UTC 2014 --> ANDROID::Push Insertion Start at:: {1414995181.585973}
+INFO  - Mon Nov 3 6:13:01 UTC 2014 --> ANDROID::PUSH Start at:: {06:13:01}
+INFO  - Mon Nov 3 6:13:01 UTC 2014 --> ANDROID::PUSH Total Time::'{ Total Time:: 0.000002 }
+
+INFO  - Mon Nov 3 6:13:01 UTC 2014 --> ANDROID::Cron START Time::'{ START Time:: 06:13:01 }<br/>
+INFO  - Mon Nov 3 6:13:01 UTC 2014 --> ANDROID::Cron END Time::'{ TOTAL Time:: 0.008140 }<br/>

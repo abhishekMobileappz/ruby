@@ -1,0 +1,142 @@
+---
+msg: 195
+title: You have received a new clue
+---
+- '{"multicast_id":7271283580171502383,"success":1,"failure":2,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412175126470022%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}'
+---
+msg: 195
+title: You have received a new clue
+---
+- '{"multicast_id":7712550409552270715,"success":1,"failure":2,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412175228387421%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}'
+---
+msg: 195
+title: You have received a new clue
+---
+- '{"multicast_id":8135220333361087060,"success":1,"failure":2,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412175297218448%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}'
+---
+msg: 195
+title: You have received a new clue
+---
+- '{"multicast_id":7271993563366114154,"success":1,"failure":2,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412175394751924%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}'
+---
+msg: 195
+title: You have received a new clue
+---
+- '{"multicast_id":5517763962912132068,"success":1,"failure":2,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412176609470604%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  You have completed 4 consecutive weekly
+  goals and thus your company will be
+  donating an amount X from your behalf to
+  your project.
+title: Congratulation!
+type: bonus
+---
+- '{"multicast_id":6425996044394163135,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  You have completed 4 consecutive weekly
+  goals and thus your company will be
+  donating an amount X from your behalf to
+  your project.
+title: Congratulation!
+type: bonus
+---
+- '{"multicast_id":7786727203342298263,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  You have completed 4 consecutive weekly
+  goals and thus your company will be
+  donating an amount X from your behalf to
+  your project.
+title: Congratulation!
+type: bonus
+---
+- '{"multicast_id":5907410796081788440,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Welcome back to CalTrade fo the first
+  time in this week. You can change your
+  project support today
+title: Project Support Change
+type: project_change
+---
+- '{"multicast_id":6639074958987125607,"success":1,"failure":10,"canonical_ids":1,"results":[{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"registration_id":"APA91bFg1Rv2pPjlPzgew1JQ4Hmp10JE2UMtpQKybPnV8TjfNukn_fWFEqQD5FQVyImhL4XitZ1aeLEqQHV6uLABNwJl1xiYzJyRuuUyX9VrM-YJk4o56opChR1-LleJBeJxNWDwGTLy","message_id":"0:1412178325464028%38894435f9fd7ecd"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"},{"error":"InvalidRegistration"}]}'
+---
+msg: 'Hey  ,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":7354180999214237345,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: 'Hey  ,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":6094125334319139554,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412178327326731%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey  , abhilasha satle has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":8938364136585566834,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: 'Hey  , abhilasha satle has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":7025412509555252077,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412178329059184%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey  , abhilasha satle has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":8073134417654759743,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: 'Hey  , abhilasha satle has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":6988171217193067446,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412178330752143%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey  , abhilasha satle has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":5809651260854143873,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412178331613197%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey  , abhilasha satle has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":6734283039972191709,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: 'Hey  , abhilasha satle has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":8744846102874824830,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412178333318847%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey  , abhilasha satle has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":4808348668807305975,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412178334167959%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey  , abhilasha satle has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":7497159122338111545,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: 'Hey  , abhilasha satle has requested you to join the group smart'
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":8709007809888771503,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: 'Hey  , abhilasha satle has requested you to join the group smart'
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":7807408041376264958,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bH_TiMnH_p0qNnGhzBC9PYe6AAKrFCPUu3mXpyo-OZXGJop1uD3ssodR2jzbQMqjkMlT16huEH-s_Xtbog8kVeMylGIKJjlKwFpAZiA6ZNtaZoTbGir6DpTRAAOm50rjddrKsW4h9kthrBeg5pC9hKqbB26jw","message_id":"0:1412178336687603%38894435f9fd7ecd"}]}'

@@ -1,0 +1,12 @@
+RewriteEngine on
+RewriteBase /ccavenuePayment/services/
+
+# Hide the application and system directories by redirecting the request to index.php
+RewriteRule ^(core|logs|models|docs|api) index.php/$1 [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/(.*)/(.*)$ index.php?action=$1&actionMethod=$2&$3 [QSA,L]
+RewriteRule ^(.*)/(.*)?(.*)$ index.php?action=$1&actionMethod=$2&$3 [QSA,L]
+RewriteRule ^(.*)/(.*)$ index.php?action=$1&actionMethod=$2 [QSA,L]
+RewriteRule ^(.*)/(.*)/$ index.php?action=$1&actionMethod=$2 [QSA,L]
+

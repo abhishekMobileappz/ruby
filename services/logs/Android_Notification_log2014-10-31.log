@@ -1,0 +1,45 @@
+---
+msg: >
+  Hey super man, mobileappz test has
+  requested you to join the group group1
+title: Group Invitation
+type: group_invitation
+id: 35
+---
+- '{"multicast_id":6493572348622630935,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1414763823196467%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey super man, mobileappz test has
+  requested you to join the group group1
+title: Group Invitation
+type: group_invitation
+id: 35
+---
+- '{"multicast_id":6449287911008140494,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1414764123455366%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey super man, mobileappz test has
+  requested you to join the group group1
+title: Group Invitation
+type: group_invitation
+id: 35
+---
+- '{"multicast_id":7382704617541110595,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey super man, mobileappz test has
+  requested you to join the group group1
+title: Group Invitation
+type: group_invitation
+id: 35
+---
+- '{"multicast_id":4766582976281755632,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey super man, mobileappz test has
+  requested you to join the group group1
+title: Group Invitation
+type: group_invitation
+id: 35
+---
+- '{"multicast_id":7968609888620538808,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'

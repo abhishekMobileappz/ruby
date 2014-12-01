@@ -1,0 +1,47 @@
+---
+msg: >
+  Hey super man, mobileappz test has
+  requested you to join the group group1
+title: Group Invitation
+type: group_invitation
+id: 35
+---
+- '{"multicast_id":8156841299096641392,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1414838942642340%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey super man, mobileappz test has
+  requested you to join the group group1
+title: Group Invitation
+type: group_invitation
+id: 35
+---
+- '{"multicast_id":5166689325767531251,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1414839482393390%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey Wye Yee Yong (WV), Mathilde Forslund
+  has requested you to join the group
+  mathilde wvi group
+title: Group Invitation
+type: group_invitation
+id: 51
+---
+- '{"multicast_id":8923198947772555075,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Ellen Chan, Mathilde Forslund has
+  requested you to join the group mathilde
+  wvi group
+title: Group Invitation
+type: group_invitation
+id: 51
+---
+- '{"multicast_id":8345263779496727968,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1414850342592038%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey super man, mobileappz test has
+  requested you to join the group group1
+title: Group Invitation
+type: group_invitation
+id: 35
+---
+- '{"multicast_id":8364554563814737157,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'

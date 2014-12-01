@@ -1,0 +1,17 @@
+---
+msg: >
+  Your supported project is blocked by
+  administrator. You can change your
+  project support now.
+title: Project Blocked
+type: project_change
+---
+- '{"multicast_id":5441444709094019220,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey vineet S2, vineet iphone has
+  requested you to join the group nature
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":7104292114360466823,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413120662567978%38894435f9fd7ecd"}]}'

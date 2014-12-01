@@ -1,0 +1,27 @@
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+---
+- '{"multicast_id":5070434290485503064,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413361946531160%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+---
+- '{"multicast_id":6026453655925393884,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413365872989982%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+---
+- '{"multicast_id":5429151192673345106,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413366767893100%38894435f9fd7ecd"}]}'

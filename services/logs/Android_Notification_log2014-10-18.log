@@ -1,0 +1,86 @@
+---
+msg: >
+  Hey GW Teoh, Christopher Chew has
+  requested you to join the group madness
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":8453546699354571096,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413612602514026%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey super man, Christopher Chew has
+  requested you to join the group madness
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":7921217363741525845,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413612662946682%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey super man, Christopher Chew has
+  requested you to join the group Madness
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":6763440536128916769,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bEVOokv71g5OiKuArfWoOdZ3bHhPnMaq3KPxnjD_1hQ5louFyMrqB9rWNw0JsxOr6-XEKyith31ce_6qZ3MfAeJ_awR9Q7X047iPGf-gm-WA4n7s5XiXcVVtqez0kVaKDu-CaRt94RdJ1wyE8SPvt6lQltbGA","message_id":"0:1413613142592761%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey GW Teoh, Christopher Chew has
+  requested you to join the group Madness
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":8491580019633330254,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413613142705520%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey mobileappz test, Christopher Chew
+    has requested you to join the group
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":7475021831331355148,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413613503323722%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey mobileappz test, Christopher Chew
+  has requested you to join the group
+  Madness
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":6724541698356128493,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413613503451229%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Your company is no longer supporting
+  this project. You can change your
+  project support now.
+title: Project Unsupported
+type: project_change
+---
+- '{"multicast_id":8325420705385189188,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413643443426463%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Your company is no longer supporting
+  this project. You can change your
+  project support now.
+title: Project Unsupported
+type: project_change
+---
+- '{"multicast_id":6106697532729188031,"success":2,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413643443535136%38894435f9fd7ecd"},{"message_id":"0:1413643443534942%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Your company is no longer supporting
+  this project. You can change your
+  project support now.
+title: Project Unsupported
+type: project_change
+---
+- '{"multicast_id":8008968667162513548,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413643922793999%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey seira ooi, Daniel Eckert has
+  requested you to join the group one goal
+  group 1
+title: Group Invitation
+type: group_invitation
+---
+- '{"multicast_id":5316218228712692457,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413662403398291%38894435f9fd7ecd"}]}'

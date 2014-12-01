@@ -1,0 +1,60 @@
+---
+msg: >
+  Hey Wye Yee Tester8 Yong, Daniel Eckert
+  has requested you to join the group
+  Dreamteam
+title: Group Invitation
+type: group_invitation
+id: 24
+---
+- '{"multicast_id":7565120057419997376,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Tester8 Yong, Daniel Eckert has
+  requested you to join the group
+  Dreamteam
+title: Group Invitation
+type: group_invitation
+id: 24
+---
+- '{"multicast_id":6393364047138403087,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Wye Yee Tester8 Yong, Daniel Eckert
+  has requested you to join the group
+  Dreamteam
+title: Group Invitation
+type: group_invitation
+id: 24
+---
+- '{"multicast_id":4957299573872118905,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Wye Yee Tester8 Yong, Daniel Eckert
+  has requested you to join the group
+  Dreamteam
+title: Group Invitation
+type: group_invitation
+id: 24
+---
+- '{"multicast_id":7019866323021522951,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Tester3 Yong, Daniel Eckert has
+  requested you to join the group
+  Dreamteam
+title: Group Invitation
+type: group_invitation
+id: 24
+---
+- '{"multicast_id":8308418110104579059,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Tester8 Yong, Daniel Eckert has
+  requested you to join the group
+  Dreamteam
+title: Group Invitation
+type: group_invitation
+id: 24
+---
+- '{"multicast_id":7000684156827049349,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'

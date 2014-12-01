@@ -1,0 +1,83 @@
+---
+msg: >
+  Hey super man, GW Teoh has requested you
+  to join the group gek we grouo
+title: Group Invitation
+type: group_invitation
+id: 37
+---
+- '{"multicast_id":8376079398724069213,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey seira ooi, GW Teoh has requested you
+  to join the group gek we grouo
+title: Group Invitation
+type: group_invitation
+id: 37
+---
+- '{"multicast_id":8664952362797373685,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Wye Yee Tester8 Yong, GW Teoh has
+  requested you to join the group gek we
+  grouo
+title: Group Invitation
+type: group_invitation
+id: 37
+---
+- '{"multicast_id":7632182280607034510,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Tester8 Yong, GW Teoh has requested
+  you to join the group gek we grouo
+title: Group Invitation
+type: group_invitation
+id: 37
+---
+- '{"multicast_id":7823305377469485789,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Tester3 Yong, GW Teoh has requested
+  you to join the group gek we grouo
+title: Group Invitation
+type: group_invitation
+id: 37
+---
+- '{"multicast_id":4814961209165776421,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey super man, GW Teoh has requested you
+  to join the group Gek We group
+title: Group Invitation
+type: group_invitation
+id: 38
+---
+- '{"multicast_id":7551754457921271675,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Wye Yee Tester8 Yong, GW Teoh has
+  requested you to join the group Gek We
+  group
+title: Group Invitation
+type: group_invitation
+id: 38
+---
+- '{"multicast_id":9013820312590180257,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey super man, GW Teoh has requested you
+  to join the group Gek We group
+title: Group Invitation
+type: group_invitation
+id: 38
+---
+- '{"multicast_id":8609538936228707023,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Tester8 Yong, GW Teoh has requested
+  you to join the group Gek We group
+title: Group Invitation
+type: group_invitation
+id: 38
+---
+- '{"multicast_id":6208202401735540957,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'

@@ -1,0 +1,1067 @@
+---
+msg: >
+  Welcome back to CalTrade for the first
+  time in this week. You can change your
+  weekly goal today
+title: Weekly Goal Change
+type: goal_change
+---
+- '{"multicast_id":5026734119417973034,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  Madness
+title: Group Invitation
+type: group_invitation
+id: 12
+---
+- '{"multicast_id":7262946731830598728,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413713943358664%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, mobileappz test has
+  requested you to join the group Madness
+title: Group Invitation
+type: group_invitation
+id: 12
+---
+- '{"multicast_id":5887135903386423298,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413713943485974%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group Madness'
+title: Group Invitation
+type: group_invitation
+id: 12
+---
+- '{"multicast_id":5348466372445968414,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413713943620231%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  Madness
+title: Group Invitation
+type: group_invitation
+id: 12
+---
+- '{"multicast_id":5764679377705022787,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413714422707285%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  Madness
+title: Group Invitation
+type: group_invitation
+id: 12
+---
+- '{"multicast_id":4999113633396564180,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413714782764312%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  Madness
+title: Group Invitation
+type: group_invitation
+id: 12
+---
+- '{"multicast_id":4830707406928590956,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413714842606865%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  Madness
+title: Group Invitation
+type: group_invitation
+id: 12
+---
+- '{"multicast_id":8445255949709291438,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413715022958051%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":4783555702823102827,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413715382390079%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":5735849787145552350,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413715503275142%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, mobileappz test has
+  requested you to join the group group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":5301801969914166642,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413715742649615%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":7246093885660581679,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413717723211627%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, mobileappz test has
+  requested you to join the group group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":7008634716156700045,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413717723352359%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group group1'
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":8952738496680633022,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413717723484492%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":7973467158986671766,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413717842697166%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, mobileappz test has
+  requested you to join the group group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":4822142261313535107,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413717842820747%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group group1'
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":8039539157997269017,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413717842936946%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":6303966160530400417,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413718263689722%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, mobileappz test has
+  requested you to join the group group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":8603908974019150437,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413718263920375%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group group1'
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":7734294302935637548,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413718264168425%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":5723033730528756366,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413718382549085%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":8128615903775731100,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413718382664381%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":8619815237666417490,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413718442663388%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":7993059818208656981,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413718442768486%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":8944131033544353895,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413718442913428%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":5800240894010916667,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413718502528784%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":6803521937361502369,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413718502667592%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":4691717364807322839,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413718502784247%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":5802329811028389673,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413718742895797%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":6403443581709255227,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413718743023617%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":6353399347993730049,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413718743130562%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":8407183643444672979,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":5894650554962743463,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":8742782905406583177,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":6504421693496325099,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":8532483551468774459,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":8937982935662230007,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":6080916316268391564,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413719882828937%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":7665515609942743433,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413719882961990%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":5290972081221482153,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413719883084057%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":8094765070707461444,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413720303576778%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":4859333699188087551,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413720303700887%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":6587448404970618804,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413720303813034%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":7224079010127209082,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413720423129034%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":7546121131018831826,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413720423259385%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":7654348283106340126,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413720423388864%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":8355494960152491390,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413720602852989%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":4872415885858999377,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413720602985722%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":4922780343916554807,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413720603117077%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":6273899536128781910,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413720783367513%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":4678142610055679858,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413720783529862%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":7757694979213318707,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413720783660000%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":6432723162193566161,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413721202681561%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":7715616842164021291,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413721202790728%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":6213065202421739328,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413721202909934%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Your company is no longer supporting
+  this project. You can change your
+  project support now.
+title: Project Unsupported
+type: project_change
+id: null
+---
+- '{"multicast_id":8865338950905275539,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Your company is no longer supporting
+  this project. You can change your
+  project support now.
+title: Project Unsupported
+type: project_change
+id: null
+---
+- '{"multicast_id":5192834338064061407,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Your company is no longer supporting
+  this project. You can change your
+  project support now.
+title: Project Unsupported
+type: project_change
+id: null
+---
+- '{"multicast_id":6406042454241012098,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Your company is no longer supporting
+  this project. You can change your
+  project support now.
+title: Project Unsupported
+type: project_change
+id: null
+---
+- '{"multicast_id":7006181422760396169,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Your company is no longer supporting
+  this project. You can change your
+  project support now.
+title: Project Unsupported
+type: project_change
+id: null
+---
+- '{"multicast_id":7803586548998548166,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":5028621751633479215,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413724142581716%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":5359655786450358506,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413724142685657%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":8328274433912696399,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413724142795152%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":4857600749739698140,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413724322907765%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":4697295637598093701,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413724323042257%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":7425845072604976394,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413724323181775%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":5474724722986763872,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413726003302958%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":5229535984682343653,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413726003435674%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":6731201463119989791,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413726003544238%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- |
+  |
+    <!DOCTYPE html>
+    <html lang=en>
+      <meta charset=utf-8>
+      <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+      <title>Error 502 (Server Error)!!1</title>
+      <style>
+        *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/errors/logo_sm_2.png) no-repeat}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/errors/logo_sm_2_hr.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/errors/logo_sm_2_hr.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/errors/logo_sm_2_hr.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:55px;width:150px}
+      </style>
+      <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
+      <p><b>502.</b> <ins>That’s an error.</ins>
+      <p>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.  <ins>That’s all we know.</ins>
+    
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":5858166362042436259,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413726363764054%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":5980709576119094764,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413726363879116%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":6357384660392090136,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413726483056947%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":6949094028979762867,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413726483169360%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":6390744296779017520,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413726483288685%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":6031006614713753175,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413726542933202%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":8350015916612514061,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413726543060120%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":8617070859894216818,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413726543166518%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":4890345041434265999,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413726723425614%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":7094695540205138562,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413726723555674%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":5562748222448649398,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413726723667787%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":6339759844183470913,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413742262383148%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":7542921486986458299,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413742262513627%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":7413221078554232646,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413742262626821%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":8620646730947853777,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413742382223876%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":8913574546872220388,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413742382341420%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":8479217907914473731,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413742382483217%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":6294858111697761196,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413742562446952%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":7244578579009395667,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413742562558372%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":6040715814074393050,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413742562680958%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":6475985793503010376,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413742982498100%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":4756557532758359945,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413742982606580%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":8978607861190104458,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413742982747707%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":7998933583705163636,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413743402568182%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":6363570696438483437,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413743402694884%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":7833530002205292484,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413743402843932%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":8682846026108951606,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413743462129923%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":8734529125595717159,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413743462258853%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":5415694991427074182,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413743462381996%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, androidHCT testing
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":8224106282136846236,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413743642068719%38894435f9fd7ecd"}]}'
+---
+msg: |
+  >
+    Hey shilky dhanote, mobileappz test has
+    requested you to join the group
+title: Group Invitation
+type: group_invitation
+id: 9
+---
+- '{"multicast_id":9071124435464832849,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413743642198399%38894435f9fd7ecd"}]}'
+---
+msg: 'Hey shilky dhanote,   has requested you to join the group '
+title: Group Invitation
+type: group_invitation
+id: 10
+---
+- '{"multicast_id":7203960801183944030,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413743642311072%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":8615946396813946826,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413743822470063%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey shilky dhanote, abhishek shrivastava
+  has requested you to join the group
+  group1
+title: Group Invitation
+type: group_invitation
+id: 8
+---
+- '{"multicast_id":7213293768125781559,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413743822596730%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey Daniel Eckert, Wye Yee Tester8 Yong
+  has requested you to join the group
+  Dreams
+title: Group Invitation
+type: group_invitation
+id: 23
+---
+- '{"multicast_id":8780688831916187165,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413750962772326%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey seira ooi, Wye Yee Tester8 Yong has
+  requested you to join the group Dreams
+title: Group Invitation
+type: group_invitation
+id: 23
+---
+- '{"multicast_id":9147528145830066049,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413750962916838%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey Daniel Eckert, Wye Yee Tester8 Yong
+  has requested you to join the group
+  Dreams
+title: Group Invitation
+type: group_invitation
+id: 23
+---
+- '{"multicast_id":7930538556583092208,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413751082425958%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey Tester8 Yong, Wye Yee Tester8 Yong
+  has requested you to join the group
+  Dreams
+title: Group Invitation
+type: group_invitation
+id: 23
+---
+- '{"multicast_id":6600041735662722843,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Daniel Eckert, Wye Yee Tester8 Yong
+  has requested you to join the group
+  Dreams
+title: Group Invitation
+type: group_invitation
+id: 23
+---
+- '{"multicast_id":7932484542621598153,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413751802611717%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey seira ooi, Wye Yee Tester8 Yong has
+  requested you to join the group Dreams
+title: Group Invitation
+type: group_invitation
+id: 23
+---
+- '{"multicast_id":5566724503436584134,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413752042304634%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey Daniel Eckert, Wye Yee Tester8 Yong
+  has requested you to join the group
+  Dreams
+title: Group Invitation
+type: group_invitation
+id: 23
+---
+- '{"multicast_id":9169148208375422158,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413752042439250%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey Daniel Eckert, Wye Yee Tester8 Yong
+  has requested you to join the group
+  Dreams
+title: Group Invitation
+type: group_invitation
+id: 23
+---
+- '{"multicast_id":5285771195017722346,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413752521867700%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey seira ooi, Wye Yee Tester8 Yong has
+  requested you to join the group Dreams
+title: Group Invitation
+type: group_invitation
+id: 23
+---
+- '{"multicast_id":6980280635690563812,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1413752521997984%38894435f9fd7ecd"}]}'
+---
+msg: >
+  Hey Wye Yee Tester8 Yong, Daniel Eckert
+  has requested you to join the group
+  Dreamteam
+title: Group Invitation
+type: group_invitation
+id: 24
+---
+- '{"multicast_id":5250089067600766699,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Tester8 Yong, Daniel Eckert has
+  requested you to join the group
+  Dreamteam
+title: Group Invitation
+type: group_invitation
+id: 24
+---
+- '{"multicast_id":8618906235137633491,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'

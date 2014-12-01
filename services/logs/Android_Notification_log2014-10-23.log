@@ -1,0 +1,60 @@
+---
+msg: >
+  Hey super man, Wye Yee Yong has
+  requested you to join the group
+  wyeyee.onegoalasia group
+title: Group Invitation
+type: group_invitation
+id: 36
+---
+- '{"multicast_id":6724283882925647674,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey GW Teoh, Wye Yee Yong has requested
+  you to join the group wyeyee.onegoalasia
+  group
+title: Group Invitation
+type: group_invitation
+id: 36
+---
+- '{"multicast_id":5155137812756443989,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey seira ooi, Wye Yee Yong has
+  requested you to join the group
+  wyeyee.onegoalasia group
+title: Group Invitation
+type: group_invitation
+id: 36
+---
+- '{"multicast_id":5382465209269517400,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Wye Yee Tester8 Yong, Wye Yee Yong
+  has requested you to join the group
+  wyeyee.onegoalasia group
+title: Group Invitation
+type: group_invitation
+id: 36
+---
+- '{"multicast_id":8676636891496307563,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Tester8 Yong, Wye Yee Yong has
+  requested you to join the group
+  wyeyee.onegoalasia group
+title: Group Invitation
+type: group_invitation
+id: 36
+---
+- '{"multicast_id":8287992748044724945,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
+---
+msg: >
+  Hey Tester3 Yong, Wye Yee Yong has
+  requested you to join the group
+  wyeyee.onegoalasia group
+title: Group Invitation
+type: group_invitation
+id: 36
+---
+- '{"multicast_id":8379071753421237036,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}'
